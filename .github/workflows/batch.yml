@@ -1,0 +1,41 @@
+name: SCPJ Batch
+
+on:
+  schedule:
+    - cron: '0 15 * * *'   # 毎日 UTC 15:00（JST 深夜0時）
+  workflow_dispatch:         # 手動実行（テスト・緊急時用）
+
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run batch
+        run: node src/batch/index.js
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          CONFIG_SHEET_ID: ${{ secrets.CONFIG_SHEET_ID }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+
+      - name: Generate static JSON
+        run: node src/api/generate.js
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          CONFIG_SHEET_ID: ${{ secrets.CONFIG_SHEET_ID }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages

@@ -1,0 +1,18 @@
+{
+  "name": "scpj-api",
+  "version": "1.0.0",
+  "description": "SCPJ スプレッドシートデータの外部向けAPI配信 & J-STAGE連携バッチシステム",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node src/api/generate.js",
+    "batch": "node src/batch/index.js",
+    "check-config": "node src/utils/config.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "xml2js": "^0.6.0"
+  }
+}
