@@ -1,0 +1,102 @@
+{
+  "journal_id": "J003215",
+  "titles": [
+    {
+      "title": "Clinical and Investigative Orthodontics",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": "https://www.tandfonline.com/journals/todw21",
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "13440241"
+    }
+  ],
+  "listed_in_doaj": "DOAJ",
+  "oa_type": "フルOAモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "OK",
+  "society": {
+    "id": "S001828",
+    "name": "日本矯正歯科学会",
+    "name_en": null,
+    "url": "http://www.jos.gr.jp",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00081"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "著者",
+      "licence": "CC BY-NC-ND",
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "必要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "著者",
+      "licence": "CC BY-NC-ND",
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "必要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=todw21",
+  "cdjournal": null,
+  "updated_at": "2025/12/16",
+  "sheet_updated_at": null
+}

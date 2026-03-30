@@ -1,0 +1,106 @@
+{
+  "journal_id": "J003302",
+  "titles": [
+    {
+      "title": "Journal of General and Family Medicine",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "21896577"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897948"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000654",
+    "name": "日本プライマリ・ケア連合学会 (旧日本プライマリ・ケア学会・旧日本家庭医療学会・旧日本総合診療医学会)",
+    "name_en": null,
+    "url": "http://www.primary-care.or.jp",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00916"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://onlinelibrary.wiley.com/page/journal/21897948/homepage/open_access_license_and_copyright.htm",
+  "cdjournal": null,
+  "updated_at": "2021/02/18",
+  "sheet_updated_at": null
+}

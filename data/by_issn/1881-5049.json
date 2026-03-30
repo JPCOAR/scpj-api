@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J002224",
+      "titles": [
+        {
+          "title": "幼児教育史研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "The Japanese Journal of the Historical Studies of Early Childhood Education and Care",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "18815049"
+        },
+        {
+          "type": "electronic",
+          "issn": "24321877"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001973",
+        "name": "幼児教育史学会",
+        "name_en": null,
+        "url": "https://youjikyoikushi.org",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01801"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://youjikyoikushi.org/bulletin/submissions/",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    }
+  ]
+}

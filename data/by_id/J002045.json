@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002045",
+  "titles": [
+    {
+      "title": "産業衛生学雑誌",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "(旧)産業医学",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "13410725"
+    },
+    {
+      "type": "electronic",
+      "issn": "1349533X"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S001793",
+    "name": "日本産業衛生学会",
+    "name_en": null,
+    "url": "https://www.sanei.or.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00101"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.sanei.or.jp/publication/journal/index.html",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

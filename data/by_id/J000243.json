@@ -1,0 +1,102 @@
+{
+  "journal_id": "J000243",
+  "titles": [
+    {
+      "title": "東邦医学会雑誌",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of the Medical Society of Toho University",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "00408670"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000190",
+    "name": "東邦大学医学会",
+    "name_en": null,
+    "url": "http://tms.med.toho-u.ac.jp/",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://tms.med.toho-u.ac.jp/open-doc/rule.html",
+  "cdjournal": null,
+  "updated_at": "2010/03/12",
+  "sheet_updated_at": null
+}

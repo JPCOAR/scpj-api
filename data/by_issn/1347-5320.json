@@ -1,0 +1,852 @@
+{
+  "items": [
+    {
+      "journal_id": "J002848",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002494",
+        "name": "ナノ学会",
+        "name_en": null,
+        "url": "http://www.ac-square.co.jp/nano/index.html",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2011/02/23",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002850",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001554",
+        "name": "資源･素材学会",
+        "name_en": null,
+        "url": "http://www.mmij.or.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00011"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2011/02/23",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002851",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001546",
+        "name": "日本塑性加工学会",
+        "name_en": null,
+        "url": "http://www.jstp.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00549"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.jstp.jp/publication/journal/guide/",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002852",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000575",
+        "name": "日本鋳造工学会",
+        "name_en": null,
+        "url": "http://www.jfs.or.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00118"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2012/01/26",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002853",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001513",
+        "name": "日本熱処理技術協会",
+        "name_en": null,
+        "url": "http://www.jsht.or.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00540"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2021/03/01",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002854",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000704",
+        "name": "日本非破壊検査協会",
+        "name_en": null,
+        "url": null,
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00360"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2021/02/26",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002856",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001544",
+        "name": "日本銅学会（旧称：銅及び銅合金技術研究会）",
+        "name_en": null,
+        "url": "http://www.copper-brass.gr.jp/kenkyukai/index.html",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00524"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2011/02/23",
+      "sheet_updated_at": null
+    },
+    {
+      "journal_id": "J002857",
+      "titles": [
+        {
+          "title": "Materials Transactions",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000288",
+        "name": "日本溶射学会",
+        "name_en": null,
+        "url": "http://www.jtss.or.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00452"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2021/02/18",
+      "sheet_updated_at": null
+    }
+  ]
+}

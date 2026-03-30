@@ -1,0 +1,102 @@
+{
+  "journal_id": "J002295",
+  "titles": [
+    {
+      "title": "スポーツ健康科学研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "(旧)東海保健体育科学",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "03883833"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002043",
+    "name": "東海体育学会",
+    "name_en": null,
+    "url": "http://tspe.sakura.ne.jp/index.html",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://tspe.sakura.ne.jp/thesis/doc/201214toukoukitei.pdf",
+  "cdjournal": null,
+  "updated_at": "2021/01/28",
+  "sheet_updated_at": null
+}

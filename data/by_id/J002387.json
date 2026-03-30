@@ -1,0 +1,97 @@
+{
+  "journal_id": "J002387",
+  "titles": [
+    {
+      "title": "環境法政策学会誌",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002134",
+    "name": "環境法政策学会",
+    "name_en": null,
+    "url": "http://www.kankyoho.net/gakkai/index.html",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01573"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://jaelp.smoosy.atlas.jp/ja/regulations",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

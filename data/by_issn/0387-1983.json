@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J000691",
+      "titles": [
+        {
+          "title": "プレストレストコンクリート",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "03871983"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000574",
+        "name": "プレストレストコンクリート工学会(旧プレストレストコンクリート技術協会）",
+        "name_en": null,
+        "url": "http://www.jpci.or.jp/",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.jpci.or.jp/kkkk/k_001_fr.htm",
+      "cdjournal": null,
+      "updated_at": "2010/03/12",
+      "sheet_updated_at": null
+    }
+  ]
+}

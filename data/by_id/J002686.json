@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002686",
+  "titles": [
+    {
+      "title": "システムダイナミックス",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "13470949"
+    },
+    {
+      "type": "electronic",
+      "issn": "24342025"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002356",
+    "name": "システムダイナミックス学会日本支部",
+    "name_en": null,
+    "url": "http://www.j-s-d.jp/",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": null,
+  "cdjournal": null,
+  "updated_at": "2011/12/15",
+  "sheet_updated_at": null
+}

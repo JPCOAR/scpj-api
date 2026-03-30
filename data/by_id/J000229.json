@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000229",
+  "titles": [
+    {
+      "title": "人文地理",
+      "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Human Geography",
+      "language": "en"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": "https://hgsj.org/kaishi/",
+  "issns": [
+    {
+      "type": "print",
+      "issn": "00187216"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": "購読モデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "不可",
+  "society": {
+    "id": "S000176",
+    "name": "一般社団法人 人文地理学会",
+    "name_en": "The Human Geographical Society of Japan",
+    "url": "https://hgsj.org/",
+    "contact_url": "jimchi48[at]yahoo.co.jp",
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00212"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "学会/出版社",
+      "licence": null,
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "不可",
+        "non_commercial": "不可",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "不要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "学会/出版社",
+      "licence": null,
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "不可",
+        "non_commercial": "不可",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "不要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://hgsj.org/kaishi/toukou/",
+  "cdjournal": null,
+  "updated_at": "2025/09/25",
+  "sheet_updated_at": null
+}

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000811",
+      "titles": [
+        {
+          "title": "腸内細菌学雑誌",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)ビフィズス",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13430882"
+        },
+        {
+          "type": "electronic",
+          "issn": "13498363"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000673",
+        "name": "日本ビフィズス菌センター",
+        "name_en": null,
+        "url": "http://bifidus-fund.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00991"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://bifidus-fund.jp/journal/index.shtml",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    }
+  ]
+}

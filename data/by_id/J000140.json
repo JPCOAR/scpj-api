@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000140",
+  "titles": [
+    {
+      "title": "International Journal of Microgravity Science and Application",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "(旧)JASMA日本マイクログラビティ応用学会誌",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "09153616"
+    },
+    {
+      "type": "electronic",
+      "issn": "21889783"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000108",
+    "name": "日本マイクログラビティ応用学会",
+    "name_en": null,
+    "url": "http://www.jasma.info/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01052"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://www.jasma.info/journal/wp-content/uploads/sites/2/2013/05/be6cfb7235fe110676a6d8500bd8219a.pdf",
+  "cdjournal": null,
+  "updated_at": "2021/03/03",
+  "sheet_updated_at": null
+}

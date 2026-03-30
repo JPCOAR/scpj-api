@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002931",
+  "titles": [
+    {
+      "title": "大学図書館研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of College and University Libraries",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "03860507"
+    },
+    {
+      "type": "electronic",
+      "issn": "2186103X"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002550",
+    "name": "国公私立大学図書館協力委員会",
+    "name_en": null,
+    "url": "https://julib.jp/daitoken_page",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://julib.jp/daitoken_page/instruction_for_authors",
+  "cdjournal": null,
+  "updated_at": "2018/07/06",
+  "sheet_updated_at": null
+}

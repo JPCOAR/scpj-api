@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002332",
+  "titles": [
+    {
+      "title": "環境毒性学会誌（Jpn.J.Envirn.Toxicol）",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "13440667"
+    },
+    {
+      "type": "electronic",
+      "issn": "18825958"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002081",
+    "name": "日本環境毒性学会",
+    "name_en": null,
+    "url": "http://www.intio.or.jp/jset/index.htm",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01497"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://jset.jp/about/rule/20241225.html",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

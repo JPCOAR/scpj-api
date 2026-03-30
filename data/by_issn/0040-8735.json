@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "journal_id": "J002106",
+      "titles": [
+        {
+          "title": "Tohoku Mathematical Journal",
+          "language": "ja"
+        },
+        {
+          "title": "Tohoku Mathematical Journal",
+          "language": "en"
+        }
+      ],
+      "journal_title_alias": "東北数学雑誌",
+      "journal_url": "http://www.math.tohoku.ac.jp/tmj/",
+      "issns": [
+        {
+          "type": "print",
+          "issn": "00408735"
+        },
+        {
+          "type": "electronic",
+          "issn": "2186585X"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": "購読モデル",
+      "oa_type_notes": null,
+      "non_embargo_oa": "出版後即時OA可",
+      "applicability": "OK",
+      "society": {
+        "id": "S001849",
+        "name": "東北大学大学院理学研究科数学専攻",
+        "name_en": "Mathematical Institute, Tohoku University",
+        "url": "http://www.math.tohoku.ac.jp/index.html",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": "学会/出版社",
+          "licence": null,
+          "archivability": "不可",
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": "著者",
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "0",
+            "funded_months": "免除する"
+          },
+          "terms": {
+            "copyright": "不要",
+            "by": "必要",
+            "link": "不要",
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.math.tohoku.ac.jp/tmj/Jopenaccess.html,  http://www.math.tohoku.ac.jp/tmj/Eopenaccess.html",
+      "cdjournal": null,
+      "updated_at": "2025/12/23",
+      "sheet_updated_at": null
+    }
+  ]
+}

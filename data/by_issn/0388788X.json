@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000283",
+      "titles": [
+        {
+          "title": "魚病研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Fish Pathology",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "0388788X"
+        },
+        {
+          "type": "electronic",
+          "issn": "18817335"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000224",
+        "name": "日本魚病学会",
+        "name_en": null,
+        "url": "http://www.fish-pathology.com/",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2010/03/12",
+      "sheet_updated_at": null
+    }
+  ]
+}

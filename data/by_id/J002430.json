@@ -1,0 +1,97 @@
+{
+  "journal_id": "J002430",
+  "titles": [
+    {
+      "title": "全国大学音楽教育学会研究紀要",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002175",
+    "name": "全国大学音楽教育学会",
+    "name_en": null,
+    "url": "http://nacome.com/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01122"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.nacome.com/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

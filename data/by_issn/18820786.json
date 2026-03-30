@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J001706",
+      "titles": [
+        {
+          "title": "Applied Physics Express",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": "https://iopscience.iop.org/journal/1882-0786",
+      "issns": [
+        {
+          "type": "print",
+          "issn": "18820778"
+        },
+        {
+          "type": "electronic",
+          "issn": "18820786"
+        }
+      ],
+      "listed_in_doaj": "DOAJ",
+      "oa_type": "フルOAモデル",
+      "oa_type_notes": null,
+      "non_embargo_oa": "出版後即時OA可",
+      "applicability": "不可",
+      "society": {
+        "id": "S001489",
+        "name": "応用物理学会",
+        "name_en": "Japan Society of Applied Physics",
+        "url": "https://www.jsap.or.jp/",
+        "contact_url": "https://www.jsap.or.jp/infodesk",
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00204"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": "著者",
+          "licence": "CC BY",
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "0",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "必要",
+            "by": "必要",
+            "link": "必要",
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": "著者",
+          "licence": "CC BY",
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "0",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "必要",
+            "by": "必要",
+            "link": "必要",
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": "https://iopscience.iop.org/journal/1347-4065/page/About#OA"
+          }
+        }
+      ],
+      "policy_url": "https://iopscience.iop.org/journal/1882-0786/page/About_the_journal#OA",
+      "cdjournal": null,
+      "updated_at": "2025/12/10",
+      "sheet_updated_at": null
+    }
+  ]
+}

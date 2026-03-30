@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J003222",
+      "titles": [
+        {
+          "title": "脳血管内治療",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "No Kekkannai Chiryo",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "24239119"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241709"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002297",
+        "name": "日本脳神経血管内治療学会",
+        "name_en": null,
+        "url": "http://jsnet.website/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations//gakka"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.jnet-ejournal.org/post/policy.html",
+      "cdjournal": null,
+      "updated_at": "2023/03/07",
+      "sheet_updated_at": null
+    }
+  ]
+}

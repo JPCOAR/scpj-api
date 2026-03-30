@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000051",
+  "titles": [
+    {
+      "title": "科学教育研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of Science Education in Japan",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "03864553"
+    },
+    {
+      "type": "electronic",
+      "issn": "21885338"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000040",
+    "name": "日本科学教育学会",
+    "name_en": null,
+    "url": "https://jsse.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00886"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://jsse.jp/regulation/39-2",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

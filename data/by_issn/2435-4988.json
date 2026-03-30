@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J002373",
+      "titles": [
+        {
+          "title": "アジア教育史研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "09185607"
+        },
+        {
+          "type": "electronic",
+          "issn": "24354988"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002117",
+        "name": "アジア教育史学会",
+        "name_en": null,
+        "url": "http://www.asiakyouikushi.net/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01370"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://asiakyouikushi.wordpress.com/%e6%8a%95%e7%a8%bf%e8%a6%81%e9%a0%98%e3%83%bb%e6%8a%95%e7%a8%bf%e7%94%b3%e8%be%bc%e6%9b%b8/",
+      "cdjournal": null,
+      "updated_at": "2021/01/27",
+      "sheet_updated_at": null
+    }
+  ]
+}

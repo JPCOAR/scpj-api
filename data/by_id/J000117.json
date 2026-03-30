@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000117",
+  "titles": [
+    {
+      "title": "粉体および粉末冶金",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of the Japan Society of Powder and Powder Metallurgy",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "05328799"
+    },
+    {
+      "type": "electronic",
+      "issn": "18809014"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000089",
+    "name": "粉体粉末冶金協会",
+    "name_en": null,
+    "url": "https://www.jspm.or.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00530"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.jspm.or.jp/publications/journal/submissions",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

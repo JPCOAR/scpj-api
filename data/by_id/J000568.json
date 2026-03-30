@@ -1,0 +1,102 @@
+{
+  "journal_id": "J000568",
+  "titles": [
+    {
+      "title": "生活指導研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "09103651"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000470",
+    "name": "日本生活指導学会",
+    "name_en": null,
+    "url": "http://jasg.m47.coreserver.jp/main/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01078"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://jasg.m47.coreserver.jp/main/2016/12/07/%e3%80%8e%e7%94%9f%e6%b4%bb%e6%8c%87%e5%b0%8e%e7%a0%94%e7%a9%b6%e3%80%8f%e7%b7%a8%e9%9b%86%e8%a6%8f%e5%ae%9a/",
+  "cdjournal": null,
+  "updated_at": "2021/03/18",
+  "sheet_updated_at": null
+}

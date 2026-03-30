@@ -1,0 +1,102 @@
+{
+  "journal_id": "J002241",
+  "titles": [
+    {
+      "title": "日本認知言語学会論文集",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Papers from the National Conference of the Japanese Cognitive Linguistics Association",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "13467964"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S001989",
+    "name": "日本認知言語学会",
+    "name_en": null,
+    "url": "http://www.2jcla.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01667"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://www.2jcla.jp/",
+  "cdjournal": null,
+  "updated_at": "2021/03/10",
+  "sheet_updated_at": null
+}

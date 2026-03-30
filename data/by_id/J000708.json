@@ -1,0 +1,110 @@
+{
+  "journal_id": "J000708",
+  "titles": [
+    {
+      "title": "日本栄養・食糧学会誌",
+      "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Society of Nutrition and Food Science",
+      "language": "en"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": "https://www.jstage.jst.go.jp/browse/jsnfs/-char/ja",
+  "issns": [
+    {
+      "type": "print",
+      "issn": "02873516"
+    },
+    {
+      "type": "electronic",
+      "issn": "18832849"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": "ハイブリッドモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "不可",
+  "society": {
+    "id": "S000587",
+    "name": "日本栄養・食糧学会",
+    "name_en": "Japan Society of Nutrition and Food Science",
+    "url": "https://www.jsnfs.or.jp/",
+    "contact_url": "https://www.jsnfs.or.jp/about/about_office.html",
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00189"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "学会/出版社",
+      "licence": null,
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "必要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "学会/出版社",
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": null,
+  "cdjournal": null,
+  "updated_at": "2025/09/08",
+  "sheet_updated_at": null
+}

@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J002480",
+      "titles": [
+        {
+          "title": "学校健康相談研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Studies in School Health Counseling",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "13499661"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002221",
+        "name": "日本学校健康相談学会",
+        "name_en": null,
+        "url": "https://school-health-counseling.jimdofree.com/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01781"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://school-health-counseling.jimdofree.com/%E4%BC%9A%E8%AA%8C/%E8%AB%96%E6%96%87%E3%81%AE%E6%8A%95%E7%A8%BF-%E8%A6%8F%E7%A8%8B-%E6%A7%98%E5%BC%8F/",
+      "cdjournal": null,
+      "updated_at": "2021/03/04",
+      "sheet_updated_at": null
+    }
+  ]
+}

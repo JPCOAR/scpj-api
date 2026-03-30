@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000598",
+      "titles": [
+        {
+          "title": "交通史研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Japanese Society of the History of Transport and Communications",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "09137300"
+        },
+        {
+          "type": "electronic",
+          "issn": "2424225X"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000499",
+        "name": "交通史学会",
+        "name_en": null,
+        "url": "https://www.kotsushi.org/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00836"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://kotsushi.org/wp_site/%E4%BC%9A%E8%AA%8C%E5%8E%9F%E7%A8%BF%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    }
+  ]
+}

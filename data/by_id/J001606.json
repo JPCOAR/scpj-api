@@ -1,0 +1,110 @@
+{
+  "journal_id": "J001606",
+  "titles": [
+    {
+      "title": "日本経営学会誌",
+      "language": "ja"
+    },
+    {
+      "title": "Journal of business management",
+      "language": "en"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "18820271"
+    },
+    {
+      "type": "electronic",
+      "issn": "24242055"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": "ハイブリッドモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": "OK",
+  "society": {
+    "id": "S001393",
+    "name": "日本経営学会",
+    "name_en": "Japan Academy of Business Administration",
+    "url": "https://keiei-gakkai.jp/keieigakkai/",
+    "contact_url": "https://keiei-gakkai.jp/keieigakkai/",
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00079"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "著者",
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "著者",
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://keiei-gakkai.jp/keieigakkaishi/",
+  "cdjournal": null,
+  "updated_at": "2025/12/06",
+  "sheet_updated_at": null
+}

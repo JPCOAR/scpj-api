@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J001645",
+      "titles": [
+        {
+          "title": "形態・機能",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Structure and Function",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13477145"
+        },
+        {
+          "type": "electronic",
+          "issn": "18846084"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001432",
+        "name": "コ・メディカル形態機能学会",
+        "name_en": null,
+        "url": "http://keitai-kinou.jp/index.html",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01718"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://keitai-kinou.jp/magazine.html#list02",
+      "cdjournal": null,
+      "updated_at": "2021/02/12",
+      "sheet_updated_at": null
+    }
+  ]
+}

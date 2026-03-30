@@ -1,0 +1,106 @@
+{
+  "journal_id": "J003251",
+  "titles": [
+    {
+      "title": "昭和学士会雑誌",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of The Showa University Society",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "2187719X"
+    },
+    {
+      "type": "electronic",
+      "issn": "2188529X"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002706",
+    "name": "昭和大学学士会",
+    "name_en": null,
+    "url": "http://www10.showa-u.ac.jp/~gakushikai/gakushikai.html",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://www10.showa-u.ac.jp/~gakushikai/gakushikai.html",
+  "cdjournal": null,
+  "updated_at": "2021/02/24",
+  "sheet_updated_at": null
+}

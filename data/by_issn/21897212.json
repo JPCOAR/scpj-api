@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "journal_id": "J000130",
+      "titles": [
+        {
+          "title": "地球科学",
+          "language": "ja"
+        },
+        {
+          "title": "Earth Science (Chikyu Kagaku)",
+          "language": "en"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": "https://www.chidanken.jp/08_1.html",
+      "issns": [
+        {
+          "type": "print",
+          "issn": "03666611"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897212"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": "ハイブリッドモデル",
+      "oa_type_notes": null,
+      "non_embargo_oa": "出版後即時OA可",
+      "applicability": "OK",
+      "society": {
+        "id": "S000100",
+        "name": "地学団体研究会",
+        "name_en": null,
+        "url": "https://www.chidanken.jp",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00191"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": "著者",
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "0",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "不要",
+            "by": "必要",
+            "link": "不要",
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": "著者",
+          "licence": null,
+          "archivability": "不可",
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": "不可",
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://www.chidanken.jp/08_1.html",
+      "cdjournal": null,
+      "updated_at": "2025/11/14",
+      "sheet_updated_at": null
+    }
+  ]
+}

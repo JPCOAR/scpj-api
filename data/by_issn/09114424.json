@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J001447",
+      "titles": [
+        {
+          "title": "日本都市学会年報",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Annals of Japan Association for Urban Sociology",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "09114424"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001240",
+        "name": "日本都市学会",
+        "name_en": null,
+        "url": "http://www.toshigaku.org/index.html",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00386"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.toshigaku.org/toukou.htm",
+      "cdjournal": null,
+      "updated_at": "2021/02/25",
+      "sheet_updated_at": null
+    }
+  ]
+}

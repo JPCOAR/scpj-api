@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J002394",
+      "titles": [
+        {
+          "title": "極限環境生物学会誌（旧 極限環境微生物学会誌）",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Journal of Japanese Society for Extremophiles",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13485474"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002141",
+        "name": "極限環境生物学会",
+        "name_en": null,
+        "url": "http://www.extremophiles.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01650"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.extremophiles.jp/onlinefirst/toukou.html",
+      "cdjournal": null,
+      "updated_at": "2011/12/14",
+      "sheet_updated_at": null
+    }
+  ]
+}

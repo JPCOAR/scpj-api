@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000729",
+  "titles": [
+    {
+      "title": "農村経済研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "JOURNAL OF RURAL SOCIETY AND ECONOMICS",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "2187297X"
+    },
+    {
+      "type": "electronic",
+      "issn": "21873933"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000602",
+    "name": "東北農業経済学会",
+    "name_en": null,
+    "url": "https://aestohoku.jimdo.com/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00644"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://aestohoku.jimdo.com/%E4%BC%9A%E5%89%87-%E8%A6%8F%E7%A8%8B-%E5%90%84%E7%A8%AE%E6%A7%98%E5%BC%8F/",
+  "cdjournal": null,
+  "updated_at": "2021/02/22",
+  "sheet_updated_at": null
+}

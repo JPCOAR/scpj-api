@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J001327",
+      "titles": [
+        {
+          "title": "中国－社会と文化",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "China：Society and Culture",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "09129308"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001130",
+        "name": "中国社会文化学会",
+        "name_en": null,
+        "url": "http://www.l.u-tokyo.ac.jp/ASCSC/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01135"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.l.u-tokyo.ac.jp/ASCSC/chosakukenkitei20160203.pdf",
+      "cdjournal": null,
+      "updated_at": "2021/02/25",
+      "sheet_updated_at": null
+    }
+  ]
+}

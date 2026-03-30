@@ -1,0 +1,114 @@
+{
+  "journal_id": "J001082",
+  "titles": [
+    {
+      "title": "日本小児腎臓病学会雑誌",
+      "language": "ja"
+    },
+    {
+      "title": "Japanese journal of pediatric nephrology",
+      "language": "en"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": "https://www.jstage.jst.go.jp/browse/jjpn/-char/ja",
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "09152245"
+    },
+    {
+      "type": "print",
+      "issn": "09152245"
+    },
+    {
+      "type": "electronic",
+      "issn": "18813933"
+    }
+  ],
+  "listed_in_doaj": "DOAJ",
+  "oa_type": "フルOAモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "不可",
+  "society": {
+    "id": "S000901",
+    "name": "日本小児腎臓病学会",
+    "name_en": null,
+    "url": "http://www.jspn.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00688"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "学会/出版社",
+      "licence": "CC BY-SA",
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "学会/出版社",
+      "licence": "著者最終稿にはライセンス情報は設定していません",
+      "archivability": "不可",
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": "プレプリントサーバに投稿されている論文が当雑誌に採択・掲載された場合は、掲載され た論文のリンクをプレプリントサーバに載せる。"
+      }
+    }
+  ],
+  "policy_url": "https://jspn01.umin.jp/gakkaishi/gakkaishi/rinri.html",
+  "cdjournal": null,
+  "updated_at": "2025/09/19",
+  "sheet_updated_at": null
+}

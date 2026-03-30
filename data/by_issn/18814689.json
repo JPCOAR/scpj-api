@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000360",
+      "titles": [
+        {
+          "title": "日本法科学技術学会誌",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Japanese Journal of Forensic Science and Technology",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "18801323"
+        },
+        {
+          "type": "electronic",
+          "issn": "18814689"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000286",
+        "name": "日本法科学技術学会",
+        "name_en": null,
+        "url": "https://www.houkagaku.org/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01533"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://www.houkagaku.org/",
+      "cdjournal": null,
+      "updated_at": "2021/03/01",
+      "sheet_updated_at": null
+    }
+  ]
+}

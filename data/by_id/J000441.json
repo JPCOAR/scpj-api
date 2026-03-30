@@ -1,0 +1,102 @@
+{
+  "journal_id": "J000441",
+  "titles": [
+    {
+      "title": "日本肺サーファクタント・界面医学会雑誌",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Journal of Japanese Medical Society for Lung Surfactant and Biological Interface",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "18821812"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000357",
+    "name": "日本肺サーファクタント・界面医学会（旧：日本界面医学会)",
+    "name_en": null,
+    "url": "http://rods777.ddo.jp/~s002/kaimen.htm",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00740"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "http://rods777.ddo.jp/~s002/kaimen.htm",
+  "cdjournal": null,
+  "updated_at": "2020/12/11",
+  "sheet_updated_at": null
+}

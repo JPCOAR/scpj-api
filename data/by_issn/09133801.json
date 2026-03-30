@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "journal_id": "J001024",
+      "titles": [
+        {
+          "title": "情報の科学と技術",
+          "language": "ja"
+        },
+        {
+          "title": "The Journal of Information Science and Technology Association",
+          "language": "en"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": "https://www.jstage.jst.go.jp/browse/jkg/-char/ja",
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "09133801"
+        },
+        {
+          "type": "print",
+          "issn": "09133801"
+        },
+        {
+          "type": "electronic",
+          "issn": "21898278"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": "購読モデル",
+      "oa_type_notes": "6ヶ月後にOA化",
+      "non_embargo_oa": "出版後即時OA可",
+      "applicability": "不可",
+      "society": {
+        "id": "S000848",
+        "name": "情報科学技術協会",
+        "name_en": null,
+        "url": "http://www.infosta.or.jp/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00290"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": "著者",
+          "licence": "CC BY, CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-ND, CC BY-NC-NDのいずれかを著者が選択可能",
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "3",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "不要",
+            "by": "必要",
+            "link": "不要",
+            "notes": "掲載に当たっては公開した記事が執筆者提出原稿の最終版か、 出版物の複製であるかは明記してください。（JPCOARスキーマ2.0[出版タイプ]を記載していただければ大丈夫です）"
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": "著者",
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "0",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "不要",
+            "by": "必要",
+            "link": "不要",
+            "notes": "掲載に当たっては公開した記事が執筆者提出原稿の最終版か、 出版物の複製であるかは明記してください。（JPCOARスキーマ2.0[出版タイプ]を記載していただければ大丈夫です）"
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": "二重投稿の疑義を避けるため、プレプリント版を公表する場合には論文本文にプレプリント版を投稿した旨を記載していただく必要があります。"
+          }
+        }
+      ],
+      "policy_url": "https://www.infosta.or.jp/wp/wp-content/uploads/2020/08/open_access_policy.pdf",
+      "cdjournal": null,
+      "updated_at": "2025/03/26",
+      "sheet_updated_at": null
+    }
+  ]
+}

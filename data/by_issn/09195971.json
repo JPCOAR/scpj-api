@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J001288",
+      "titles": [
+        {
+          "title": "ショーペンハウアー研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "09195971"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001089",
+        "name": "日本ショーペンハウアー協会",
+        "name_en": null,
+        "url": "http://www.schopenhauer.org/index2.html",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01231"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2013/01/10",
+      "sheet_updated_at": null
+    }
+  ]
+}

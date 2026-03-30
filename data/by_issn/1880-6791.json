@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000522",
+      "titles": [
+        {
+          "title": "Journal of PHYSIOLOGICAL ANTHROPOLOGY",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "(旧)Journal of physiological anthropology and applied human science",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "18806791"
+        },
+        {
+          "type": "electronic",
+          "issn": "18806805"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000431",
+        "name": "日本生理人類学会",
+        "name_en": null,
+        "url": "http://www.jspa.net/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00906"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "http://www.jphysiolanthropol.com/about",
+      "cdjournal": null,
+      "updated_at": "2012/11/01",
+      "sheet_updated_at": null
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000751",
+      "titles": [
+        {
+          "title": "Japanese Journal of Ophthalmology",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": "https://link.springer.com/journal/10384",
+      "issns": [
+        {
+          "type": "print",
+          "issn": "00215155"
+        },
+        {
+          "type": "electronic",
+          "issn": "16132246"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": "ハイブリッドモデル",
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": "不可",
+      "society": {
+        "id": "S000622",
+        "name": "日本眼科学会",
+        "name_en": null,
+        "url": "http://www.nichigan.or.jp/index.jsp",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00024"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": "学会/出版社",
+          "licence": null,
+          "archivability": "不可",
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": "学会/出版社",
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": {
+            "general_months": "12",
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": "不要",
+            "by": "必要",
+            "link": "必要",
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": "OK",
+          "location": {
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": null,
+      "cdjournal": null,
+      "updated_at": "2025/10/30",
+      "sheet_updated_at": null
+    }
+  ]
+}

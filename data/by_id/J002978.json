@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002978",
+  "titles": [
+    {
+      "title": "手話学研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Japanese Journal for Sign Language Studies",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "18843204"
+    },
+    {
+      "type": "electronic",
+      "issn": "2187218X"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S002558",
+    "name": "日本手話学会",
+    "name_en": null,
+    "url": "https://www.signlanguagestudiesjapan.org/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01422"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.signlanguagestudiesjapan.org/%E5%88%8A%E8%A1%8C%E7%89%A9/%E6%89%8B%E8%A9%B1%E5%AD%A6%E7%A0%94%E7%A9%B6-%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95/",
+  "cdjournal": null,
+  "updated_at": "2021/03/05",
+  "sheet_updated_at": null
+}

@@ -1,0 +1,106 @@
+{
+  "journal_id": "J002055",
+  "titles": [
+    {
+      "title": "総合健診",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Health Evaluation and Promotion",
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "print",
+      "issn": "13470086"
+    },
+    {
+      "type": "electronic",
+      "issn": "18844103"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S001802",
+    "name": "日本総合健診医学会",
+    "name_en": null,
+    "url": "https://jhep.jp/jhep/top/index.jsp",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G12085"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://jhep.jp/jhep/journal/journal02.jsp",
+  "cdjournal": null,
+  "updated_at": "2021/02/12",
+  "sheet_updated_at": null
+}

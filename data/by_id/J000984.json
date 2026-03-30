@@ -1,0 +1,106 @@
+{
+  "journal_id": "J000984",
+  "titles": [
+    {
+      "title": "ラテンアメリカ研究年報",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": "Anales de Estudios Latinoamericanos",
+  "journal_url": "https://www.jstage.jst.go.jp/browse/annualofajel/-char/ja",
+  "issns": [
+    {
+      "type": "print",
+      "issn": "02861127"
+    },
+    {
+      "type": "electronic",
+      "issn": "24368431"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": "フルOAモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": null,
+  "society": {
+    "id": "S000818",
+    "name": "日本ラテンアメリカ学会",
+    "name_en": null,
+    "url": "http://www.ajel-jalas.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G00966"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "学会/出版社",
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": null,
+  "cdjournal": null,
+  "updated_at": "2025/09/25",
+  "sheet_updated_at": null
+}

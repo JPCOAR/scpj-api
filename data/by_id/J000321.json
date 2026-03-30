@@ -1,0 +1,102 @@
+{
+  "journal_id": "J000321",
+  "titles": [
+    {
+      "title": "学校図書館学研究",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": null,
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "13446274"
+    }
+  ],
+  "listed_in_doaj": null,
+  "oa_type": null,
+  "oa_type_notes": null,
+  "non_embargo_oa": null,
+  "applicability": null,
+  "society": {
+    "id": "S000258",
+    "name": "日本学校図書館学会",
+    "name_en": null,
+    "url": "http://www.jssls.jp/",
+    "contact_url": null,
+    "meikan_url": "https://gakkai.scj.go.jp/organizations/G01593"
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": {
+        "general_months": null,
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": null,
+      "location": {
+        "ir": null,
+        "author": null,
+        "funder": null,
+        "non_commercial": null,
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://jssls.info/%e5%ad%a6%e4%bc%9a%e8%aa%8c%e3%80%8c%e5%ad%a6%e6%a0%a1%e5%9b%b3%e6%9b%b8%e9%a4%a8%e5%ad%a6%e7%a0%94%e7%a9%b6%e3%80%8d/%e5%ad%a6%e4%bc%9a%e8%aa%8c%e3%80%8e%e5%ad%a6%e6%a0%a1%e5%9b%b3%e6%9b%b8%e9%a4%a8%e5%ad%a6%e7%a0%94%e7%a9%b6%e3%80%8f%e6%8a%95%e7%a8%bf%e8%a6%8f%e7%a8%8b/",
+  "cdjournal": null,
+  "updated_at": "2025/03/21",
+  "sheet_updated_at": null
+}

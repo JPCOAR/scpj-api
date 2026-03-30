@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J003125",
+      "titles": [
+        {
+          "title": "青森県作業療法研究",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "青森県作業療法士会誌",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "09181431"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002645",
+        "name": "青森県作業療法士会",
+        "name_en": null,
+        "url": "http://aomoriot.org/",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://aomoriot.org/archives/member/%e6%a9%9f%e9%96%a2%e8%aa%8c%e3%80%8c%e9%9d%92%e6%a3%ae%e7%9c%8c%e4%bd%9c%e6%a5%ad%e7%99%82%e6%b3%95%e7%a0%94%e7%a9%b6%e3%80%8d",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    }
+  ]
+}

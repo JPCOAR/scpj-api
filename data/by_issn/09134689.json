@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J001637",
+      "titles": [
+        {
+          "title": "光化学",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Photochemistry",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "09134689"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S001423",
+        "name": "光化学協会",
+        "name_en": null,
+        "url": "https://photochemistry.jp",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00878"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://photochemistry.jp/journal/index.html",
+      "cdjournal": null,
+      "updated_at": "2021/02/22",
+      "sheet_updated_at": null
+    }
+  ]
+}

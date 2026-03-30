@@ -1,0 +1,110 @@
+{
+  "journal_id": "J002110",
+  "titles": [
+    {
+      "title": "Proceedings of the Japan Academy, Ser. B Physical and Biological Sciences",
+      "language": "ja"
+    }
+  ],
+  "journal_title_alias": null,
+  "journal_url": "https://www.jstage.jst.go.jp/browse/pjab",
+  "issns": [
+    {
+      "type": "linking",
+      "issn": "03862208"
+    },
+    {
+      "type": "print",
+      "issn": "03862208"
+    },
+    {
+      "type": "electronic",
+      "issn": "13492896"
+    }
+  ],
+  "listed_in_doaj": "DOAJ",
+  "oa_type": "フルOAモデル",
+  "oa_type_notes": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "OK",
+  "society": {
+    "id": "S001853",
+    "name": "日本学士院",
+    "name_en": null,
+    "url": "http://www.japan-acad.go.jp/index.html",
+    "contact_url": null,
+    "meikan_url": null
+  },
+  "publisher_policy": [
+    {
+      "article_version": "published",
+      "copyright_owner": "著者",
+      "licence": "CC BY-NC",
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "不要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "accepted",
+      "copyright_owner": "著者",
+      "licence": "CC BY-NC",
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": {
+        "general_months": "0",
+        "funded_months": null
+      },
+      "terms": {
+        "copyright": "必要",
+        "by": "必要",
+        "link": "不要",
+        "notes": null
+      }
+    },
+    {
+      "article_version": "submitted",
+      "copyright_owner": null,
+      "licence": null,
+      "archivability": "OK",
+      "location": {
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": null
+      },
+      "embargo": null,
+      "terms": {
+        "copyright": null,
+        "by": null,
+        "link": null,
+        "notes": null
+      }
+    }
+  ],
+  "policy_url": "https://www.japan-acad.go.jp/en/publishing/pja_b/instructions.html",
+  "cdjournal": null,
+  "updated_at": "2025/12/04",
+  "sheet_updated_at": null
+}

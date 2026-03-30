@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "journal_id": "J002327",
+      "titles": [
+        {
+          "title": "子どもの健康科学",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "Health Science for Children",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "linking",
+          "issn": "13480731"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S002076",
+        "name": "日本子ども健康科学会（子どもの心・体と環境を考える会）",
+        "name_en": null,
+        "url": "https://jshschild.jp/index.html",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01680"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://jshschild.jp/%e6%97%a5%e6%9c%ac%e5%ad%90%e3%81%a9%e3%82%82%e5%81%a5%e5%ba%b7%e7%a7%91%e5%ad%a6%e4%bc%9a%ef%bc%88%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae%e5%bf%83%e3%83%bb%e4%bd%93%e3%81%a8%e7%92%b0%e5%a2%83%e3%82%92-6/",
+      "cdjournal": null,
+      "updated_at": "2025/03/21",
+      "sheet_updated_at": null
+    }
+  ]
+}

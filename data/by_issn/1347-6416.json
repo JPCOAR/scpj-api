@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "journal_id": "J000455",
+      "titles": [
+        {
+          "title": "獣医臨床皮膚科",
+          "language": "ja"
+        }
+      ],
+      "journal_title_alias": "The Japanese Journal of Veterinary Dermatology",
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "13476416"
+        },
+        {
+          "type": "electronic",
+          "issn": "18812236"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000372",
+        "name": "日本獣医皮膚科学会",
+        "name_en": null,
+        "url": "https://www.jsvd.jp/",
+        "contact_url": null,
+        "meikan_url": null
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://www.jsvd.jp/journals/about_journal.html",
+      "cdjournal": null,
+      "updated_at": "2021/03/04",
+      "sheet_updated_at": null
+    }
+  ]
+}
