@@ -7,18 +7,22 @@
     }
   ],
   "journal_title_alias": null,
-  "journal_url": null,
+  "journal_url": "https://www.jstage.jst.go.jp/browse/serdj",
   "issns": [
+    {
+      "type": "linking",
+      "issn": "13417215"
+    },
     {
       "type": "print",
       "issn": "13417215"
     }
   ],
   "listed_in_doaj": null,
-  "oa_type": null,
+  "oa_type": "フルOAモデル",
   "oa_type_notes": null,
-  "non_embargo_oa": null,
-  "applicability": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "OK",
   "society": {
     "id": "S001431",
     "name": "日本溶媒抽出学会",
@@ -30,32 +34,32 @@
   "publisher_policy": [
     {
       "article_version": "published",
-      "copyright_owner": null,
-      "licence": null,
-      "archivability": null,
+      "copyright_owner": "学会/出版社",
+      "licence": "CC BY",
+      "archivability": "OK",
       "location": {
-        "ir": null,
-        "author": null,
-        "funder": null,
-        "non_commercial": null,
-        "others": null
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
+        "others": "掲載場所制限なし"
       },
       "embargo": {
-        "general_months": null,
+        "general_months": "0",
         "funded_months": null
       },
       "terms": {
-        "copyright": null,
-        "by": null,
-        "link": null,
+        "copyright": "不要",
+        "by": "不要",
+        "link": "不要",
         "notes": null
       }
     },
     {
       "article_version": "accepted",
-      "copyright_owner": null,
-      "licence": null,
-      "archivability": null,
+      "copyright_owner": "学会/出版社",
+      "licence": "CC BY",
+      "archivability": "不可",
       "location": {
         "ir": null,
         "author": null,
@@ -78,7 +82,7 @@
       "article_version": "submitted",
       "copyright_owner": null,
       "licence": null,
-      "archivability": null,
+      "archivability": "不可",
       "location": {
         "ir": null,
         "author": null,
@@ -95,8 +99,8 @@
       }
     }
   ],
-  "policy_url": "http://www.solventextraction.gr.jp/serdj/index.html",
+  "policy_url": "http://www.solventextraction.gr.jp/serdj/aurhorsguide.html",
   "cdjournal": null,
-  "updated_at": "2021/03/30",
+  "updated_at": "2026/04/15",
   "sheet_updated_at": null
 }

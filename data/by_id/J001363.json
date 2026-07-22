@@ -6,7 +6,7 @@
       "language": "ja"
     }
   ],
-  "journal_title_alias": "Journal of Japanese Language Teaching",
+  "journal_title_alias": "Journal of Japanese Language Education",
   "journal_url": null,
   "issns": [
     {
@@ -27,7 +27,7 @@
     "id": "S001163",
     "name": "日本語教育学会",
     "name_en": null,
-    "url": "http://www.nkg.or.jp/",
+    "url": "https://www.nkg.or.jp/",
     "contact_url": null,
     "meikan_url": "https://gakkai.scj.go.jp/organizations/G00570"
   },
@@ -99,8 +99,8 @@
       }
     }
   ],
-  "policy_url": "https://www.nkg.or.jp/gakkaishi/toko/",
+  "policy_url": "http://www.nkg.or.jp/wp/wp-content/uploads/2018/02/gakkaishi_chosakuken.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/04/22",
   "sheet_updated_at": null
 }

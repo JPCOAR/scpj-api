@@ -8,19 +8,23 @@
           "language": "ja"
         }
       ],
-      "journal_title_alias": null,
-      "journal_url": null,
+      "journal_title_alias": "Transactions of Japanese Society for Information and Systems in Education",
+      "journal_url": "https://www.jstage.jst.go.jp/browse/jsise",
       "issns": [
         {
           "type": "print",
           "issn": "13414135"
+        },
+        {
+          "type": "electronic",
+          "issn": "21880980"
         }
       ],
       "listed_in_doaj": null,
-      "oa_type": null,
-      "oa_type_notes": null,
-      "non_embargo_oa": null,
-      "applicability": null,
+      "oa_type": "購読モデル",
+      "oa_type_notes": "発刊から12ヶ月後にOA化．",
+      "non_embargo_oa": "出版後即時OA可",
+      "applicability": "不可",
       "society": {
         "id": "S001477",
         "name": "教育システム情報学会",
@@ -32,9 +36,9 @@
       "publisher_policy": [
         {
           "article_version": "published",
-          "copyright_owner": null,
+          "copyright_owner": "学会/出版社",
           "licence": null,
-          "archivability": null,
+          "archivability": "不可",
           "location": {
             "ir": null,
             "author": null,
@@ -55,32 +59,32 @@
         },
         {
           "article_version": "accepted",
-          "copyright_owner": null,
+          "copyright_owner": "著者",
           "licence": null,
-          "archivability": null,
+          "archivability": "OK",
           "location": {
-            "ir": null,
-            "author": null,
-            "funder": null,
-            "non_commercial": null,
+            "ir": "OK",
+            "author": "OK",
+            "funder": "OK",
+            "non_commercial": "OK",
             "others": null
           },
           "embargo": {
-            "general_months": null,
+            "general_months": "0",
             "funded_months": null
           },
           "terms": {
-            "copyright": null,
-            "by": null,
-            "link": null,
-            "notes": null
+            "copyright": "必要",
+            "by": "必要",
+            "link": "不要",
+            "notes": "本会の著作権規定第５条にしたがい，著者らの所属組織における機関レポジトリ等でのWeb公開は，非営利目的であり，本会の利益を不当に侵害しない限りにおいて，出典を明記する条件の下，3ヶ月以内での即時公開（グリーンオープンアクセス）も利用可能とする．"
           }
         },
         {
           "article_version": "submitted",
           "copyright_owner": null,
           "licence": null,
-          "archivability": null,
+          "archivability": "不可",
           "location": {
             "ir": null,
             "author": null,
@@ -97,9 +101,9 @@
           }
         }
       ],
-      "policy_url": null,
+      "policy_url": "https://www.jsise.org/society/committee/editors/JSiSE-Paper-Guidelines.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/04/06",
       "sheet_updated_at": null
     }
   ]

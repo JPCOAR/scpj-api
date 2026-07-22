@@ -2,13 +2,17 @@
   "journal_id": "J000378",
   "titles": [
     {
-      "title": "Journal of the Japan Petroleum Institute",
+      "title": "The Journal of the Japan Petroleum Instiute",
       "language": "ja"
     }
   ],
   "journal_title_alias": null,
-  "journal_url": null,
+  "journal_url": "https://www.jstage.jst.go.jp/browse/jpi/-char/ja/",
   "issns": [
+    {
+      "type": "linking",
+      "issn": "13468804"
+    },
     {
       "type": "print",
       "issn": "13468804"
@@ -19,10 +23,10 @@
     }
   ],
   "listed_in_doaj": null,
-  "oa_type": null,
+  "oa_type": "フルOAモデル",
   "oa_type_notes": null,
-  "non_embargo_oa": null,
-  "applicability": null,
+  "non_embargo_oa": "出版後即時OA可",
+  "applicability": "OK",
   "society": {
     "id": "S000303",
     "name": "石油学会",
@@ -34,47 +38,47 @@
   "publisher_policy": [
     {
       "article_version": "published",
-      "copyright_owner": null,
-      "licence": null,
-      "archivability": null,
+      "copyright_owner": "著者",
+      "licence": "CC BY-NC-ND",
+      "archivability": "OK",
       "location": {
-        "ir": null,
-        "author": null,
-        "funder": null,
-        "non_commercial": null,
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
         "others": null
       },
       "embargo": {
-        "general_months": null,
+        "general_months": "0",
         "funded_months": null
       },
       "terms": {
-        "copyright": null,
-        "by": null,
-        "link": null,
+        "copyright": "必要",
+        "by": "必要",
+        "link": "不要",
         "notes": null
       }
     },
     {
       "article_version": "accepted",
-      "copyright_owner": null,
+      "copyright_owner": "著者",
       "licence": null,
-      "archivability": null,
+      "archivability": "OK",
       "location": {
-        "ir": null,
-        "author": null,
-        "funder": null,
-        "non_commercial": null,
+        "ir": "不可",
+        "author": "不可",
+        "funder": "不可",
+        "non_commercial": "不可",
         "others": null
       },
       "embargo": {
-        "general_months": null,
+        "general_months": "0",
         "funded_months": null
       },
       "terms": {
-        "copyright": null,
-        "by": null,
-        "link": null,
+        "copyright": "不要",
+        "by": "不要",
+        "link": "不要",
         "notes": null
       }
     },
@@ -82,12 +86,12 @@
       "article_version": "submitted",
       "copyright_owner": null,
       "licence": null,
-      "archivability": null,
+      "archivability": "OK",
       "location": {
-        "ir": null,
-        "author": null,
-        "funder": null,
-        "non_commercial": null,
+        "ir": "OK",
+        "author": "OK",
+        "funder": "OK",
+        "non_commercial": "OK",
         "others": null
       },
       "embargo": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.sekiyu-gakkai.or.jp/jp/kankou/kankou.html",
   "cdjournal": null,
-  "updated_at": "2021/02/25",
+  "updated_at": "2026/04/15",
   "sheet_updated_at": null
 }

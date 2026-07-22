@@ -27,8 +27,8 @@
       "applicability": null,
       "society": {
         "id": "S000089",
-        "name": "粉体粉末冶金協会",
-        "name_en": null,
+        "name": "一般社団法人粉体粉末冶金協会",
+        "name_en": "Japan Society of Powder and Powder Metallurgy",
         "url": "https://www.jspm.or.jp/",
         "contact_url": null,
         "meikan_url": "https://gakkai.scj.go.jp/organizations/G00530"
@@ -103,7 +103,7 @@
       ],
       "policy_url": "https://www.jspm.or.jp/publications/journal/submissions",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/04/15",
       "sheet_updated_at": null
     }
   ]
