@@ -2,7 +2,7 @@
 
 const { getAuthClient, getConfig, setConfigValue } = require('../utils/config');
 const { getMapping, resolveFieldPath, applyTransform } = require('../utils/mapping');
-const { readScpjSheet, sheetsBatchUpdate, sheetsAppendRows } = require('./sheets');
+const { readScpjSheet, sheetsGet, sheetsBatchUpdate, sheetsAppendRows } = require('./sheets');
 const { fetchJstageData } = require('./jstage');
 const { processJournalRow } = require('./diff');
 const { sendReport, buildDiffReport, buildErrorReport } = require('./report');
@@ -135,6 +135,18 @@ async function main() {
     console.log('有効な JSTAGE マッピングなし → J-STAGE API 呼び出しをスキップ');
   }
 
+  // 差分チェックモード: 重複スキップ用に既存テストシート行を先読み
+  let existingTestRows = [];
+  if (!useTestMode && testSheetId && testSheetName) {
+    try {
+      const existing = await sheetsGet(auth, testSheetId, `${testSheetName}!A:BZ`);
+      existingTestRows = existing.slice(1); // ヘッダー行をスキップ
+      console.log(`テストシート既存行: ${existingTestRows.length} 件`);
+    } catch (e) {
+      console.warn(`テストシート既存行の読み込み失敗（重複チェックをスキップ）: ${e.message}`);
+    }
+  }
+
   const allUpdates    = [];  // 補完モード用: 本番シートへの書き込みリスト
   const testSheetRows = [];  // 差分チェックモード用: テストシート追記行リスト
   const allDiffs      = [];
@@ -190,7 +202,14 @@ async function main() {
     } else {
       // 差分チェックモード: 差分または補完がある行をテストシート追記用に構築
       if (diffs.length > 0 || complements.length > 0) {
-        testSheetRows.push(buildTestSheetRow(headers, row, diffs, complements, runAt));
+        const newRow = buildTestSheetRow(headers, row, diffs, complements, runAt);
+        // タイムスタンプ以外が全て同一の行が既に存在する場合はスキップ
+        const isDuplicate = existingTestRows.some(existing =>
+          newRow.slice(1).every((val, i) => (existing[i + 1] ?? '') === val)
+        );
+        if (!isDuplicate) {
+          testSheetRows.push(newRow);
+        }
       }
     }
     allDiffs.push(...diffs);
