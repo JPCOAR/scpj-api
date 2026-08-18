@@ -4,3 +4,7 @@ node_modules/
 *-service-account*.json
 scpj-api-*.json
 .DS_Store
+
+# clasp（GAS レビューアプリ）
+gas/.clasp.json
+.clasprc.json

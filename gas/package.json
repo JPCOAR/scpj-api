@@ -1,0 +1,26 @@
+{
+  "name": "scpj-gas-review",
+  "version": "0.1.0",
+  "description": "SCPJ データレビュー用 Google Apps Script アプリケーション（clasp 管理）",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "login": "clasp --user scpj login",
+    "logout": "clasp --user scpj logout",
+    "whoami": "clasp --user scpj show-authorized-user",
+    "push": "clasp --user scpj push",
+    "push:force": "clasp --user scpj push --force",
+    "push:watch": "clasp --user scpj push --watch",
+    "pull": "clasp --user scpj pull",
+    "open": "clasp --user scpj open-script",
+    "logs": "clasp --user scpj tail-logs",
+    "status": "clasp --user scpj show-file-status",
+    "deploy": "clasp --user scpj create-deployment"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.3.0",
+    "@types/google-apps-script": "^1.0.97"
+  }
+}

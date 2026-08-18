@@ -1,0 +1,4 @@
+# clasp push の対象外にするファイル（パターンは rootDir 基準）
+**/node_modules/**
+**/*.md
+**/.DS_Store

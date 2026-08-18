@@ -9,7 +9,16 @@
   "scripts": {
     "generate": "node src/api/generate.js",
     "batch": "node src/batch/index.js",
-    "check-config": "node src/utils/config.js"
+    "check-config": "node src/utils/config.js",
+    "gas:install": "npm install --prefix gas",
+    "gas:login": "npm --prefix gas run login",
+    "gas:whoami": "npm --prefix gas run whoami",
+    "gas:push": "npm --prefix gas run push",
+    "gas:push:force": "npm --prefix gas run push:force",
+    "gas:pull": "npm --prefix gas run pull",
+    "gas:open": "npm --prefix gas run open",
+    "gas:logs": "npm --prefix gas run logs",
+    "gas:deploy": "npm --prefix gas run deploy"
   },
   "dependencies": {
     "googleapis": "^144.0.0",

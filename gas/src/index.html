@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <base target="_top">
+    <meta charset="utf-8">
+    <?!= include('styles') ?>
+  </head>
+  <body>
+    <header>
+      <h1><?= appTitle ?></h1>
+      <div class="subtitle">J-STAGE 差分の修正案をレビューし、SCPJ 本番シートへの反映可否を判断します。</div>
+    </header>
+
+    <div class="panel">
+      <h2>接続確認</h2>
+      <p class="subtitle">
+        config シート・レビューシート・SCPJ 本番シートに到達できるかを検査します。
+      </p>
+      <button id="checkBtn" onclick="runCheck()">接続確認を実行</button>
+      <div id="result"></div>
+    </div>
+
+    <script>
+      function runCheck() {
+        var btn = document.getElementById('checkBtn');
+        btn.disabled = true;
+        document.getElementById('result').innerHTML =
+          '<p class="meta">確認中…</p>';
+
+        google.script.run
+          .withSuccessHandler(function (res) {
+            btn.disabled = false;
+            render(res);
+          })
+          .withFailureHandler(function (err) {
+            btn.disabled = false;
+            document.getElementById('result').innerHTML =
+              '<div class="banner banner-ng">実行エラー: ' + escapeHtml(err.message) + '</div>';
+          })
+          .getHealthCheck();
+      }
+
+      function render(res) {
+        var html = res.ok
+          ? '<div class="banner banner-ok">すべての接続確認に成功しました。</div>'
+          : '<div class="banner banner-ng">確認に失敗しました: ' + escapeHtml(res.error || '') + '</div>';
+
+        html += '<table><thead><tr><th>項目</th><th>結果</th><th>詳細</th></tr></thead><tbody>';
+        res.steps.forEach(function (step) {
+          var cls = step.status === 'OK' ? 'status-ok'
+                  : step.status === 'WARN' ? 'status-warn'
+                  : 'status-ng';
+          html += '<tr>' +
+            '<td>' + escapeHtml(step.name) + '</td>' +
+            '<td class="' + cls + '">' + escapeHtml(step.status) + '</td>' +
+            '<td>' + escapeHtml(step.detail) + '</td>' +
+          '</tr>';
+        });
+        html += '</tbody></table>';
+        html += '<p class="meta">実行日時: ' + escapeHtml(res.checkedAt) +
+                ' / 実行ユーザー: ' + escapeHtml(res.user) + '</p>';
+
+        document.getElementById('result').innerHTML = html;
+      }
+
+      function escapeHtml(str) {
+        return String(str == null ? '' : str).replace(/[&<>"']/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+      }
+    </script>
+  </body>
+</html>
