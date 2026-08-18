@@ -14,11 +14,11 @@ const SENDGRID_API_KEY = process.env.SENDGRID_API_KEY;
 /**
  * レビューシート（レビュー用データプール）の列定義
  * 先頭3列: タイムスタンプ / メールアドレス / 担当者誌名（フォーム固定フィールド）
- * 末尾: チェック列
+ * 末尾: 担当チェック欄
  * Embargo列はSCPJの "(months)" なし形式
  */
 const REVIEW_SHEET_COLUMNS = [
-  'タイムスタンプ', 'メールアドレス', '担当者誌名',
+  'タイムスタンプ', 'メールアドレス', 'ご担当者様氏名',
   'Society_ID', 'Society_Name', 'Journal_ID', 'Journal_Title', 'Journal_Title_Alias',
   'Journal_Title_En', 'Journal_URL', 'ISSN-L', 'PISSN', 'EISSN', 'DOAJ',
   'OAType', 'OAType_Notes', 'Policy_URL',
@@ -34,7 +34,7 @@ const REVIEW_SHEET_COLUMNS = [
   'Accepted_Terms_Copyright', 'Accepted_Terms_By', 'Accepted_Terms_Link', 'Accepted_Terms_Notes',
   'Submitted_Archivability', 'Submitted_Location_IR', 'Submitted_Location_Author',
   'Submitted_Location_Funder', 'Submitted_Location_NonCommercial', 'Submitted_Location_Others',
-  'Submitted_Terms_Notes', 'Applicability', 'チェック',
+  'Submitted_Terms_Notes', 'Applicability', '担当チェック欄',
 ];
 
 /**
@@ -79,8 +79,8 @@ function buildReviewSheetRow(headers, row, diffs, complements, runAt) {
   return REVIEW_SHEET_COLUMNS.map(col => {
     if (col === 'タイムスタンプ') return runAt;
     if (col === 'メールアドレス') return '';
-    if (col === '担当者誌名') return 'J-STAGE API 修正';
-    if (col === 'チェック') return '';
+    if (col === 'ご担当者様氏名') return 'J-STAGE API 修正';
+    if (col === '担当チェック欄') return '';
     return valueMap[col] ?? '';
   });
 }

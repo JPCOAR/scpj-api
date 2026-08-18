@@ -7,60 +7,321 @@
   </head>
   <body>
     <header>
-      <h1><?= appTitle ?></h1>
-      <div class="subtitle">J-STAGE 差分の修正案をレビューし、SCPJ 本番シートへの反映可否を判断します。</div>
+      <div>
+        <h1><?= appTitle ?></h1>
+        <div class="subtitle">J-STAGE 差分の修正案をレビューし、承認した内容をフォーム連携シートへ転記します。</div>
+      </div>
+      <div class="header-actions">
+        <span id="remaining" class="badge">読み込み中…</span>
+        <button onclick="loadQueue(true)">再読み込み</button>
+      </div>
     </header>
 
-    <div class="panel">
-      <h2>接続確認</h2>
-      <p class="subtitle">
-        config シート・レビューシート・SCPJ 本番シートに到達できるかを検査します。
-      </p>
-      <button id="checkBtn" onclick="runCheck()">接続確認を実行</button>
-      <div id="result"></div>
+    <div id="dryRun"></div>
+    <div id="banner"></div>
+
+    <div class="layout">
+      <aside class="queue">
+        <div id="queueCount" class="queue-count">読み込み中…</div>
+        <div id="queueList" class="queue-list"></div>
+        <button id="moreBtn" class="more" onclick="showMore()" style="display:none">さらに表示</button>
+      </aside>
+
+      <main id="detail" class="detail">
+        <p class="meta">左の一覧からジャーナルを選んでください。</p>
+      </main>
     </div>
 
-    <script>
-      function runCheck() {
-        var btn = document.getElementById('checkBtn');
-        btn.disabled = true;
-        document.getElementById('result').innerHTML =
-          '<p class="meta">確認中…</p>';
+    <footer>
+      <button class="link" onclick="runCheck()">接続確認</button>
+      <div id="healthResult"></div>
+    </footer>
 
+    <script>
+      var PAGE_SIZE = 200;
+      var PREFETCH_COUNT = 5;   // 1往復で先読みする件数
+
+      var queue = [];
+      var current = null;
+      var diffOnly = false;
+      var showEmpty = false;
+      var shownCount = PAGE_SIZE;
+      var itemCache = {};   // 先読みした明細（journalId|showEmpty → 明細）
+
+      // ---------- 一覧 ----------
+
+      function loadQueue(force) {
+        setBanner('', '');
+        if (force) itemCache = {};
+        document.getElementById('queueCount').textContent = '読み込み中…';
         google.script.run
           .withSuccessHandler(function (res) {
-            btn.disabled = false;
-            render(res);
+            queue = res.items;
+            shownCount = PAGE_SIZE;
+            document.getElementById('remaining').textContent =
+              '未レビュー ' + res.total + ' 件';
+            document.getElementById('dryRun').innerHTML = res.dryRun
+              ? '<div class="banner banner-warn">空打ちモード（REVIEW_DRY_RUN=TRUE）。' +
+                '承認・却下を押しても実際の書き込みと削除は行われません。</div>' : '';
+            renderQueue();
           })
-          .withFailureHandler(function (err) {
-            btn.disabled = false;
-            document.getElementById('result').innerHTML =
-              '<div class="banner banner-ng">実行エラー: ' + escapeHtml(err.message) + '</div>';
+          .withFailureHandler(fail)
+          .getReviewQueue(force === true);
+      }
+
+      function renderQueue() {
+        var shown = queue.slice(0, shownCount);
+
+        document.getElementById('queueCount').textContent =
+          '表示 ' + shown.length + ' / ' + queue.length + ' 件';
+
+        document.getElementById('queueList').innerHTML = shown.map(function (item) {
+          var cls = 'queue-item' + (current && current.journalId === item.journalId ? ' active' : '');
+          var gen = item.generations > 1
+            ? '<span class="gen">' + item.generations + '世代</span>' : '';
+          return '<button class="' + cls + '" onclick="openItem(\'' + item.journalId + '\')">' +
+            '<span class="qid">' + escapeHtml(item.journalId) + '</span>' + gen +
+            '<span class="qtitle">' + escapeHtml(item.title || '(誌名なし)') + '</span>' +
+          '</button>';
+        }).join('') || '<p class="meta">レビュー対象はありません</p>';
+
+        document.getElementById('moreBtn').style.display =
+          queue.length > shown.length ? 'block' : 'none';
+      }
+
+      function showMore() {
+        shownCount += PAGE_SIZE;
+        renderQueue();
+      }
+
+      // ---------- 明細 ----------
+
+      function toggleEmpty(on) {
+        showEmpty = on;
+        if (current) openItem(current.journalId);
+      }
+
+      function cacheKey(journalId) {
+        return journalId + '|' + (showEmpty ? 1 : 0);
+      }
+
+      /** 一覧内の位置を返す（見つからなければ -1） */
+      function positionOf(journalId) {
+        for (var i = 0; i < queue.length; i++) {
+          if (queue[i].journalId === journalId) return i;
+        }
+        return -1;
+      }
+
+      function openItem(journalId) {
+        // 直前の応答に同梱されていれば通信せずに即表示する
+        var cached = itemCache[cacheKey(journalId)];
+        if (cached) {
+          show(cached);
+          return;
+        }
+
+        document.getElementById('detail').innerHTML = '<p class="meta">読み込み中…</p>';
+
+        google.script.run
+          .withSuccessHandler(function (item) {
+            if (item.gone) {
+              setBanner('ng', journalId + ' は既に処理済みです。一覧を更新します。');
+              loadQueue(true);
+              return;
+            }
+            show(item);
           })
+          .withFailureHandler(fail)
+          .getReviewItem(journalId, showEmpty, nextIdsAfter(journalId));
+      }
+
+      /** 同梱してほしい後続の Journal_ID（取得済みのものは除く） */
+      function nextIdsAfter(journalId) {
+        var pos = positionOf(journalId);
+        if (pos === -1) return [];
+
+        var ids = [];
+        for (var i = pos + 1; i < queue.length && ids.length < PREFETCH_COUNT; i++) {
+          if (itemCache[cacheKey(queue[i].journalId)]) continue;
+          ids.push(queue[i].journalId);
+        }
+        return ids;
+      }
+
+      /** 明細を表示し、同梱されていた後続分を控えておく */
+      function show(item) {
+        (item.nextItems || []).forEach(function (next) {
+          itemCache[cacheKey(next.journalId)] = next;
+        });
+        current = item;
+        renderDetail();
+        renderQueue();
+      }
+
+      /** 一覧の並び順で次のジャーナルへ進む */
+      function goNext() {
+        if (!current) return;
+        var pos = positionOf(current.journalId);
+        if (pos !== -1 && queue[pos + 1]) openItem(queue[pos + 1].journalId);
+      }
+
+      function renderDetail() {
+        var item = current;
+        var fields = diffOnly
+          ? item.fields.filter(function (f) { return f.diff; })
+          : item.fields;
+
+        var warn = item.foundInScpj ? '' :
+          '<div class="banner banner-ng">このJournal_IDはSCPJ本番シートに存在しません（新規登録の提案）。</div>';
+
+        var gen = item.generations > 1
+          ? '<span class="gen">' + item.generations + '世代あり → 最新を基準に統合' +
+            (item.mergedCount ? '（旧世代から ' + item.mergedCount + ' 項目を補完）' : '') +
+            '</span>'
+          : '';
+
+        var rows = fields.map(function (f, i) {
+          var idx = item.fields.indexOf(f);
+          return '<tr class="' + (f.diff ? 'is-diff' : '') + '">' +
+            '<th>' + escapeHtml(f.column) +
+              (f.inScpj ? '' : ' <span class="tag">本番に列なし</span>') +
+              (f.fromOlder ? ' <span class="tag tag-merge">旧世代から補完</span>' : '') + '</th>' +
+            '<td class="current">' + (f.current ? escapeHtml(f.current) : '<span class="empty">（空）</span>') + '</td>' +
+            '<td><input class="val" data-idx="' + idx + '" value="' + escapeAttr(f.proposed) + '"></td>' +
+          '</tr>';
+        }).join('');
+
+        document.getElementById('detail').innerHTML =
+          warn +
+          '<div class="detail-head">' +
+            '<h2>' + escapeHtml(item.journalId) + '　' + escapeHtml(item.title || '(誌名なし)') + '</h2>' +
+            '<div class="meta">' + escapeHtml(item.societyName || '') +
+              '　差分 ' + item.diffCount + ' 項目 / 表示 ' + item.fields.length + ' 項目　' + gen + '</div>' +
+          '</div>' +
+          '<label class="toggle"><input type="checkbox" ' + (diffOnly ? 'checked' : '') +
+            ' onchange="diffOnly=this.checked;renderDetail()"> 差分のある項目だけ表示</label>' +
+          '<label class="toggle"><input type="checkbox" ' + (showEmpty ? 'checked' : '') +
+            ' onchange="toggleEmpty(this.checked)"> 空欄の項目も表示（全50項目）</label>' +
+          '<table class="compare">' +
+            '<thead><tr><th>項目</th><th>SCPJ本番の現在値</th><th>提案値（編集可）</th></tr></thead>' +
+            '<tbody>' + rows + '</tbody>' +
+          '</table>' +
+          '<div class="actions">' +
+            '<button class="primary" onclick="approve()">承認して転記</button>' +
+            '<button class="danger" onclick="reject()">却下</button>' +
+            '<button onclick="goNext()">次へ</button>' +
+          '</div>';
+      }
+
+      // ---------- 反映 ----------
+
+      function collectEdits() {
+        var edits = {};
+        var inputs = document.querySelectorAll('#detail input.val');
+        for (var i = 0; i < inputs.length; i++) {
+          var idx = Number(inputs[i].getAttribute('data-idx'));
+          edits[current.fields[idx].column] = inputs[i].value;
+        }
+        return edits;
+      }
+
+      function approve() {
+        if (!current) return;
+        if (!confirm(current.journalId + ' を承認し、フォーム連携シートに転記します。よろしいですか？')) return;
+        busy(true);
+        google.script.run
+          .withSuccessHandler(afterApply)
+          .withFailureHandler(function (e) { busy(false); fail(e); })
+          .approveItem(current.journalId, collectEdits());
+      }
+
+      function reject() {
+        if (!current) return;
+        var reason = prompt('却下理由を入力してください（任意）', '');
+        if (reason === null) return;
+        busy(true);
+        google.script.run
+          .withSuccessHandler(afterApply)
+          .withFailureHandler(function (e) { busy(false); fail(e); })
+          .rejectItem(current.journalId, reason);
+      }
+
+      function afterApply(res) {
+        busy(false);
+        setBanner(res.dryRun ? 'warn' : 'ok', res.message);
+
+        if (res.dryRun) {
+          // 空打ちでは対象を保持したまま、書き込まれる予定の内容を見せる
+          if (res.preview) renderPreview(res.preview);
+          return;
+        }
+
+        // 一覧を取り直すとレビューシートの再読み込みが走るため、画面側で取り除く
+        var pos = positionOf(res.journalId);
+        delete itemCache[cacheKey(res.journalId)];
+        if (pos !== -1) queue.splice(pos, 1);
+
+        document.getElementById('remaining').textContent = '未レビュー ' + queue.length + ' 件';
+
+        // 詰めた結果、同じ位置が次の対象になる（先読み済みなら通信なしで表示）
+        var next = pos === -1 ? null : queue[pos];
+        current = null;
+        if (next) {
+          openItem(next.journalId);
+        } else {
+          document.getElementById('detail').innerHTML =
+            '<p class="meta">左の一覧から次のジャーナルを選んでください。</p>';
+          renderQueue();
+        }
+      }
+
+      function renderPreview(preview) {
+        var rows = preview.map(function (p) {
+          return '<tr><th>' + escapeHtml(p.column) + '</th><td>' +
+            (p.value ? escapeHtml(p.value) : '<span class="empty">（空）</span>') + '</td></tr>';
+        }).join('');
+        document.getElementById('detail').insertAdjacentHTML('beforeend',
+          '<h2 style="margin-top:20px">転記される内容（空打ち）</h2>' +
+          '<table class="compare"><tbody>' + rows + '</tbody></table>');
+      }
+
+      function busy(on) {
+        var buttons = document.querySelectorAll('.actions button');
+        for (var i = 0; i < buttons.length; i++) buttons[i].disabled = on;
+      }
+
+      // ---------- 接続確認 ----------
+
+      function runCheck() {
+        document.getElementById('healthResult').innerHTML = '<p class="meta">確認中…</p>';
+        google.script.run
+          .withSuccessHandler(function (res) {
+            var html = '<table class="compare"><tbody>';
+            res.steps.forEach(function (step) {
+              var cls = step.status === 'OK' ? 'status-ok'
+                      : step.status === 'WARN' ? 'status-warn' : 'status-ng';
+              html += '<tr><th>' + escapeHtml(step.name) + '</th>' +
+                '<td class="' + cls + '">' + escapeHtml(step.status) + '</td>' +
+                '<td>' + escapeHtml(step.detail) + '</td></tr>';
+            });
+            html += '</tbody></table><p class="meta">実行: ' + escapeHtml(res.checkedAt) +
+                    ' / ' + escapeHtml(res.user) + '</p>';
+            document.getElementById('healthResult').innerHTML = html;
+          })
+          .withFailureHandler(fail)
           .getHealthCheck();
       }
 
-      function render(res) {
-        var html = res.ok
-          ? '<div class="banner banner-ok">すべての接続確認に成功しました。</div>'
-          : '<div class="banner banner-ng">確認に失敗しました: ' + escapeHtml(res.error || '') + '</div>';
+      // ---------- 共通 ----------
 
-        html += '<table><thead><tr><th>項目</th><th>結果</th><th>詳細</th></tr></thead><tbody>';
-        res.steps.forEach(function (step) {
-          var cls = step.status === 'OK' ? 'status-ok'
-                  : step.status === 'WARN' ? 'status-warn'
-                  : 'status-ng';
-          html += '<tr>' +
-            '<td>' + escapeHtml(step.name) + '</td>' +
-            '<td class="' + cls + '">' + escapeHtml(step.status) + '</td>' +
-            '<td>' + escapeHtml(step.detail) + '</td>' +
-          '</tr>';
-        });
-        html += '</tbody></table>';
-        html += '<p class="meta">実行日時: ' + escapeHtml(res.checkedAt) +
-                ' / 実行ユーザー: ' + escapeHtml(res.user) + '</p>';
+      function setBanner(kind, message) {
+        document.getElementById('banner').innerHTML = message
+          ? '<div class="banner banner-' + kind + '">' + escapeHtml(message) + '</div>' : '';
+      }
 
-        document.getElementById('result').innerHTML = html;
+      function fail(err) {
+        setBanner('ng', err && err.message ? err.message : String(err));
       }
 
       function escapeHtml(str) {
@@ -68,6 +329,12 @@
           return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
         });
       }
+
+      function escapeAttr(str) {
+        return escapeHtml(str);
+      }
+
+      loadQueue();
     </script>
   </body>
 </html>

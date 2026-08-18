@@ -12,6 +12,27 @@ var PROP_CONFIG_SHEET_ID = 'CONFIG_SHEET_ID';
 /** config シートのキャッシュ保持秒数 */
 var CONFIG_CACHE_SEC = 300;
 
+/** 同一実行内で使い回す config（CacheService も1回ごとにサービス呼び出しが発生するため） */
+var __configMemo = null;
+
+/** 同一実行内で開いたスプレッドシートを使い回す */
+var __bookMemo = {};
+
+/** 同一実行内で使い回すレビューシートの全データ */
+var __reviewDataMemo = null;
+
+/**
+ * スプレッドシートを開く（同一実行内では再利用する）
+ * @param {string} spreadsheetId
+ * @returns {GoogleAppsScript.Spreadsheet.Spreadsheet}
+ */
+function openBook(spreadsheetId) {
+  if (!__bookMemo[spreadsheetId]) {
+    __bookMemo[spreadsheetId] = SpreadsheetApp.openById(spreadsheetId);
+  }
+  return __bookMemo[spreadsheetId];
+}
+
 /**
  * 変数管理スプレッドシートの ID をスクリプトプロパティから取得する
  * @returns {string}
@@ -33,23 +54,30 @@ function getConfigSheetId() {
  * @returns {Object.<string, string>}
  */
 function getConfig(skipCache) {
+  if (!skipCache && __configMemo) return __configMemo;
+
   var cache = CacheService.getScriptCache();
   if (!skipCache) {
     var cached = cache.get('config');
-    if (cached) return JSON.parse(cached);
+    if (cached) {
+      __configMemo = JSON.parse(cached);
+      return __configMemo;
+    }
   }
 
-  var sheet = SpreadsheetApp.openById(getConfigSheetId()).getSheetByName('config');
+  var sheet = openBook(getConfigSheetId()).getSheetByName('config');
   if (!sheet) throw new Error('変数管理スプレッドシートに config シートが見つかりません');
 
   var values = sheet.getRange(1, 1, sheet.getLastRow(), 2).getValues();
   var config = {};
   for (var i = 0; i < values.length; i++) {
     var key = String(values[i][0] || '').trim();
-    if (key) config[key] = values[i][1] == null ? '' : String(values[i][1]);
+    // 前後の空白・改行はセル入力時に混入しやすいので取り除く
+    if (key) config[key] = values[i][1] == null ? '' : String(values[i][1]).trim();
   }
 
   cache.put('config', JSON.stringify(config), CONFIG_CACHE_SEC);
+  __configMemo = config;
   return config;
 }
 
@@ -66,16 +94,43 @@ function requireConfigValue(config, key) {
 }
 
 /**
+ * スプレッドシート ID を正規化する
+ *
+ * config セルに URL がそのまま貼られている場合は ID 部分を抜き出す。
+ * @param {string} value - config シートの値
+ * @param {string} key - エラーメッセージ用のキー名
+ * @returns {string} スプレッドシート ID
+ */
+function normalizeSheetId(value, key) {
+  var str = String(value || '').trim();
+
+  // https://docs.google.com/spreadsheets/d/<ID>/edit... の形式なら ID を抽出
+  var match = str.match(/\/spreadsheets\/d\/([a-zA-Z0-9_-]+)/);
+  if (match) return match[1];
+
+  // Google のファイル ID に使われない文字が混ざっていれば入力ミス
+  if (!/^[a-zA-Z0-9_-]+$/.test(str)) {
+    throw new Error(
+      'config シートの "' + key + '" がスプレッドシートIDとして不正です' +
+      '（' + str.length + '文字 / 使用できない文字を含みます）。' +
+      'URL の /spreadsheets/d/ と /edit の間の文字列を入力してください。'
+    );
+  }
+  return str;
+}
+
+/**
  * レビュー対象（レビューシート）とレビュー反映先（SCPJ本番シート）の参照をまとめて返す
+ * @param {boolean} [skipCache] - true で config シートを再読み込み
  * @returns {{reviewSheetId: string, reviewSheetName: string, scpjSheetId: string, scpjSheetName: string}}
  */
-function getSheetRefs() {
-  var config = getConfig();
+function getSheetRefs(skipCache) {
+  var config = getConfig(skipCache);
   return {
-    reviewSheetId:   requireConfigValue(config, 'REVIEW_SHEET_ID'),
+    reviewSheetId:   normalizeSheetId(requireConfigValue(config, 'REVIEW_SHEET_ID'), 'REVIEW_SHEET_ID'),
     reviewSheetName: requireConfigValue(config, 'REVIEW_SHEET_NAME'),
-    scpjSheetId:   requireConfigValue(config, 'SCPJ_SHEET_ID'),
-    scpjSheetName: requireConfigValue(config, 'SCPJ_SHEET_NAME'),
+    scpjSheetId:     normalizeSheetId(requireConfigValue(config, 'SCPJ_SHEET_ID'), 'SCPJ_SHEET_ID'),
+    scpjSheetName:   requireConfigValue(config, 'SCPJ_SHEET_NAME'),
   };
 }
 
@@ -86,13 +141,25 @@ function getSheetRefs() {
  * 未設定の場合は null を返す（接続確認では「未設定」として扱う）。
  * @returns {{formSheetId: string, formSheetName: string}|null}
  */
-function getFormSheetRef() {
-  var config = getConfig();
+function getFormSheetRef(skipCache) {
+  var config = getConfig(skipCache);
   if (!config['FORM_SHEET_ID'] || !config['FORM_SHEET_NAME']) return null;
   return {
-    formSheetId: config['FORM_SHEET_ID'],
+    formSheetId: normalizeSheetId(config['FORM_SHEET_ID'], 'FORM_SHEET_ID'),
     formSheetName: config['FORM_SHEET_NAME'],
   };
+}
+
+/**
+ * 空打ちモードかどうかを返す
+ *
+ * config シートの REVIEW_DRY_RUN が TRUE の間は、承認・却下を実行しても
+ * フォーム連携シートへの書き込みとレビューシートからの削除を行わない。
+ * 動作確認のあいだは TRUE にしておく。
+ * @returns {boolean}
+ */
+function isDryRun() {
+  return String(getConfig()['REVIEW_DRY_RUN'] || '').trim().toLowerCase() === 'true';
 }
 
 /**

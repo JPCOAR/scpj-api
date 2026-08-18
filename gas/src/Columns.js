@@ -5,8 +5,14 @@
  * 注意: バッチ側 src/batch/index.js の REVIEW_SHEET_COLUMNS と同一の並びであること。
  * 片方だけ変更すると差分行の読み取り位置がずれるため、必ず両方を同時に更新する。
  */
+/** フォーム由来の固定列名（レビューシート・フォーム回答シート共通） */
+var COL_TIMESTAMP = 'タイムスタンプ';
+var COL_EMAIL     = 'メールアドレス';
+var COL_ASSIGNEE  = 'ご担当者様氏名';
+var COL_CHECK     = '担当チェック欄';
+
 var REVIEW_SHEET_COLUMNS = [
-  'タイムスタンプ', 'メールアドレス', '担当者誌名',
+  COL_TIMESTAMP, COL_EMAIL, COL_ASSIGNEE,
   'Society_ID', 'Society_Name', 'Journal_ID', 'Journal_Title', 'Journal_Title_Alias',
   'Journal_Title_En', 'Journal_URL', 'ISSN-L', 'PISSN', 'EISSN', 'DOAJ',
   'OAType', 'OAType_Notes', 'Policy_URL',
@@ -22,7 +28,7 @@ var REVIEW_SHEET_COLUMNS = [
   'Accepted_Terms_Copyright', 'Accepted_Terms_By', 'Accepted_Terms_Link', 'Accepted_Terms_Notes',
   'Submitted_Archivability', 'Submitted_Location_IR', 'Submitted_Location_Author',
   'Submitted_Location_Funder', 'Submitted_Location_NonCommercial', 'Submitted_Location_Others',
-  'Submitted_Terms_Notes', 'Applicability', 'チェック',
+  'Submitted_Terms_Notes', 'Applicability', COL_CHECK,
 ];
 
 /**
@@ -46,7 +52,7 @@ var REVIEW_TO_SCPJ_COL = (function () {
 })();
 
 /** レビュー対象外（フォーム固定列・管理列）のレビューシート列名 */
-var NON_DATA_COLUMNS = ['タイムスタンプ', 'メールアドレス', '担当者誌名', 'チェック'];
+var NON_DATA_COLUMNS = [COL_TIMESTAMP, COL_EMAIL, COL_ASSIGNEE, COL_CHECK];
 
 /**
  * ヘッダー行から「列名 → 0始まりインデックス」のマップを作る

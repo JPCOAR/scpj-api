@@ -57,6 +57,7 @@ API利用者向けの情報は [README.md](../README.md) を参照してくだ�
    | `REPORT_EMAIL_FROM` | `noreply@example.com` | 差異通知メールの送信元 |
    | `FORM_SHEET_ID` | `1BXn...` | 承認データの転記先（Googleフォーム連携スプレッドシート）のID ※3 |
    | `FORM_SHEET_NAME` | `フォームの回答 1` | フォーム回答シートのシート名 ※3 |
+   | `REVIEW_DRY_RUN` | `FALSE` | `TRUE` の間はレビューアプリの承認・却下が書き込みを行わない ※3 |
 
    > **※1 スプレッドシートIDの確認方法:**
    > URLの `/spreadsheets/d/` と `/edit` の間にある文字列です。
