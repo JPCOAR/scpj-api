@@ -12,12 +12,12 @@ const CONFIG_SHEET_ID = process.env.CONFIG_SHEET_ID;
 const SENDGRID_API_KEY = process.env.SENDGRID_API_KEY;
 
 /**
- * テストシート（フォーム回答シート）の列定義
+ * レビューシート（レビュー用データプール）の列定義
  * 先頭3列: タイムスタンプ / メールアドレス / 担当者誌名（フォーム固定フィールド）
  * 末尾: チェック列
  * Embargo列はSCPJの "(months)" なし形式
  */
-const TEST_SHEET_COLUMNS = [
+const REVIEW_SHEET_COLUMNS = [
   'タイムスタンプ', 'メールアドレス', '担当者誌名',
   'Society_ID', 'Society_Name', 'Journal_ID', 'Journal_Title', 'Journal_Title_Alias',
   'Journal_Title_En', 'Journal_URL', 'ISSN-L', 'PISSN', 'EISSN', 'DOAJ',
@@ -38,9 +38,9 @@ const TEST_SHEET_COLUMNS = [
 ];
 
 /**
- * SCPJ列名 → テストシート列名 の変換（Embargo列は "(months)" なし形式）
+ * SCPJ列名 → レビューシート列名 の変換（Embargo列は "(months)" なし形式）
  */
-const SCPJ_TO_TEST_COL = {
+const SCPJ_TO_REVIEW_COL = {
   'Published_Embargo_General(months)': 'Published_Embargo_General',
   'Published_Embargo_Funded(months)':  'Published_Embargo_Funded',
   'Accepted_Embargo_General(months)':  'Accepted_Embargo_General',
@@ -48,35 +48,35 @@ const SCPJ_TO_TEST_COL = {
 };
 
 /**
- * テストシート追記行を構築する（A案: 本番データをベースにJ-STAGE差分値を上書き）
+ * レビューシート追記行を構築する（A案: 本番データをベースにJ-STAGE差分値を上書き）
  *
  * @param {string[]} headers - SCPJ ヘッダー行
  * @param {string[]} row - SCPJ データ行（元データ）
  * @param {Array} diffs - 差異リスト（{field: scpjColumn, sourceValue}[]）
  * @param {Array} complements - 空欄補完リスト（{field: scpjColumn, sourceValue}[]）
  * @param {string} runAt - 処理日時（ISO8601）
- * @returns {string[]} テストシート1行分の値配列
+ * @returns {string[]} レビューシート1行分の値配列
  */
-function buildTestSheetRow(headers, row, diffs, complements, runAt) {
-  // 本番データをテストシート列名でマップ化
+function buildReviewSheetRow(headers, row, diffs, complements, runAt) {
+  // 本番データをレビューシート列名でマップ化
   const valueMap = {};
   for (let i = 0; i < headers.length; i++) {
     const scpjCol = headers[i];
-    const testCol = SCPJ_TO_TEST_COL[scpjCol] || scpjCol;
-    valueMap[testCol] = row[i] ?? '';
+    const reviewCol = SCPJ_TO_REVIEW_COL[scpjCol] || scpjCol;
+    valueMap[reviewCol] = row[i] ?? '';
   }
   // J-STAGE 補完値（空欄 → 補填）を適用
   for (const comp of complements) {
-    const testCol = SCPJ_TO_TEST_COL[comp.field] || comp.field;
-    valueMap[testCol] = comp.sourceValue;
+    const reviewCol = SCPJ_TO_REVIEW_COL[comp.field] || comp.field;
+    valueMap[reviewCol] = comp.sourceValue;
   }
   // J-STAGE 差分値（既存値 → 上書き）を適用
   for (const diff of diffs) {
-    const testCol = SCPJ_TO_TEST_COL[diff.field] || diff.field;
-    valueMap[testCol] = diff.sourceValue;
+    const reviewCol = SCPJ_TO_REVIEW_COL[diff.field] || diff.field;
+    valueMap[reviewCol] = diff.sourceValue;
   }
-  // テストシート列順に並べて返す
-  return TEST_SHEET_COLUMNS.map(col => {
+  // レビューシート列順に並べて返す
+  return REVIEW_SHEET_COLUMNS.map(col => {
     if (col === 'タイムスタンプ') return runAt;
     if (col === 'メールアドレス') return '';
     if (col === '担当者誌名') return 'J-STAGE API 修正';
@@ -100,16 +100,16 @@ async function main() {
   // 読み込みは常に本番シート
   const sheetId   = cfg['SCPJ_SHEET_ID'];
   const sheetName = cfg['SCPJ_SHEET_NAME'];
-  // テストシート（差分追記先）
-  const testSheetId   = cfg['TEST_SHEET_ID'];
-  const testSheetName = cfg['TEST_SHEET_NAME'];
+  // レビューシート（差分追記先）
+  const reviewSheetId   = cfg['REVIEW_SHEET_ID'];
+  const reviewSheetName = cfg['REVIEW_SHEET_NAME'];
 
   const lastBatchRun = cfg['LAST_BATCH_RUN'] || null;
   const matchKeysScpj = (cfg['MATCH_KEY_SCPJ'] || 'ISSN-L').split(',').map(k => k.trim()).filter(Boolean);
 
   const modeLabel = useTestMode
     ? '補完モード（本番シートの空欄を補填）'
-    : 'J-STAGE差分チェックモード（テストシートに追記）';
+    : 'J-STAGE差分チェックモード（レビューシートに追記）';
   console.log(`モード: ${modeLabel} / 前回実行: ${lastBatchRun ?? '初回'}`);
 
   const mappings = await getMapping(auth, CONFIG_SHEET_ID);
@@ -135,20 +135,20 @@ async function main() {
     console.log('有効な JSTAGE マッピングなし → J-STAGE API 呼び出しをスキップ');
   }
 
-  // 差分チェックモード: 重複スキップ用に既存テストシート行を先読み
-  let existingTestRows = [];
-  if (!useTestMode && testSheetId && testSheetName) {
+  // 差分チェックモード: 重複スキップ用に既存レビューシート行を先読み
+  let existingReviewRows = [];
+  if (!useTestMode && reviewSheetId && reviewSheetName) {
     try {
-      const existing = await sheetsGet(auth, testSheetId, `${testSheetName}!A:BZ`);
-      existingTestRows = existing.slice(1); // ヘッダー行をスキップ
-      console.log(`テストシート既存行: ${existingTestRows.length} 件`);
+      const existing = await sheetsGet(auth, reviewSheetId, `${reviewSheetName}!A:BZ`);
+      existingReviewRows = existing.slice(1); // ヘッダー行をスキップ
+      console.log(`レビューシート既存行: ${existingReviewRows.length} 件`);
     } catch (e) {
-      console.warn(`テストシート既存行の読み込み失敗（重複チェックをスキップ）: ${e.message}`);
+      console.warn(`レビューシート既存行の読み込み失敗（重複チェックをスキップ）: ${e.message}`);
     }
   }
 
   const allUpdates    = [];  // 補完モード用: 本番シートへの書き込みリスト
-  const testSheetRows = [];  // 差分チェックモード用: テストシート追記行リスト
+  const reviewSheetRows = [];  // 差分チェックモード用: レビューシート追記行リスト
   const allDiffs      = [];
   let processedCount    = 0;
   let complementedCount = 0;
@@ -200,15 +200,15 @@ async function main() {
         allUpdates.push(...updates);
       }
     } else {
-      // 差分チェックモード: 差分または補完がある行をテストシート追記用に構築
+      // 差分チェックモード: 差分または補完がある行をレビューシート追記用に構築
       if (diffs.length > 0 || complements.length > 0) {
-        const newRow = buildTestSheetRow(headers, row, diffs, complements, runAt);
+        const newRow = buildReviewSheetRow(headers, row, diffs, complements, runAt);
         // タイムスタンプ以外が全て同一の行が既に存在する場合はスキップ
-        const isDuplicate = existingTestRows.some(existing =>
+        const isDuplicate = existingReviewRows.some(existing =>
           newRow.slice(1).every((val, i) => (existing[i + 1] ?? '') === val)
         );
         if (!isDuplicate) {
-          testSheetRows.push(newRow);
+          reviewSheetRows.push(newRow);
         }
       }
     }
@@ -232,12 +232,12 @@ async function main() {
       console.log('補完対象なし');
     }
   } else {
-    // 差分チェックモード: テストシートに一括追記
-    if (testSheetRows.length > 0) {
-      console.log(`テストシート追記: ${testSheetRows.length} 行`);
-      await sheetsAppendRows(auth, testSheetId, testSheetName, testSheetRows);
+    // 差分チェックモード: レビューシートに一括追記
+    if (reviewSheetRows.length > 0) {
+      console.log(`レビューシート追記: ${reviewSheetRows.length} 行`);
+      await sheetsAppendRows(auth, reviewSheetId, reviewSheetName, reviewSheetRows);
     } else {
-      console.log('差分なし → テストシート追記なし');
+      console.log('差分なし → レビューシート追記なし');
     }
   }
 

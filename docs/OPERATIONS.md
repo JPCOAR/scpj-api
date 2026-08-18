@@ -48,17 +48,24 @@ API利用者向けの情報は [README.md](../README.md) を参照してくだ�
    |---|---|---|
    | `SCPJ_SHEET_ID` | `1BXn...` | SCPJスプレッドシートのID ※1 |
    | `SCPJ_SHEET_NAME` | `data` | SCPJシートのシート名 |
-   | `TEST_SHEET_ID` | `1BXn...` | テスト用スプレッドシートのID |
-   | `TEST_SHEET_NAME` | `data` | テスト用シートのシート名 |
-   | `USE_TEST_MODE` | `FALSE` | テストモード。最初は `TRUE` で動作確認推奨 |
+   | `REVIEW_SHEET_ID` | `1BXn...` | レビュー用データプール（差分の追記先）のスプレッドシートID |
+   | `REVIEW_SHEET_NAME` | `data` | レビュー用データプールのシート名 |
+   | `USE_TEST_MODE` | `FALSE` | バッチの動作モード。`TRUE`=補完モード（**本番シートに書き込む**） / `FALSE`=差分チェックモード ※2 |
    | `MATCH_KEY_SCPJ` | `ISSN-L,EISSN,PISSN` | J-STAGE照合に使うISSN列名（左から優先） |
    | `LAST_BATCH_RUN` | （空欄でOK） | バッチが自動更新します |
    | `REPORT_EMAIL_TO` | `admin@example.com` | 差異通知メールの送信先 |
    | `REPORT_EMAIL_FROM` | `noreply@example.com` | 差異通知メールの送信元 |
+   | `FORM_SHEET_ID` | `1BXn...` | 承認データの転記先（Googleフォーム連携スプレッドシート）のID ※3 |
+   | `FORM_SHEET_NAME` | `フォームの回答 1` | フォーム回答シートのシート名 ※3 |
 
    > **※1 スプレッドシートIDの確認方法:**
    > URLの `/spreadsheets/d/` と `/edit` の間にある文字列です。
    > 例: `https://docs.google.com/spreadsheets/d/`**`1BXnU7whCp...`**`/edit`
+
+   > **※2** `USE_TEST_MODE` が制御するのはバッチの書き込み先だけです。
+   > 静的JSON生成（`npm run generate`）は常に SCPJ 本番シートを参照します。
+
+   > **※3** GASレビューアプリ（`gas/`）専用。バッチ・静的JSON生成では使用しません。
 
 ### ステップ2：GitHub Secretsの登録（管理者作業）
 
@@ -143,10 +150,10 @@ configシートの `USE_TEST_MODE` の値によって、バッチの動作が切
 | USE_TEST_MODE | 動作 | 書き込み先 |
 |---|---|---|
 | `TRUE`（補完モード） | SCPJシートの**空欄のみ**にJ-STAGEの値を書き込む | SCPJシート（本番） |
-| `FALSE`（差分チェックモード） | J-STAGEと差異がある行を**テストシートに追記**する | テストシート |
+| `FALSE`（差分チェックモード） | J-STAGEと差異がある行を**レビューシートに追記**する | レビューシート |
 
 - **補完モード**: 欠損データを埋める。本番シートが直接更新されます
-- **差分チェックモード**: J-STAGEの最新値とSCPJの差異を検出し、テストシートに「修正案」として追記。確認・承認してから本番に取り込む運用を想定
+- **差分チェックモード**: J-STAGEの最新値とSCPJの差異を検出し、レビューシートに「修正案」として追記。確認・承認してから本番に取り込む運用を想定
 
 > 通常運用では `USE_TEST_MODE=FALSE`（差分チェックモード）を使用します。
 
@@ -173,7 +180,7 @@ configシートの `USE_TEST_MODE` の値によって、バッチの動作が切
 |---|---|---|
 | `FALSE` | （どちらでも） | **無効**: J-STAGEからの補完を行わない |
 | `TRUE` | `FALSE` または空 | **補完のみ**: 空欄の場合だけ書き込む（補完モード時） |
-| `TRUE` | `TRUE` | **上書き検出**: 差異があればテストシートに追記（差分チェックモード時） |
+| `TRUE` | `TRUE` | **上書き検出**: 差異があればレビューシートに追記（差分チェックモード時） |
 
 ### D列（sourcePath）に使用できる値
 
@@ -245,7 +252,7 @@ Actions タブから **Deploy Static JSON** を手動実行してください。
 > - `SENDGRID_API_KEY` を第三者に共有しない
 
 - `USE_TEST_MODE=TRUE`（補完モード）では本番SCPJシートの**空欄のみ**に書き込みます。既存の値は変更されません
-- `USE_TEST_MODE=FALSE`（差分チェックモード）では本番シートを変更せず、差分をテストシートに追記します
+- `USE_TEST_MODE=FALSE`（差分チェックモード）では本番シートを変更せず、差分をレビューシートに追記します
 
 ---
 
@@ -348,16 +355,17 @@ scpj-api/
 
 | 日付 | 変更内容 |
 |---|---|
+| 2026-08-18 | configキーを `TEST_SHEET_ID` / `TEST_SHEET_NAME` → `REVIEW_SHEET_ID` / `REVIEW_SHEET_NAME` に改名。静的JSON生成のテストモード分岐を削除（常に本番シートを参照）。GASレビューアプリを追加 |
 | 2026-04-01 | J-STAGE API v2.0対応: service=1切替・OAフィールド補完実装（ioa_location_ir_ok / ioa_oa_type / ioa_oa_type_notes） |
 | 2026-03-30 | ワークフローをNode.js 24に更新 |
 | 2026-03-23 | README/OPERATIONSを分割。ブランチ運用ルールを追加 |
-| 2026-03-15 | テストシート行上限（1700行）超過エラーを解消（`values.append + INSERT_ROWS` に変更） |
+| 2026-03-15 | レビューシート行上限（1700行）超過エラーを解消（`values.append + INSERT_ROWS` に変更） |
 | 2026-03-15 | 差分チェックモードでタイムスタンプ以外が同一のレコードの重複書き込みをスキップ |
 | 2026-03-13 | バッチをUSE_TEST_MODEによる2モード分岐に再設計（補完モード / 差分チェックモード） |
 | 2026-03-13 | ISSNのハイフン差異を正しく検出・是正するよう修正 |
-| 2026-03-13 | テストシート追記行に空欄補完値（complements）も反映するよう修正 |
+| 2026-03-13 | レビューシート追記行に空欄補完値（complements）も反映するよう修正 |
 | 2026-03-13 | J-STAGE APIの全巻号エントリを走査してprism:issnを確実に取得するよう改善 |
-| 2026-03-13 | テストシートへの追記位置を明示化（入力済み範囲の直後に追記） |
+| 2026-03-13 | レビューシートへの追記位置を明示化（入力済み範囲の直後に追記） |
 | 2026-03-12 | J-STAGE連携に `prism:issn` / `prism:eIssn`（PISSN・EISSN）フィールドを追加 |
 | 2026-03-12 | J-STAGE共通フィールド補完・上書きフラグ（mapping H列）を実装 |
 | 2026-03-11 | ISSNルックアップをハイフンあり・なし両対応に対応 |

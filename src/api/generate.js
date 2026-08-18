@@ -21,14 +21,13 @@ async function generate() {
   const auth = await getAuthClient();
   const cfg = await getConfig(auth, CONFIG_SHEET_ID);
 
-  const useTestMode = (cfg['USE_TEST_MODE'] || '').toLowerCase() === 'true';
-  const sheetId = useTestMode ? cfg['TEST_SHEET_ID'] : cfg['SCPJ_SHEET_ID'];
-  const sheetName = useTestMode ? cfg['TEST_SHEET_NAME'] : cfg['SCPJ_SHEET_NAME'];
-  const outputDir = useTestMode
-    ? path.join(__dirname, '../../docs/test/data')
-    : path.join(__dirname, '../../docs/data');
+  // 静的 JSON は常に SCPJ 本番シートから生成する。
+  // レビューシート（REVIEW_SHEET_ID）は列構成が異なるため生成元にはできない。
+  const sheetId = cfg['SCPJ_SHEET_ID'];
+  const sheetName = cfg['SCPJ_SHEET_NAME'];
+  const outputDir = path.join(__dirname, '../../docs/data');
 
-  console.log(`静的 JSON 生成開始 / モード: ${useTestMode ? 'テスト' : '本番'} / シート: ${sheetId}`);
+  console.log(`静的 JSON 生成開始 / シート: ${sheetId}`);
 
   const { headers, rows } = await readScpjSheet(auth, sheetId, sheetName);
   // rows[0] は日本語ラベル行（ジャーナルID等）なのでスキップ
