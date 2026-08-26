@@ -1,23 +1,27 @@
 {
   "items": [
     {
-      "journal_id": "J000004",
+      "journal_id": "J000016",
       "titles": [
         {
-          "title": "照明学会誌",
+          "title": "ラテン･アメリカ論集",
           "language": "ja"
+        },
+        {
+          "title": "Latin America Ronshu",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "JIEIJ",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "00192341"
+          "issn": "0286004X"
         },
         {
           "type": "electronic",
-          "issn": "1349838X"
+          "issn": "24365572"
         }
       ],
       "listed_in_doaj": null,
@@ -26,12 +30,12 @@
       "non_embargo_oa": null,
       "applicability": null,
       "society": {
-        "id": "S000003",
-        "name": "照明学会",
+        "id": "S000013",
+        "name": "ラテン・アメリカ政経学会",
         "name_en": null,
-        "url": "https://www.ieij.or.jp/",
+        "url": "http://www.js3la.jp/",
         "contact_url": null,
-        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00046"
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00621"
       },
       "publisher_policy": [
         {
@@ -101,9 +105,9 @@
           }
         }
       ],
-      "policy_url": "https://www.ieij.or.jp/JIEIJ/copyright.html",
+      "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/18",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "照明学会誌",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF THE ILLUMINATING ENGINEERING INSTITUTE OF JAPAN",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JIEIJ",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00192341"
+      "issn": "192341"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.ieij.or.jp/JIEIJ/copyright.html",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/08/26",
   "sheet_updated_at": null
 }

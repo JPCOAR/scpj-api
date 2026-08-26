@@ -312,6 +312,10 @@
         {
           "title": "照明学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF THE ILLUMINATING ENGINEERING INSTITUTE OF JAPAN",
+          "language": "en"
         }
       ],
       "journal_title_alias": "JIEIJ",
@@ -319,7 +323,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00192341"
+          "issn": "192341"
         },
         {
           "type": "electronic",
@@ -409,7 +413,7 @@
       ],
       "policy_url": "https://www.ieij.or.jp/JIEIJ/copyright.html",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/26",
       "sheet_updated_at": null
     },
     {
@@ -1456,8 +1460,12 @@
       "journal_id": "J000015",
       "titles": [
         {
-          "title": "モルフォロギア : ゲーテと自然科学",
+          "title": "モルフォロギア: ゲーテと自然科学",
           "language": "ja"
+        },
+        {
+          "title": "Morphologia",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -1555,7 +1563,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/18",
       "sheet_updated_at": null
     },
     {
@@ -1564,6 +1572,10 @@
         {
           "title": "ラテン･アメリカ論集",
           "language": "ja"
+        },
+        {
+          "title": "Latin America Ronshu",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -1572,6 +1584,10 @@
         {
           "type": "print",
           "issn": "0286004X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24365572"
         }
       ],
       "listed_in_doaj": null,
@@ -1657,7 +1673,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/18",
       "sheet_updated_at": null
     },
     {
