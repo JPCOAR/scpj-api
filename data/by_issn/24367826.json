@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "journal_id": "J000085",
+      "titles": [
+        {
+          "title": "福島医学雑誌",
+          "language": "ja"
+        },
+        {
+          "title": "FUKUSHIMA MEDICAL JOURNAL",
+          "language": "en"
+        }
+      ],
+      "journal_title_alias": null,
+      "journal_url": null,
+      "issns": [
+        {
+          "type": "print",
+          "issn": "162582"
+        },
+        {
+          "type": "electronic",
+          "issn": "24367826"
+        }
+      ],
+      "listed_in_doaj": null,
+      "oa_type": null,
+      "oa_type_notes": null,
+      "non_embargo_oa": null,
+      "applicability": null,
+      "society": {
+        "id": "S000065",
+        "name": "福島医学会",
+        "name_en": null,
+        "url": "http://www.fmu.ac.jp/home/lib/F-igaku/",
+        "contact_url": null,
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00322"
+      },
+      "publisher_policy": [
+        {
+          "article_version": "published",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "accepted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": {
+            "general_months": null,
+            "funded_months": null
+          },
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        },
+        {
+          "article_version": "submitted",
+          "copyright_owner": null,
+          "licence": null,
+          "archivability": null,
+          "location": {
+            "ir": null,
+            "author": null,
+            "funder": null,
+            "non_commercial": null,
+            "others": null
+          },
+          "embargo": null,
+          "terms": {
+            "copyright": null,
+            "by": null,
+            "link": null,
+            "notes": null
+          }
+        }
+      ],
+      "policy_url": "https://www.fmu.ac.jp/home/lib/F-igaku/kikanshi.html",
+      "cdjournal": null,
+      "updated_at": "2026/08/27",
+      "sheet_updated_at": null
+    }
+  ]
+}

@@ -4,6 +4,10 @@
     {
       "title": "福島医学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "FUKUSHIMA MEDICAL JOURNAL",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00162582"
+      "issn": "162582"
+    },
+    {
+      "type": "electronic",
+      "issn": "24367826"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.fmu.ac.jp/home/lib/F-igaku/kikanshi.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

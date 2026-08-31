@@ -4,6 +4,10 @@
     {
       "title": "Bulletin of Japan Society of Coordination Chemistry",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of Japan Society of Coordination Chemistry",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.sakutai.jp/books/bjscc",
   "cdjournal": null,
-  "updated_at": "2020/12/07",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

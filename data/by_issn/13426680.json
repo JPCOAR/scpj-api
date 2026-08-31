@@ -6,6 +6,10 @@
         {
           "title": "日本バーチャルリアリティ学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Virtual Reality Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13426680"
+        },
+        {
+          "type": "electronic",
+          "issn": "24358746"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.vrsj.org/wp-content/themes/vrsj/dl/chosakuguide.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

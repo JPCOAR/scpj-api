@@ -4,6 +4,10 @@
     {
       "title": "文学と教育",
       "language": "ja"
+    },
+    {
+      "title": "BUNGAKU TO KYOIKU",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02876205"
+      "issn": "2876205"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/01/07",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

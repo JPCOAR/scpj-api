@@ -4,6 +4,10 @@
     {
       "title": "マリンエンジニアリング",
       "language": "ja"
+    },
+    {
+      "title": "Marine Engineering",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of The Japan Institute of Marine Engineering",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/03/09",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

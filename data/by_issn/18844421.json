@@ -6,6 +6,10 @@
         {
           "title": "日本歯科理工学会誌",
           "language": "ja"
+        },
+        {
+          "title": "THE JOURNAL OF JAPANESE SOCIETY FOR DENTAL MATERIALS AND DEVICES",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)歯科材料・器械",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18844421"
+        },
+        {
+          "type": "electronic",
+          "issn": "2188417X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

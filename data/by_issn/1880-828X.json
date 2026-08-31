@@ -6,6 +6,10 @@
         {
           "title": "Journal of Hard Tissue Biology",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Hard Tissue Biology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.htbiol.gr.jp/Japanese/4-jthb/Manus-J.htm",
       "cdjournal": null,
-      "updated_at": "2010/12/22",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

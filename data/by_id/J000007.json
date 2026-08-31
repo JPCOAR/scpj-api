@@ -2,8 +2,12 @@
   "journal_id": "J000007",
   "titles": [
     {
-      "title": "日本機械学会会誌 (日本機械学会誌)",
+      "title": "日本機械学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Society of Mechanical Engineers",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00214728"
+      "issn": "214728"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jsme.or.jp/publish/yoko/kyodaku.pdf",
   "cdjournal": null,
-  "updated_at": "2018/06/22",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

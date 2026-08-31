@@ -4,6 +4,10 @@
     {
       "title": "Plant Root",
       "language": "ja"
+    },
+    {
+      "title": "Plant Root",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": "http://www.plantroot.org/instruction.htm",
   "cdjournal": null,
-  "updated_at": "2021/03/04",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

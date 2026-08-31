@@ -2,8 +2,12 @@
   "journal_id": "J000074",
   "titles": [
     {
-      "title": "Neue Beitrage zur Germanistik",
+      "title": "ドイツ文學",
       "language": "ja"
+    },
+    {
+      "title": "die Deutsche Literatur",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03872831"
+      "issn": "3872831"
+    },
+    {
+      "type": "electronic",
+      "issn": "21870020"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jgg.jp/pluginfile.php/346/mod_page/content/28/Toukou_youryou_jp_2024.pdf?time=1709274856877",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

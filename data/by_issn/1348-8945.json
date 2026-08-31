@@ -6,6 +6,10 @@
         {
           "title": "Tropical Medicine and Health",
           "language": "ja"
+        },
+        {
+          "title": "Tropical Medicine and Health",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://tropmedhealth.biomedcentral.com/submission-guidelines/copyright",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

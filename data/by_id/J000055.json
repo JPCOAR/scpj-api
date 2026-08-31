@@ -4,6 +4,10 @@
     {
       "title": "Hypertension Research",
       "language": "ja"
+    },
+    {
+      "title": "Hypertension Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09169636"
+      "issn": "9169636"
+    },
+    {
+      "type": "electronic",
+      "issn": "13484214"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jpnsh.jp/data/HRinstructions.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

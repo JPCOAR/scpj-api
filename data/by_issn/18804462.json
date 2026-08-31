@@ -6,6 +6,10 @@
         {
           "title": "山口医学",
           "language": "ja"
+        },
+        {
+          "title": "Yamaguchi Medical Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "05131731"
+          "issn": "5131731"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

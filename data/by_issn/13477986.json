@@ -6,6 +6,10 @@
         {
           "title": "知能と情報",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.j-soft.org/post/tyosakukenkitei",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

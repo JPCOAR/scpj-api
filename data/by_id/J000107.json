@@ -2,8 +2,12 @@
   "journal_id": "J000107",
   "titles": [
     {
-      "title": "リハビリテーション医学 : 日本リハビリテーション医学会誌",
+      "title": "リハビリテーション医学",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Rehabilitation Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": "The Japanese Journal of Rehabilitation Medicine",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "18813526"
+      "issn": "0034351X"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jarm.or.jp/member/journal_domestic.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

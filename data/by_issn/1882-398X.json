@@ -6,6 +6,10 @@
         {
           "title": "日本森林学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Forest Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of The Japanese Forest Society",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.forestry.jp/publish/copyright/",
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "新約学研究",
           "language": "ja"
+        },
+        {
+          "title": "New Testament Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": "New Testament Studies",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02869055"
+          "issn": "2869055"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/01",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "日本農村医学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF THE JAPANESE ASSOCIATION OF RURAL MEDICINE",
+      "language": "en"
     }
   ],
   "journal_title_alias": "日農医誌",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "04682513"
+      "issn": "4682513"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jarm.jp/magazine/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

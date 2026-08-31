@@ -6,6 +6,10 @@
         {
           "title": "ロシア・東欧研究",
           "language": "ja"
+        },
+        {
+          "title": "Russian and East European Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jarees.jp/plugin/bbses/show/16/64/5",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

@@ -4,8 +4,12 @@
       "journal_id": "J000034",
       "titles": [
         {
-          "title": "東南アジアー歴史と文化",
+          "title": "東南アジア －歴史と文化－",
           "language": "ja"
+        },
+        {
+          "title": "Southeast Asia: History and Culture",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03869040"
+          "issn": "3869040"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsseas.org/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2%E5%AD%A6%E4%BC%9A%E8%A6%8F%E7%A8%8B%E9%9B%86/%E8%91%97%E4%BD%9C%E6%A8%A9%E8%A6%8F%E7%A8%8B/",
       "cdjournal": null,
-      "updated_at": "2020/12/10",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

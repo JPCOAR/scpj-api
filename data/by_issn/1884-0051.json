@@ -6,6 +6,10 @@
         {
           "title": "印度學佛教學研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Indian and Buddhist Studies (Indogaku Bukkyogaku Kenkyu)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00194344"
+          "issn": "194344"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

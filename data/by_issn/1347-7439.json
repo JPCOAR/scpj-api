@@ -4,8 +4,12 @@
       "journal_id": "J000058",
       "titles": [
         {
-          "title": "The Journal of Veterinary Medical Science",
+          "title": "Journal of Veterinary Medical Science",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Veterinary Medical Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)Japanese journal of veterinary science",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09167250"
+          "issn": "9167250"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jsvetsci.jp/jvms/instructions-for-authors/",
       "cdjournal": null,
-      "updated_at": "2014/09/26",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

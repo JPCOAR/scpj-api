@@ -422,6 +422,10 @@
         {
           "title": "Journal of Light & Visual Environment",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Light & Visual Environment",
+          "language": "en"
         }
       ],
       "journal_title_alias": "JLVE",
@@ -429,7 +433,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03878805"
+          "issn": "3878805"
         },
         {
           "type": "electronic",
@@ -519,7 +523,7 @@
       ],
       "policy_url": "https://www.ieij.or.jp/JIEIJ/copyright.html",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -628,8 +632,12 @@
       "journal_id": "J000007",
       "titles": [
         {
-          "title": "日本機械学会会誌 (日本機械学会誌)",
+          "title": "日本機械学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Society of Mechanical Engineers",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -637,7 +645,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00214728"
+          "issn": "214728"
         },
         {
           "type": "electronic",
@@ -727,7 +735,7 @@
       ],
       "policy_url": "http://www.jsme.or.jp/publish/yoko/kyodaku.pdf",
       "cdjournal": null,
-      "updated_at": "2018/06/22",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -736,6 +744,10 @@
         {
           "title": "日本航海学会誌 NAVIGATION",
           "language": "ja"
+        },
+        {
+          "title": "NAVIGATION",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)航海、NAVIGATION",
@@ -743,7 +755,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09199985"
+          "issn": "9199985"
+        },
+        {
+          "type": "electronic",
+          "issn": "21898073"
         }
       ],
       "listed_in_doaj": null,
@@ -829,7 +845,7 @@
       ],
       "policy_url": "https://j-nav.org/document-creation/",
       "cdjournal": null,
-      "updated_at": "2021/07/28",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -838,6 +854,10 @@
         {
           "title": "圧力技術",
           "language": "ja"
+        },
+        {
+          "title": "Journal of High Pressure Institute of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -845,7 +865,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03870154"
+          "issn": "3870154"
         },
         {
           "type": "electronic",
@@ -935,7 +955,7 @@
       ],
       "policy_url": "http://www.hpij.org/journal/",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -944,6 +964,10 @@
         {
           "title": "日本写真学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of The Society of Photographic Science and Technology of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -951,7 +975,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03695662"
+          "issn": "3695662"
         },
         {
           "type": "electronic",
@@ -1041,7 +1065,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -1254,6 +1278,10 @@
         {
           "title": "都市計画論文集",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the City Planning Institute of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -1347,7 +1375,7 @@
       ],
       "policy_url": "http://www.cpij.or.jp/summary/rules/copyright.html",
       "cdjournal": null,
-      "updated_at": "2017/11/16",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -1356,6 +1384,10 @@
         {
           "title": "溶接学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF THE JAPAN WELDING SOCIETY",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of the Japan Welding Society",
@@ -1363,7 +1395,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00214787"
+          "issn": "214787"
         },
         {
           "type": "electronic",
@@ -1453,7 +1485,7 @@
       ],
       "policy_url": "https://jweld.jp/collection/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -1682,6 +1714,10 @@
         {
           "title": "レーザー研究",
           "language": "ja"
+        },
+        {
+          "title": "The Review of Laser Engineering",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Review OF LASER Engineering",
@@ -1689,7 +1725,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03870200"
+          "issn": "3870200"
         },
         {
           "type": "electronic",
@@ -1779,7 +1815,7 @@
       ],
       "policy_url": "https://www.lsj.or.jp/publications/rle/submission/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -1788,6 +1824,10 @@
         {
           "title": "応用統計学",
           "language": "ja"
+        },
+        {
+          "title": "Ouyou toukeigaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -1795,7 +1835,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02850370"
+          "issn": "2850370"
         },
         {
           "type": "electronic",
@@ -1885,7 +1925,7 @@
       ],
       "policy_url": "https://www.applstat.gr.jp/journal/stylefile/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2204,6 +2244,10 @@
         {
           "title": "FORMA",
           "language": "ja"
+        },
+        {
+          "title": "FORMA",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -2211,7 +2255,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09116036"
+          "issn": "9116036"
+        },
+        {
+          "type": "electronic",
+          "issn": "21891311"
         }
       ],
       "listed_in_doaj": null,
@@ -2297,7 +2345,7 @@
       ],
       "policy_url": "http://katachi-jp.com/paperkitei",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2408,6 +2456,10 @@
         {
           "title": "Journal of Hard Tissue Biology",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Hard Tissue Biology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -2505,7 +2557,7 @@
       ],
       "policy_url": "http://www.htbiol.gr.jp/Japanese/4-jthb/Manus-J.htm",
       "cdjournal": null,
-      "updated_at": "2010/12/22",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2514,6 +2566,10 @@
         {
           "title": "国際ビジネス研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of International Business",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of International Business",
@@ -2611,7 +2667,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/26",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2620,6 +2676,10 @@
         {
           "title": "Plant Root",
           "language": "ja"
+        },
+        {
+          "title": "Plant Root",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -2713,7 +2773,7 @@
       ],
       "policy_url": "http://www.plantroot.org/instruction.htm",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2722,6 +2782,10 @@
         {
           "title": "根の研究",
           "language": "ja"
+        },
+        {
+          "title": "Root Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Root Research",
@@ -2729,7 +2793,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09192182"
+          "issn": "9192182"
         },
         {
           "type": "electronic",
@@ -2819,7 +2883,7 @@
       ],
       "policy_url": "http://www.jsrr.jp/rspnsv/rule.html",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2828,6 +2892,10 @@
         {
           "title": "Bulletin of Japan Society of Coordination Chemistry",
           "language": "ja"
+        },
+        {
+          "title": "Bulletin of Japan Society of Coordination Chemistry",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -2925,7 +2993,7 @@
       ],
       "policy_url": "http://www.sakutai.jp/books/bjscc",
       "cdjournal": null,
-      "updated_at": "2020/12/07",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -2934,6 +3002,10 @@
         {
           "title": "山口医学",
           "language": "ja"
+        },
+        {
+          "title": "Yamaguchi Medical Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -2941,7 +3013,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "05131731"
+          "issn": "5131731"
         },
         {
           "type": "electronic",
@@ -3031,7 +3103,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -3040,6 +3112,10 @@
         {
           "title": "植物の生長調節",
           "language": "ja"
+        },
+        {
+          "title": "Regulation of Plant Growth & Development",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)植物の化学調節",
@@ -3048,6 +3124,10 @@
         {
           "type": "print",
           "issn": "13465406"
+        },
+        {
+          "type": "electronic",
+          "issn": "21896305"
         }
       ],
       "listed_in_doaj": null,
@@ -3133,7 +3213,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/18",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -3142,6 +3222,10 @@
         {
           "title": "森林立地",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Forest Environment",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese Journal of Forest Environment",
@@ -3149,7 +3233,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03888673"
+          "issn": "3888673"
         },
         {
           "type": "electronic",
@@ -3239,7 +3323,7 @@
       ],
       "policy_url": "https://shinrin-ritchi.jp/",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -3449,8 +3533,12 @@
       "journal_id": "J000034",
       "titles": [
         {
-          "title": "東南アジアー歴史と文化",
+          "title": "東南アジア －歴史と文化－",
           "language": "ja"
+        },
+        {
+          "title": "Southeast Asia: History and Culture",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -3458,7 +3546,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03869040"
+          "issn": "3869040"
         },
         {
           "type": "electronic",
@@ -3548,15 +3636,19 @@
       ],
       "policy_url": "https://www.jsseas.org/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2%E5%AD%A6%E4%BC%9A%E8%A6%8F%E7%A8%8B%E9%9B%86/%E8%91%97%E4%BD%9C%E6%A8%A9%E8%A6%8F%E7%A8%8B/",
       "cdjournal": null,
-      "updated_at": "2020/12/10",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000035",
       "titles": [
         {
-          "title": "日本ＡＥＭ学会誌",
+          "title": "日本AEM学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Society of Applied Electromagnetics and Mechanics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -3564,7 +3656,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09194452"
+          "issn": "9194452"
+        },
+        {
+          "type": "electronic",
+          "issn": "21879257"
         }
       ],
       "listed_in_doaj": null,
@@ -3650,7 +3746,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -4066,6 +4162,10 @@
         {
           "title": "日本バーチャルリアリティ学会論文誌",
           "language": "ja"
+        },
+        {
+          "title": "Transactions of the Virtual Reality Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4074,6 +4174,10 @@
         {
           "type": "print",
           "issn": "1344011X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24239593"
         }
       ],
       "listed_in_doaj": null,
@@ -4159,7 +4263,7 @@
       ],
       "policy_url": "http://www.vrsj.org/wp-content/themes/vrsj/dl/chosakuguide.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -4168,6 +4272,10 @@
         {
           "title": "日本バーチャルリアリティ学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Virtual Reality Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4176,6 +4284,10 @@
         {
           "type": "print",
           "issn": "13426680"
+        },
+        {
+          "type": "electronic",
+          "issn": "24358746"
         }
       ],
       "listed_in_doaj": null,
@@ -4261,7 +4373,7 @@
       ],
       "policy_url": "http://www.vrsj.org/wp-content/themes/vrsj/dl/chosakuguide.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -4372,6 +4484,10 @@
         {
           "title": "日本リスク研究学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Risk Analysis",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4379,7 +4495,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09155465"
+          "issn": "9155465"
+        },
+        {
+          "type": "electronic",
+          "issn": "21854548"
         }
       ],
       "listed_in_doaj": null,
@@ -4465,7 +4585,7 @@
       ],
       "policy_url": "http://www.sra-japan.jp/cms/uploads/toukou_kitei_101003.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -4580,6 +4700,10 @@
         {
           "title": "印度學佛教學研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Indian and Buddhist Studies (Indogaku Bukkyogaku Kenkyu)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4587,7 +4711,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00194344"
+          "issn": "194344"
         },
         {
           "type": "electronic",
@@ -4677,15 +4801,19 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000046",
       "titles": [
         {
-          "title": "宇宙生物科学 Biological Sciences in Space",
+          "title": "Biological Sciences in Space",
           "language": "ja"
+        },
+        {
+          "title": "Biological Sciences in Space",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4693,7 +4821,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09149201"
+          "issn": "9149201"
         },
         {
           "type": "electronic",
@@ -4783,7 +4911,7 @@
       ],
       "policy_url": "http://www.jsbss.jp/special/?id=28157",
       "cdjournal": null,
-      "updated_at": "2020/12/15",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -5200,6 +5328,10 @@
         {
           "title": "科学教育研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Science Education in Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Science Education in Japan",
@@ -5207,7 +5339,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03864553"
+          "issn": "3864553"
         },
         {
           "type": "electronic",
@@ -5297,7 +5429,7 @@
       ],
       "policy_url": "https://jsse.jp/regulation/39-2",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -5406,8 +5538,12 @@
       "journal_id": "J000053",
       "titles": [
         {
-          "title": "Historia Scientiarum Second series",
+          "title": "Historia Scientiarum. Second Series: International Journal of the History of Science Society of Japan",
           "language": "ja"
+        },
+        {
+          "title": "Historia Scientiarum. Second Series: International Journal of the History of Science Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -5415,7 +5551,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02854821"
+          "issn": "2854821"
+        },
+        {
+          "type": "electronic",
+          "issn": "24369020"
         }
       ],
       "listed_in_doaj": null,
@@ -5501,7 +5641,7 @@
       ],
       "policy_url": "http://historyofscience.jp/?page_id=380",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -5612,6 +5752,10 @@
         {
           "title": "Hypertension Research",
           "language": "ja"
+        },
+        {
+          "title": "Hypertension Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -5619,7 +5763,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09169636"
+          "issn": "9169636"
+        },
+        {
+          "type": "electronic",
+          "issn": "13484214"
         }
       ],
       "listed_in_doaj": null,
@@ -5705,7 +5853,7 @@
       ],
       "policy_url": "https://www.jpnsh.jp/data/HRinstructions.pdf",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -5714,6 +5862,10 @@
         {
           "title": "Dental Materials Journal",
           "language": "ja"
+        },
+        {
+          "title": "Dental Materials Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -5721,7 +5873,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02874547"
+          "issn": "2874547"
         },
         {
           "type": "electronic",
@@ -5811,7 +5963,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -5820,6 +5972,10 @@
         {
           "title": "日本歯科理工学会誌",
           "language": "ja"
+        },
+        {
+          "title": "THE JOURNAL OF JAPANESE SOCIETY FOR DENTAL MATERIALS AND DEVICES",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)歯科材料・器械",
@@ -5828,6 +5984,10 @@
         {
           "type": "print",
           "issn": "18844421"
+        },
+        {
+          "type": "electronic",
+          "issn": "2188417X"
         }
       ],
       "listed_in_doaj": null,
@@ -5913,15 +6073,19 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000058",
       "titles": [
         {
-          "title": "The Journal of Veterinary Medical Science",
+          "title": "Journal of Veterinary Medical Science",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Veterinary Medical Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)Japanese journal of veterinary science",
@@ -5929,7 +6093,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09167250"
+          "issn": "9167250"
         },
         {
           "type": "electronic",
@@ -6019,7 +6183,7 @@
       ],
       "policy_url": "http://jsvetsci.jp/jvms/instructions-for-authors/",
       "cdjournal": null,
-      "updated_at": "2014/09/26",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6128,8 +6292,12 @@
       "journal_id": "J000060",
       "titles": [
         {
-          "title": "信頼性",
+          "title": "日本信頼性技術協会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Reliability Association of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -6137,7 +6305,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09192697"
+          "issn": "9192697"
+        },
+        {
+          "type": "electronic",
+          "issn": "18846475"
         }
       ],
       "listed_in_doaj": null,
@@ -6223,7 +6395,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6232,6 +6404,10 @@
         {
           "title": "新約学研究",
           "language": "ja"
+        },
+        {
+          "title": "New Testament Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": "New Testament Studies",
@@ -6239,7 +6415,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02869055"
+          "issn": "2869055"
         },
         {
           "type": "electronic",
@@ -6329,7 +6505,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/01",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6444,6 +6620,10 @@
         {
           "title": "森林科学",
           "language": "ja"
+        },
+        {
+          "title": "Shinrin Kagaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Shinrinkagaku",
@@ -6451,7 +6631,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09171908"
+          "issn": "9171908"
         },
         {
           "type": "electronic",
@@ -6541,7 +6721,7 @@
       ],
       "policy_url": "https://www.forestry.jp/publish/copyright/",
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6550,6 +6730,10 @@
         {
           "title": "日本森林学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Forest Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of The Japanese Forest Society",
@@ -6647,7 +6831,7 @@
       ],
       "policy_url": "https://www.forestry.jp/publish/copyright/",
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6868,6 +7052,10 @@
         {
           "title": "生体医工学",
           "language": "ja"
+        },
+        {
+          "title": "Transactions of Japanese Society for Medical and Biological Engineering",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -6965,7 +7153,7 @@
       ],
       "policy_url": "http://jsmbe.org/submit.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -6974,6 +7162,10 @@
         {
           "title": "知能と情報",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7071,7 +7263,7 @@
       ],
       "policy_url": "https://www.j-soft.org/post/tyosakukenkitei",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -7186,6 +7378,10 @@
         {
           "title": "地質学雑誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of the Geological Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Journal of the Geological Society of Japan",
@@ -7193,7 +7389,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00167630"
+          "issn": "167630"
         },
         {
           "type": "electronic",
@@ -7283,7 +7479,7 @@
       ],
       "policy_url": "http://www.geosociety.jp/outline/content0011.html",
       "cdjournal": null,
-      "updated_at": "2021/01/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -7394,6 +7590,10 @@
         {
           "title": "生物物理化学",
           "language": "ja"
+        },
+        {
+          "title": "SEIBUTSU BUTSURI KAGAKU",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7401,7 +7601,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00319082"
+          "issn": "319082"
         },
         {
           "type": "electronic",
@@ -7491,7 +7691,7 @@
       ],
       "policy_url": "https://www.jes1950.jp/PDF/copyright_policy_v190401.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -7500,6 +7700,10 @@
         {
           "title": "Journal of Electrophoresis",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Electrophoresis",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7597,15 +7801,19 @@
       ],
       "policy_url": "https://www.jes1950.jp/PDF/copyright_policy_v190401.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000074",
       "titles": [
         {
-          "title": "Neue Beitrage zur Germanistik",
+          "title": "ドイツ文學",
           "language": "ja"
+        },
+        {
+          "title": "die Deutsche Literatur",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7613,7 +7821,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03872831"
+          "issn": "3872831"
+        },
+        {
+          "type": "electronic",
+          "issn": "21870020"
         }
       ],
       "listed_in_doaj": null,
@@ -7699,15 +7911,19 @@
       ],
       "policy_url": "https://www.jgg.jp/pluginfile.php/346/mod_page/content/28/Toukou_youryou_jp_2024.pdf?time=1709274856877",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000075",
       "titles": [
         {
-          "title": "ドイツ文学",
+          "title": "ドイツ文學",
           "language": "ja"
+        },
+        {
+          "title": "die Deutsche Literatur",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7715,7 +7931,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03872831"
+          "issn": "3872831"
+        },
+        {
+          "type": "electronic",
+          "issn": "21870020"
         }
       ],
       "listed_in_doaj": null,
@@ -7801,7 +8021,7 @@
       ],
       "policy_url": "https://www.jgg.jp/pluginfile.php/346/mod_page/content/28/Toukou_youryou_jp_2024.pdf?time=1709274856877",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -7810,6 +8030,10 @@
         {
           "title": "脳神経外科ジャーナル",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Neurosurgery",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -7818,6 +8042,10 @@
         {
           "type": "print",
           "issn": "0917950X"
+        },
+        {
+          "type": "electronic",
+          "issn": "21873100"
         }
       ],
       "listed_in_doaj": null,
@@ -7903,7 +8131,7 @@
       ],
       "policy_url": "https://jcns.or.jp/journal/content_use_copyright",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -7912,6 +8140,10 @@
         {
           "title": "肺癌",
           "language": "ja"
+        },
+        {
+          "title": "Haigan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese journal of Lung Cancer",
@@ -7919,7 +8151,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03869628"
+          "issn": "3869628"
         },
         {
           "type": "electronic",
@@ -8009,7 +8241,7 @@
       ],
       "policy_url": "https://www.haigan.gr.jp/journal/regulation/submission-guidelines/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8018,6 +8250,10 @@
         {
           "title": "保健物理",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Health Physics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8025,7 +8261,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03676110"
+          "issn": "3676110"
         },
         {
           "type": "electronic",
@@ -8115,7 +8351,7 @@
       ],
       "policy_url": "http://www.jhps.or.jp/cgi-bin/academic/page.cgi?id=38",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8124,6 +8360,10 @@
         {
           "title": "法政論叢",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Law and Political Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Japanese Journal of Law and Political Science",
@@ -8131,7 +8371,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03865266"
+          "issn": "3865266"
         },
         {
           "type": "electronic",
@@ -8221,7 +8461,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8230,6 +8470,10 @@
         {
           "title": "日本民俗学",
           "language": "ja"
+        },
+        {
+          "title": "BULLETIN OF THE FOLKLORE SOCIETY OF JAPAN",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8237,7 +8481,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "04288653"
+          "issn": "4288653"
+        },
+        {
+          "type": "electronic",
+          "issn": "24358827"
         }
       ],
       "listed_in_doaj": null,
@@ -8323,15 +8571,19 @@
       ],
       "policy_url": "http://www.fsjnet.jp/periodical/rule.html",
       "cdjournal": null,
-      "updated_at": "2021/02/10",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000081",
       "titles": [
         {
-          "title": "遊・星・人",
+          "title": "日本惑星科学会誌遊星人",
           "language": "ja"
+        },
+        {
+          "title": "Planetary People - The Japanese Society for Planetary Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8340,6 +8592,10 @@
         {
           "type": "print",
           "issn": "0918273X"
+        },
+        {
+          "type": "electronic",
+          "issn": "2423897X"
         }
       ],
       "listed_in_doaj": null,
@@ -8425,15 +8681,19 @@
       ],
       "policy_url": "https://www.wakusei.jp/book/pp/SubmitRule.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000082",
       "titles": [
         {
-          "title": "Journal of Mammalian Ova Research(JMOR)",
+          "title": "Journal of Mammalian Ova Research",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Mammalian Ova Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8531,7 +8791,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8642,6 +8902,10 @@
         {
           "title": "Fukushima journal of medical science",
           "language": "ja"
+        },
+        {
+          "title": "FUKUSHIMA JOURNAL OF MEDICAL SCIENCE",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8649,7 +8913,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00162590"
+          "issn": "162590"
         },
         {
           "type": "electronic",
@@ -8739,7 +9003,7 @@
       ],
       "policy_url": "https://www.fmu.ac.jp/home/lib/F-igaku/journal/instruction.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8748,6 +9012,10 @@
         {
           "title": "福島医学雑誌",
           "language": "ja"
+        },
+        {
+          "title": "FUKUSHIMA MEDICAL JOURNAL",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8755,7 +9023,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00162582"
+          "issn": "162582"
+        },
+        {
+          "type": "electronic",
+          "issn": "24367826"
         }
       ],
       "listed_in_doaj": null,
@@ -8841,7 +9113,7 @@
       ],
       "policy_url": "https://www.fmu.ac.jp/home/lib/F-igaku/kikanshi.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -8850,6 +9122,10 @@
         {
           "title": "文学と教育",
           "language": "ja"
+        },
+        {
+          "title": "BUNGAKU TO KYOIKU",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -8857,7 +9133,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02876205"
+          "issn": "2876205"
         },
         {
           "type": "electronic",
@@ -8947,7 +9223,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/01/07",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9058,6 +9334,10 @@
         {
           "title": "ロシア・東欧研究",
           "language": "ja"
+        },
+        {
+          "title": "Russian and East European Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -9155,7 +9435,7 @@
       ],
       "policy_url": "https://www.jarees.jp/plugin/bbses/show/16/64/5",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9164,6 +9444,10 @@
         {
           "title": "Tropical Medicine and Health",
           "language": "ja"
+        },
+        {
+          "title": "Tropical Medicine and Health",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -9261,7 +9545,7 @@
       ],
       "policy_url": "https://tropmedhealth.biomedcentral.com/submission-guidelines/copyright",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9270,6 +9554,10 @@
         {
           "title": "世界法年報",
           "language": "ja"
+        },
+        {
+          "title": "Yearbook of World Law",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -9277,7 +9565,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09170421"
+          "issn": "9170421"
+        },
+        {
+          "type": "electronic",
+          "issn": "21859086"
         }
       ],
       "listed_in_doaj": null,
@@ -9363,7 +9655,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9474,6 +9766,10 @@
         {
           "title": "産業考古学",
           "language": "ja"
+        },
+        {
+          "title": "Industrial Archaeology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -9481,7 +9777,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09106731"
+          "issn": "9106731"
         }
       ],
       "listed_in_doaj": null,
@@ -9567,7 +9863,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9576,6 +9872,10 @@
         {
           "title": "日本農村医学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF THE JAPANESE ASSOCIATION OF RURAL MEDICINE",
+          "language": "en"
         }
       ],
       "journal_title_alias": "日農医誌",
@@ -9583,7 +9883,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "04682513"
+          "issn": "4682513"
         },
         {
           "type": "electronic",
@@ -9673,7 +9973,7 @@
       ],
       "policy_url": "https://www.jarm.jp/magazine/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9682,6 +9982,10 @@
         {
           "title": "Journal of Rural Medicine",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Rural Medicine",
+          "language": "en"
         }
       ],
       "journal_title_alias": "日本農村医学会英文誌",
@@ -9779,7 +10083,7 @@
       ],
       "policy_url": "https://www.j-rural-med.jp/submit/author.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9788,6 +10092,10 @@
         {
           "title": "教育哲学研究",
           "language": "ja"
+        },
+        {
+          "title": "Studies in the Philosophy of Education",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -9795,7 +10103,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03873153"
+          "issn": "3873153"
         },
         {
           "type": "electronic",
@@ -9885,7 +10193,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -9994,8 +10302,12 @@
       "journal_id": "J000097",
       "titles": [
         {
-          "title": "Acta Asiatica : Bulletin of the Institute of Eastern Culture",
+          "title": "ACTA ASIATICA: Bulletin of the Institute of Eastern Culture",
           "language": "ja"
+        },
+        {
+          "title": "ACTA ASIATICA: Bulletin of the Institute of Eastern Culture",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10003,7 +10315,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "05677254"
+          "issn": "5677254"
+        },
+        {
+          "type": "electronic",
+          "issn": "27601226"
         }
       ],
       "listed_in_doaj": null,
@@ -10089,7 +10405,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/01",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10200,6 +10516,10 @@
         {
           "title": "CYTOLOGIA",
           "language": "ja"
+        },
+        {
+          "title": "CYTOLOGIA",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10207,7 +10527,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00114545"
+          "issn": "114545"
         },
         {
           "type": "electronic",
@@ -10297,7 +10617,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10306,6 +10626,10 @@
         {
           "title": "Electrochemistry",
           "language": "ja"
+        },
+        {
+          "title": "Electrochemistry",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10403,7 +10727,7 @@
       ],
       "policy_url": "https://www.jstage.jst.go.jp/article/electrochemistry/89/Announcements/89_21-S0001/_html/-char/ja#sec16",
       "cdjournal": null,
-      "updated_at": "2022/10/11",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10412,6 +10736,10 @@
         {
           "title": "電気設備学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of the Institute of Electrical Installation Engineers of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10419,7 +10747,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09100350"
+          "issn": "9100350"
+        },
+        {
+          "type": "electronic",
+          "issn": "21886946"
         }
       ],
       "listed_in_doaj": null,
@@ -10505,7 +10837,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10514,6 +10846,10 @@
         {
           "title": "アレルギー",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Allergology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10521,7 +10857,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00214884"
+          "issn": "214884"
+        },
+        {
+          "type": "electronic",
+          "issn": "13477935"
         }
       ],
       "listed_in_doaj": null,
@@ -10607,7 +10947,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/10/16",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10616,6 +10956,10 @@
         {
           "title": "Allergology International",
           "language": "ja"
+        },
+        {
+          "title": "Allergology International",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10624,6 +10968,10 @@
         {
           "type": "print",
           "issn": "13238930"
+        },
+        {
+          "type": "electronic",
+          "issn": "14401592"
         }
       ],
       "listed_in_doaj": null,
@@ -10709,7 +11057,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/10/16",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10718,6 +11066,10 @@
         {
           "title": "コンクリート工学",
           "language": "ja"
+        },
+        {
+          "title": "Concrete Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10725,7 +11077,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03871061"
+          "issn": "3871061"
         },
         {
           "type": "electronic",
@@ -10815,7 +11167,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2019/02/14",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10824,6 +11176,10 @@
         {
           "title": "Journal of advanced concrete technology",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Advanced Concrete Technology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -10921,7 +11277,7 @@
       ],
       "policy_url": "https://www.j-act.org/A_guide.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -10930,6 +11286,10 @@
         {
           "title": "マリンエンジニアリング",
           "language": "ja"
+        },
+        {
+          "title": "Marine Engineering",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of The Japan Institute of Marine Engineering",
@@ -11027,15 +11387,19 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000107",
       "titles": [
         {
-          "title": "リハビリテーション医学 : 日本リハビリテーション医学会誌",
+          "title": "リハビリテーション医学",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Rehabilitation Medicine",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Japanese Journal of Rehabilitation Medicine",
@@ -11043,7 +11407,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "18813526"
+          "issn": "0034351X"
         },
         {
           "type": "electronic",
@@ -11133,7 +11497,7 @@
       ],
       "policy_url": "https://www.jarm.or.jp/member/journal_domestic.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {
@@ -11142,6 +11506,10 @@
         {
           "title": "騒音制御",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of the INCE of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -11149,7 +11517,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03868761"
+          "issn": "3868761"
+        },
+        {
+          "type": "electronic",
+          "issn": "18837506"
         }
       ],
       "listed_in_doaj": null,
@@ -11235,7 +11607,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     },
     {

@@ -4,6 +4,10 @@
     {
       "title": "応用統計学",
       "language": "ja"
+    },
+    {
+      "title": "Ouyou toukeigaku",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02850370"
+      "issn": "2850370"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.applstat.gr.jp/journal/stylefile/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

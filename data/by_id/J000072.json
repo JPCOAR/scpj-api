@@ -4,6 +4,10 @@
     {
       "title": "生物物理化学",
       "language": "ja"
+    },
+    {
+      "title": "SEIBUTSU BUTSURI KAGAKU",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00319082"
+      "issn": "319082"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jes1950.jp/PDF/copyright_policy_v190401.pdf",
   "cdjournal": null,
-  "updated_at": "2021/03/04",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "Allergology International",
           "language": "ja"
+        },
+        {
+          "title": "Allergology International",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13238930"
+        },
+        {
+          "type": "electronic",
+          "issn": "14401592"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/10/16",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

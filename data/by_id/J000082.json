@@ -2,8 +2,12 @@
   "journal_id": "J000082",
   "titles": [
     {
-      "title": "Journal of Mammalian Ova Research(JMOR)",
+      "title": "Journal of Mammalian Ova Research",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Mammalian Ova Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

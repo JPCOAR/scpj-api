@@ -4,6 +4,10 @@
     {
       "title": "生体医工学",
       "language": "ja"
+    },
+    {
+      "title": "Transactions of Japanese Society for Medical and Biological Engineering",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://jsmbe.org/submit.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

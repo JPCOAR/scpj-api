@@ -4,6 +4,10 @@
     {
       "title": "日本リスク研究学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Risk Analysis",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09155465"
+      "issn": "9155465"
+    },
+    {
+      "type": "electronic",
+      "issn": "21854548"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.sra-japan.jp/cms/uploads/toukou_kitei_101003.pdf",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "産業考古学",
       "language": "ja"
+    },
+    {
+      "title": "Industrial Archaeology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09106731"
+      "issn": "9106731"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

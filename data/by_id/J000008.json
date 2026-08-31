@@ -4,6 +4,10 @@
     {
       "title": "日本航海学会誌 NAVIGATION",
       "language": "ja"
+    },
+    {
+      "title": "NAVIGATION",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)航海、NAVIGATION",
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09199985"
+      "issn": "9199985"
+    },
+    {
+      "type": "electronic",
+      "issn": "21898073"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://j-nav.org/document-creation/",
   "cdjournal": null,
-  "updated_at": "2021/07/28",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

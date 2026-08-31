@@ -6,6 +6,10 @@
         {
           "title": "森林科学",
           "language": "ja"
+        },
+        {
+          "title": "Shinrin Kagaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Shinrinkagaku",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09171908"
+          "issn": "9171908"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.forestry.jp/publish/copyright/",
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

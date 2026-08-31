@@ -6,6 +6,10 @@
         {
           "title": "Fukushima journal of medical science",
           "language": "ja"
+        },
+        {
+          "title": "FUKUSHIMA JOURNAL OF MEDICAL SCIENCE",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00162590"
+          "issn": "162590"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.fmu.ac.jp/home/lib/F-igaku/journal/instruction.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

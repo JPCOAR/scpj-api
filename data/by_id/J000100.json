@@ -4,6 +4,10 @@
     {
       "title": "Electrochemistry",
       "language": "ja"
+    },
+    {
+      "title": "Electrochemistry",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jstage.jst.go.jp/article/electrochemistry/89/Announcements/89_21-S0001/_html/-char/ja#sec16",
   "cdjournal": null,
-  "updated_at": "2022/10/11",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

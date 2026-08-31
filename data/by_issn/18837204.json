@@ -6,6 +6,10 @@
         {
           "title": "溶接学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF THE JAPAN WELDING SOCIETY",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of the Japan Welding Society",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00214787"
+          "issn": "214787"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jweld.jp/collection/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

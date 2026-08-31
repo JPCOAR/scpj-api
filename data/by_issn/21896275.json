@@ -6,6 +6,10 @@
         {
           "title": "森林立地",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Forest Environment",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese Journal of Forest Environment",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03888673"
+          "issn": "3888673"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://shinrin-ritchi.jp/",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

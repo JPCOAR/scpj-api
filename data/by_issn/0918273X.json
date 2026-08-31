@@ -4,8 +4,12 @@
       "journal_id": "J000081",
       "titles": [
         {
-          "title": "遊・星・人",
+          "title": "日本惑星科学会誌遊星人",
           "language": "ja"
+        },
+        {
+          "title": "Planetary People - The Japanese Society for Planetary Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0918273X"
+        },
+        {
+          "type": "electronic",
+          "issn": "2423897X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.wakusei.jp/book/pp/SubmitRule.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

@@ -2,8 +2,12 @@
   "journal_id": "J000046",
   "titles": [
     {
-      "title": "宇宙生物科学 Biological Sciences in Space",
+      "title": "Biological Sciences in Space",
       "language": "ja"
+    },
+    {
+      "title": "Biological Sciences in Space",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09149201"
+      "issn": "9149201"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jsbss.jp/special/?id=28157",
   "cdjournal": null,
-  "updated_at": "2020/12/15",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

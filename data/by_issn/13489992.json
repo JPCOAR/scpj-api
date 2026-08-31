@@ -6,6 +6,10 @@
         {
           "title": "肺癌",
           "language": "ja"
+        },
+        {
+          "title": "Haigan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese journal of Lung Cancer",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03869628"
+          "issn": "3869628"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.haigan.gr.jp/journal/regulation/submission-guidelines/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

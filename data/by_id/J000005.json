@@ -4,6 +4,10 @@
     {
       "title": "Journal of Light & Visual Environment",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Light & Visual Environment",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JLVE",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03878805"
+      "issn": "3878805"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.ieij.or.jp/JIEIJ/copyright.html",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/08/27",
   "sheet_updated_at": null
 }

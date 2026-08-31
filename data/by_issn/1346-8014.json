@@ -6,6 +6,10 @@
         {
           "title": "Journal of advanced concrete technology",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Advanced Concrete Technology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.j-act.org/A_guide.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]

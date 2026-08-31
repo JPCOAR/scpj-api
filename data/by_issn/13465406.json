@@ -6,6 +6,10 @@
         {
           "title": "植物の生長調節",
           "language": "ja"
+        },
+        {
+          "title": "Regulation of Plant Growth & Development",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)植物の化学調節",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13465406"
+        },
+        {
+          "type": "electronic",
+          "issn": "21896305"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/18",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]
