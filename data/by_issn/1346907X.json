@@ -6,6 +6,10 @@
         {
           "title": "日本畜産学会報",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Chikusan Gakkaiho",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/10/05",
+      "updated_at": "2026/08/27",
       "sheet_updated_at": null
     }
   ]
