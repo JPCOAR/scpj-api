@@ -228,6 +228,9 @@ function findLastInputRow(sheet) {
   return 1;
 }
 
+/** ISSN列（先頭0が削除されないようテキスト形式で書き込む必要がある列） */
+var ISSN_COLUMNS = ['ISSN-L', 'PISSN', 'EISSN'];
+
 /**
  * フォーム連携シートの最終入力行の1つ上に行を挿入して書き込む
  *
@@ -251,8 +254,21 @@ function appendToFormSheet(spreadsheetId, sheetName, values) {
     targetRow = lastInput;
   }
 
+  // ISSN列のインデックスを特定（先頭0が消えないようテキスト形式で書き込む）
+  var issnIndices = ISSN_COLUMNS.map(function (col) {
+    return REVIEW_SHEET_COLUMNS.indexOf(col);
+  }).filter(function (idx) { return idx >= 0; });
+
+  var range = sheet.getRange(targetRow, 1, 1, values.length);
+
+  // ISSN列をテキスト形式に設定（setNumberFormat('@') で数値変換を防ぐ）
+  for (var i = 0; i < issnIndices.length; i++) {
+    var colIndex = issnIndices[i] + 1; // 1始まり
+    sheet.getRange(targetRow, colIndex).setNumberFormat('@');
+  }
+
   // 挿入した行は空なので、54列だけ書けばメモ列（55列目）は空のまま残る
-  sheet.getRange(targetRow, 1, 1, values.length).setValues([values]);
+  range.setValues([values]);
   SpreadsheetApp.flush();
   return targetRow;
 }
