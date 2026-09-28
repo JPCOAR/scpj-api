@@ -6,6 +6,10 @@
         {
           "title": "植生史研究",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Historical Botany",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0915003X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24359238"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/26",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

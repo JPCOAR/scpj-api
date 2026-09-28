@@ -4,6 +4,10 @@
     {
       "title": "日本包装学会誌",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF PACKAGING SCIENCE & TECHNOLOGY, JAPAN",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09185283"
+      "issn": "9185283"
+    },
+    {
+      "type": "electronic",
+      "issn": "27598322"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.spstj.jp/publication/toukou/index.html",
   "cdjournal": null,
-  "updated_at": "2009/12/15",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

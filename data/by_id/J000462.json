@@ -4,14 +4,22 @@
     {
       "title": "地形",
       "language": "ja"
+    },
+    {
+      "title": "Transactions, Japanese Geomorphological Union",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Transactions, Japanese Geomorphological Union",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
-      "issn": "03891755"
+      "issn": "3891755"
+    },
+    {
+      "type": "electronic",
+      "issn": "27592529"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jgu.jp/journal/2.html",
   "cdjournal": null,
-  "updated_at": "2022/02/16",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

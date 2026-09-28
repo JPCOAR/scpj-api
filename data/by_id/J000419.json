@@ -4,6 +4,10 @@
     {
       "title": "土壌の物理性",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japanese Society of Soil Physics",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of the Japanese Society of Soil Physics",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03876012"
+      "issn": "3876012"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://js-soilphysics.com/post",
   "cdjournal": null,
-  "updated_at": "2021/02/22",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

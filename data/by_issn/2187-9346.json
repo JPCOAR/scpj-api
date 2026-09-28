@@ -6,14 +6,18 @@
         {
           "title": "発達心理学研究",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Developmental Psychology",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The Japanese Journal of Developmental Psychology",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "09159029"
+          "issn": "9159029"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jsdp.jp/about/provision/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "Genes and Environment",
           "language": "ja"
+        },
+        {
+          "title": "Genes and Environment",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://genesenvironment.biomedcentral.com",
       "cdjournal": null,
-      "updated_at": "2021/02/09",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

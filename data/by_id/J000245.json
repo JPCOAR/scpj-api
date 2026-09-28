@@ -4,6 +4,10 @@
     {
       "title": "日本歯周病学会会誌",
       "language": "ja"
+    },
+    {
+      "title": "Nihon Shishubyo Gakkai Kaishi (Journal of the Japanese Society of Periodontology)",
+      "language": "en"
     }
   ],
   "journal_title_alias": "The Jounal of Japanese Society of Periodontology",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03850110"
+      "issn": "3850110"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.perio.jp/member/journal/",
   "cdjournal": null,
-  "updated_at": "2020/12/07",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "スポーツ教育学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Sport Education Studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09118845"
+      "issn": "9118845"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jsose.jp/?page_id=33",
   "cdjournal": null,
-  "updated_at": "2021/03/08",
+  "updated_at": "2026/09/01",
   "sheet_updated_at": null
 }

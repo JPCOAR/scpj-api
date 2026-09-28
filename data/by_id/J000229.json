@@ -15,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00187216"
+      "issn": "187216"
+    },
+    {
+      "type": "electronic",
+      "issn": "18834086"
     }
   ],
   "listed_in_doaj": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://hgsj.org/kaishi/toukou/",
   "cdjournal": null,
-  "updated_at": "2025/09/25",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

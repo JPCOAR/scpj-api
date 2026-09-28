@@ -4,16 +4,24 @@
       "journal_id": "J000466",
       "titles": [
         {
-          "title": "AATEX (Alternatives to Animal Testing and EXperimentation)",
+          "title": "Alternatives to Animal Testing and Experimentation",
           "language": "ja"
+        },
+        {
+          "title": "Alternatives to Animal Testing and Experimentation",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "AATEX",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "13440411"
+        },
+        {
+          "type": "electronic",
+          "issn": "21854726"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jsaae.or.jp/magazine/magazine_kitei/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

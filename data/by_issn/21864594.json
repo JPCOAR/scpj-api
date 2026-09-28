@@ -6,6 +6,10 @@
         {
           "title": "カウンセリング研究",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Counseling Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09148337"
+          "issn": "9148337"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

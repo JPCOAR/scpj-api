@@ -6,6 +6,10 @@
         {
           "title": "Journal of Prosthodontic Research",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Prosthodontic Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18831958"
+        },
+        {
+          "type": "electronic",
+          "issn": "18839207"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://hotetsu.com/files/files_1073.pdf",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

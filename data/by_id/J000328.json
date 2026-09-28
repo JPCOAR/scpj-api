@@ -4,6 +4,10 @@
     {
       "title": "こころの健康",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Mental Health",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09126945"
+      "issn": "9126945"
+    },
+    {
+      "type": "electronic",
+      "issn": "21860246"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.seishineisei.gr.jp/kokoronokenkoutoukoukitei2022.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

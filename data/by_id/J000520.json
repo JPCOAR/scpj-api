@@ -4,6 +4,10 @@
     {
       "title": "化石",
       "language": "ja"
+    },
+    {
+      "title": "Fossils",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00229202"
+      "issn": "229202"
+    },
+    {
+      "type": "electronic",
+      "issn": "24242632"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2019/10/10",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

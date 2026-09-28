@@ -4,6 +4,10 @@
     {
       "title": "産業・組織心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Association of Industrial/Organizational Psychology Journal",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Japanese Association of Industrial/Organizational Psychology Journal",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09170391"
+      "issn": "9170391"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jaiop.jp/jaiop_admin/wp-content/uploads/2022/08/toukou_kitei_202109_02.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

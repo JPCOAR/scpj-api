@@ -6,6 +6,10 @@
         {
           "title": "計測自動制御学会論文集",
           "language": "ja"
+        },
+        {
+          "title": "Transactions of the Society of Instrument and Control Engineers",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "04534654"
+          "issn": "4534654"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "規則として制定しておりません（検討中です）",
       "cdjournal": null,
-      "updated_at": "2021/02/22",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

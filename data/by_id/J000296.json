@@ -4,6 +4,10 @@
     {
       "title": "Cell Structure and Function",
       "language": "ja"
+    },
+    {
+      "title": "Cell Structure and Function",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Cell Structure and Function",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03867196"
+      "issn": "3867196"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jscb.gr.jp/csf/en/open-access-faqs/",
   "cdjournal": null,
-  "updated_at": "2021/01/08",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

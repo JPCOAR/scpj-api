@@ -4,6 +4,10 @@
     {
       "title": "日本白内障学会誌",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of The Japanese Society for Cataract Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09154302"
+      "issn": "9154302"
+    },
+    {
+      "type": "electronic",
+      "issn": "2188613X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jscr.net/iol_rs/toukou.html",
   "cdjournal": null,
-  "updated_at": "2012/12/19",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

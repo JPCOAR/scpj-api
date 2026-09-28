@@ -4,8 +4,12 @@
       "journal_id": "J000504",
       "titles": [
         {
-          "title": "Geographical review of Japan",
+          "title": "地理学評論",
           "language": "ja"
+        },
+        {
+          "title": "Geographical Review of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13479555"
+        },
+        {
+          "type": "electronic",
+          "issn": "21851727"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/11/22",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

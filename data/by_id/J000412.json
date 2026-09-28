@@ -2,13 +2,21 @@
   "journal_id": "J000412",
   "titles": [
     {
-      "title": "CBI Journal",
+      "title": "Chem-Bio Informatics Journal",
       "language": "ja"
+    },
+    {
+      "title": "Chem-Bio Informatics Journal",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
   "journal_url": null,
   "issns": [
+    {
+      "type": "print",
+      "issn": "13476297"
+    },
     {
       "type": "electronic",
       "issn": "13470442"
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://cbi-society.org/cbi/journal/cbi_journal/index_e.html#copyright",
   "cdjournal": null,
-  "updated_at": "2012/01/26",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

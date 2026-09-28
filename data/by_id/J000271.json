@@ -4,6 +4,10 @@
     {
       "title": "日本家禽学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese poultry science",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Japanese Journal of poultry Science",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00290254"
+      "issn": "290254"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": "https://jpn-psa.jp/toukou/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

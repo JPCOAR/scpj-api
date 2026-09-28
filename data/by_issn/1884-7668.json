@@ -6,6 +6,10 @@
         {
           "title": "脳と発達",
           "language": "ja"
+        },
+        {
+          "title": "NO TO HATTATSU",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00290831"
+          "issn": "290831"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

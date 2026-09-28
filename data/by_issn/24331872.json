@@ -6,6 +6,10 @@
         {
           "title": "日本中東学会年報",
           "language": "ja"
+        },
+        {
+          "title": "Annals of Japan Association for Middle East Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09137858"
+          "issn": "9137858"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.james1985.org/modules/publications/index.php?content_id=3",
       "cdjournal": null,
-      "updated_at": "2021/03/09",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

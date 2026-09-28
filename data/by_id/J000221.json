@@ -4,6 +4,10 @@
     {
       "title": "社会経済史学",
       "language": "ja"
+    },
+    {
+      "title": "SOCIO-ECONOMIC HISTORY",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00380113"
+      "issn": "380113"
+    },
+    {
+      "type": "electronic",
+      "issn": "24239283"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://sehsjp.org/?p=440",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

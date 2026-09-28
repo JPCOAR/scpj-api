@@ -6,6 +6,10 @@
         {
           "title": "生命倫理",
           "language": "ja"
+        },
+        {
+          "title": "Bioethics",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Japan Association for Bioethics",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://ja-bioethics.jp/regulations/copyright/",
       "cdjournal": null,
-      "updated_at": "2021/03/10",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

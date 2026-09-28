@@ -6,6 +6,10 @@
         {
           "title": "動物の循環器",
           "language": "ja"
+        },
+        {
+          "title": "Advances in Animal Cardiology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Advances in Animal Cardiology",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09106537"
+          "issn": "9106537"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/12/28",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "日本18世紀学会年報",
       "language": "ja"
+    },
+    {
+      "title": "Annual Bulletin of the Japanese Society for Eighteenth-Century Studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09195467"
+      "issn": "9195467"
+    },
+    {
+      "type": "print",
+      "issn": "9195467"
+    },
+    {
+      "type": "electronic",
+      "issn": "27601722"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://jsecs.smoosy.atlas.jp/ja/submission_instructions",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

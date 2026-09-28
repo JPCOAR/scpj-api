@@ -4,6 +4,10 @@
     {
       "title": "日本血管外科学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Vascular Surgery",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09186778"
+      "issn": "9186778"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jsvs.org/ja/publication/rules/",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

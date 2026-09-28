@@ -4,6 +4,10 @@
     {
       "title": "保全生態学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Conservation Ecology",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JAPANESE JOURNAL OF CONSERVATION ECOLOGY",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://esj.ne.jp/esj/JJCE/JJCE_kitei.html",
   "cdjournal": null,
-  "updated_at": "2021/01/20",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "歯科審美",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Dental Esthetics",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09161945"
+      "issn": "9161945"
+    },
+    {
+      "type": "print",
+      "issn": "9161945"
+    },
+    {
+      "type": "electronic",
+      "issn": "27589021"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://www.jdshinbi.net/publications/",
   "cdjournal": null,
-  "updated_at": "2025/08/06",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

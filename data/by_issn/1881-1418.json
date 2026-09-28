@@ -6,6 +6,10 @@
         {
           "title": "Soils and foundations",
           "language": "ja"
+        },
+        {
+          "title": "SOILS AND FOUNDATIONS",
+          "language": "en"
         }
       ],
       "journal_title_alias": "地盤工学会論文報告集",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00380806"
+          "issn": "380806"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.elsevier.com/journals/soils-and-foundations/0038-0806/guide-for-authors",
       "cdjournal": null,
-      "updated_at": "2020/12/22",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

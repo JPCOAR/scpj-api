@@ -4,6 +4,10 @@
     {
       "title": "陸水学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Limnology (Rikusuigaku Zasshi)",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JAPANESE JOURNAL OF LIMNOLOGY",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00215104"
+      "issn": "215104"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jslim.jp/?page_id=130",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

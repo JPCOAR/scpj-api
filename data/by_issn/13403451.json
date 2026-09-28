@@ -6,6 +6,10 @@
         {
           "title": "日本透析医学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Toseki Igakkai Zasshi",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/03/07",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

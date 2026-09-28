@@ -4,6 +4,10 @@
     {
       "title": "Journal of Natural Disaster Science",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Natural Disaster Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)Natural disaster science",
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03884090"
+      "issn": "3884090"
+    },
+    {
+      "type": "electronic",
+      "issn": "24346705"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

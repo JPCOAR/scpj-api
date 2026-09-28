@@ -6,6 +6,10 @@
         {
           "title": "心電図",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Electrocardiology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02851660"
+          "issn": "2851660"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://new.jhrs.or.jp/electrocardiogram/rules/contribution-rule/",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

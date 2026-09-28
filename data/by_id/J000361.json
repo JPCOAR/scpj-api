@@ -2,8 +2,12 @@
   "journal_id": "J000361",
   "titles": [
     {
-      "title": "末梢神経（Peripheral Nerve）",
+      "title": "Peripheral Nerve 末梢神経",
       "language": "ja"
+    },
+    {
+      "title": "Peripheral Nerve",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09176772"
+      "issn": "9176772"
+    },
+    {
+      "type": "print",
+      "issn": "9176772"
+    },
+    {
+      "type": "electronic",
+      "issn": "27601633"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://jpns.jp/journal/index.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

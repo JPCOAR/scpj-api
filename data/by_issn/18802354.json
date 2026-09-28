@@ -6,6 +6,10 @@
         {
           "title": "国際幼児教育研究",
           "language": "ja"
+        },
+        {
+          "title": "International Journal of Early Childhood Education",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "18802354"
+        },
+        {
+          "type": "print",
+          "issn": "18802354"
+        },
+        {
+          "type": "electronic",
+          "issn": "24358797"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/08",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

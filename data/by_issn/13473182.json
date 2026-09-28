@@ -4,11 +4,15 @@
       "journal_id": "J000498",
       "titles": [
         {
-          "title": "Magnetic Resonance in Medical Sciences (MRMS)",
+          "title": "Magnetic Resonance in Medical Sciences",
           "language": "ja"
+        },
+        {
+          "title": "Magnetic Resonance in Medical Sciences",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "MRMS",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsmrm.jp/modules/mrms/index.php?content_id=9",
       "cdjournal": null,
-      "updated_at": "2023/01/30",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

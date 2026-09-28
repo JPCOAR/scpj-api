@@ -6,6 +6,10 @@
         {
           "title": "日本レオロジー学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Reoroji Gakkaishi",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03871533"
+          "issn": "3871533"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.srj.or.jp/academicjournal",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

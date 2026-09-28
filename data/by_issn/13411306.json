@@ -6,6 +6,10 @@
         {
           "title": "マス・コミュニケーション研究",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF MASS COMMUNICATION STUDIES",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）新聞学評論",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13411306"
+        },
+        {
+          "type": "electronic",
+          "issn": "24320838"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

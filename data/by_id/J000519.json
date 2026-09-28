@@ -4,6 +4,10 @@
     {
       "title": "Paleontological Research",
       "language": "ja"
+    },
+    {
+      "title": "Paleontological Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)Transactions and proceedings of the Palaeontological Society of Japan. New series",
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13428144"
+    },
+    {
+      "type": "electronic",
+      "issn": "18800068"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.palaeo-soc-japan.jp/pr/guide.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

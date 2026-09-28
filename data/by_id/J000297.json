@@ -4,6 +4,10 @@
     {
       "title": "産業教育学研究",
       "language": "ja"
+    },
+    {
+      "title": "BULLETIN OF JAPAN SOCIETY FOR STUDY OF VOCATIONAL AND TECHNICAL EDUCATION",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13405926"
+    },
+    {
+      "type": "electronic",
+      "issn": "2433197X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/12/18",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

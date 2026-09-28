@@ -6,6 +6,10 @@
         {
           "title": "林業経済研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Forest Economics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02851598"
+          "issn": "2851598"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jfes.org/journal/submission",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/24",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "日本乳癌検診学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Nyugan Kenshin Gakkaishi (Journal of Japan Association of Breast Cancer Screening)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09180729"
+          "issn": "9180729"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.jabcs.jp/pages/contribu.html",
       "cdjournal": null,
-      "updated_at": "2020/12/18",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

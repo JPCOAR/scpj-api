@@ -4,6 +4,10 @@
     {
       "title": "生活経済学研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Household Economics",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Household Economics",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jsheweb.smartcore.jp/gakkaishi",
   "cdjournal": null,
-  "updated_at": "2021/02/09",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

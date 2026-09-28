@@ -4,6 +4,10 @@
     {
       "title": "日本文学",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Literature",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03869903"
+      "issn": "3869903"
+    },
+    {
+      "type": "electronic",
+      "issn": "24241202"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/04/16",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

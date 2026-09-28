@@ -4,6 +4,10 @@
     {
       "title": "地理科学",
       "language": "ja"
+    },
+    {
+      "title": "GEOGRAPHICAL SCIENCES",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Geographical Sciences",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02864886"
+      "issn": "2864886"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.chiri-kagaku.jp/geogsci/pdf.html",
   "cdjournal": null,
-  "updated_at": "2021/01/22",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

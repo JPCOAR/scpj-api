@@ -4,14 +4,22 @@
     {
       "title": "水産工学",
       "language": "ja"
+    },
+    {
+      "title": "Fisheries Engineering",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Fisheries Engineering",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
-      "issn": "09167617"
+      "issn": "9167617"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897131"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jsfe.gr.jp/wp/gaiyou/gaiyou05/toukou",
   "cdjournal": null,
-  "updated_at": "2020/12/07",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

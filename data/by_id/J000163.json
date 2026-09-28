@@ -4,6 +4,10 @@
     {
       "title": "静脈学",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Phlebology",
+      "language": "en"
     }
   ],
   "journal_title_alias": "The Japanese Journal of Phlebology",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09157395"
+      "issn": "9157395"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://js-phlebology.jp/?page_id=81",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

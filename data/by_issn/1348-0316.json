@@ -6,6 +6,10 @@
         {
           "title": "画像電子学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of the Institute of Image Electronics Engineers of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02859831"
+          "issn": "2859831"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.iieej.org/call-for-papers/guide-paper-submission/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

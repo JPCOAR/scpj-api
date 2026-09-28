@@ -4,6 +4,10 @@
     {
       "title": "法哲学年報",
       "language": "ja"
+    },
+    {
+      "title": "The Annals of Legal Philosophy",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03872890"
+      "issn": "3872890"
+    },
+    {
+      "type": "electronic",
+      "issn": "24351075"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.houtetsugaku.org/introduction/Rules.html",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

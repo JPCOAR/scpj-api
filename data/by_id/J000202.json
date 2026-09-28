@@ -4,6 +4,10 @@
     {
       "title": "Journal of water and environment technology",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Water and Environment Technology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": "https://www.jswe.or.jp/publications/guidelines/index.html",
   "cdjournal": null,
-  "updated_at": "2021/01/19",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

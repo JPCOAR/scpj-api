@@ -6,6 +6,10 @@
         {
           "title": "肝臓",
           "language": "ja"
+        },
+        {
+          "title": "Kanzo",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "04514203"
+          "issn": "4514203"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsh.or.jp/medical/guidelines/kyodaku.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "低温工学",
           "language": "ja"
+        },
+        {
+          "title": "TEION KOGAKU (Journal of Cryogenics and Superconductivity Society of Japan)",
+          "language": "en"
         }
       ],
       "journal_title_alias": "TEION KOGAKU",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03892441"
+          "issn": "3892441"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.csj.or.jp/editorial/2018/229_copyright.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/11",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

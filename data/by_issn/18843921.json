@@ -6,14 +6,18 @@
         {
           "title": "年報政治学",
           "language": "ja"
+        },
+        {
+          "title": "The Annals of the Japanese Political Science Association",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The Annuals of Japanese Political Science Association",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "05494192"
+          "issn": "5494192"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jpsa-web.org/publication/nenpo/kitei/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

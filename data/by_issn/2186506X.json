@@ -6,6 +6,10 @@
         {
           "title": "日本内分泌学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Folia Endocrinologica Japonica",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00290661"
+          "issn": "290661"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2025/08/08",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

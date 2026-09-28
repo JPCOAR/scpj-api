@@ -6,6 +6,10 @@
         {
           "title": "日本生態学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JAPANESE JOURNAL OF ECOLOGY",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese Journal of Ecology",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00215007"
+          "issn": "215007"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://esj.ne.jp/esj/JJE/JJE_kitei.html",
       "cdjournal": null,
-      "updated_at": "2021/01/20",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

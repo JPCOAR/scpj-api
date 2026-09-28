@@ -6,6 +6,10 @@
         {
           "title": "動物臨床医学",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Animal Clinical Medicine",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13446991"
+        },
+        {
+          "type": "electronic",
+          "issn": "18811574"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/12/09",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

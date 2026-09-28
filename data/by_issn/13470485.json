@@ -6,6 +6,10 @@
         {
           "title": "Eco-Engineering",
           "language": "ja"
+        },
+        {
+          "title": "Eco-Engineering",
+          "language": "en"
         }
       ],
       "journal_title_alias": "生態工学",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.see.gr.jp/journal/rule_info.html",
       "cdjournal": null,
-      "updated_at": "2021/02/08",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

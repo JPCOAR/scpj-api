@@ -6,6 +6,10 @@
         {
           "title": "日本小児アレルギー学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Shoni Arerugi Gakkaishi. The Japanese Journal of Pediatric Allergy and Clinical Immunology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Japanese journal of pediatric allergy and clinical immunology",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09142649"
+          "issn": "9142649"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

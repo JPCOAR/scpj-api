@@ -4,9 +4,13 @@
     {
       "title": "スポーツ産業学研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Society of Sports Industry",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "JOURNAL OF JAPAN SOCIETY OF SPORTS INDUSTRY",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://spo-sun.gr.jp/publication/format",
   "cdjournal": null,
-  "updated_at": "2021/03/04",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

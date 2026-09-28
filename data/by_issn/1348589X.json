@@ -6,6 +6,10 @@
         {
           "title": "Journal of Pesticide Science",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Pesticide Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)日本農薬学会誌",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://pssj2.jp/journal/regulation.html",
       "cdjournal": null,
-      "updated_at": "2021/02/26",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

@@ -4,16 +4,20 @@
       "journal_id": "J000477",
       "titles": [
         {
-          "title": "Japanese Review of Cultural Anthropology (JRCA)",
+          "title": "民族學研究",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Ethnology",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "Japanese Review of Cultural Anthropology (JRCA)",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "00215023"
+          "issn": "215023"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jasca.org/publication/riyo_kyodaku_kijun.pdf",
       "cdjournal": null,
-      "updated_at": "2020/12/28",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

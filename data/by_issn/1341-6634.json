@@ -6,6 +6,10 @@
         {
           "title": "道徳教育方法研究",
           "language": "ja"
+        },
+        {
+          "title": "THE RESEARCH FOR METHODS OF MORAL EDUCATION",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "13416634"
+        },
+        {
+          "type": "print",
+          "issn": "13416634"
+        },
+        {
+          "type": "electronic",
+          "issn": "27590275"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

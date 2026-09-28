@@ -4,6 +4,10 @@
     {
       "title": "中国語学",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of the Chinese Linguistic Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "CHUUGOKU GOGAKU : Bulletin of the Chinese Linguistic Society of Japan",
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "05780969"
+      "issn": "5780969"
+    },
+    {
+      "type": "electronic",
+      "issn": "18841287"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.chilin.jp/journal/contribution.html",
   "cdjournal": null,
-  "updated_at": "2012/02/19",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -4,14 +4,22 @@
     {
       "title": "日本臨床整形外科学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of the Japanese Clinical Orthopaedic Association",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "The Journal of the Japanese Clinical Orthopaedic Association",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "18817149"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897905"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jcoa.gr.jp/journal/",
   "cdjournal": null,
-  "updated_at": "2010/04/25",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "英学史研究",
       "language": "ja"
+    },
+    {
+      "title": "Historical English Studies in Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03869490"
+      "issn": "3869490"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

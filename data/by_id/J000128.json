@@ -4,6 +4,10 @@
     {
       "title": "耐火物",
       "language": "ja"
+    },
+    {
+      "title": "Taikabutsu",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00398993"
+      "issn": "398993"
+    },
+    {
+      "type": "electronic",
+      "issn": "27593835"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.tarj.org/taikabutsu/380af7c55f1c8fca3025da7c99f28d87",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/01",
   "sheet_updated_at": null
 }

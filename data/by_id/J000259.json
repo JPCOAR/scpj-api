@@ -4,6 +4,10 @@
     {
       "title": "日本プランクトン学会報",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of the Plankton Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03878961"
+      "issn": "3878961"
+    },
+    {
+      "type": "electronic",
+      "issn": "24340839"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.plankton.jp/sub07_instructions.html",
   "cdjournal": null,
-  "updated_at": "2010/04/15",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

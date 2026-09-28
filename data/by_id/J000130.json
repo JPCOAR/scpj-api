@@ -15,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03666611"
+      "issn": "3666611"
     },
     {
       "type": "electronic",
@@ -105,6 +105,6 @@
   ],
   "policy_url": "https://www.chidanken.jp/08_1.html",
   "cdjournal": null,
-  "updated_at": "2025/11/14",
+  "updated_at": "2026/09/01",
   "sheet_updated_at": null
 }

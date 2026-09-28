@@ -2,8 +2,12 @@
   "journal_id": "J000138",
   "titles": [
     {
-      "title": "日本バイオレオロジー学会誌:Ｂ＆Ｒ",
+      "title": "日本バイオレオロジー学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese Society of Biorheology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09134778"
+      "issn": "9134778"
+    },
+    {
+      "type": "electronic",
+      "issn": "21865663"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.biorheology.jp/br.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

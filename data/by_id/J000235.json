@@ -2,8 +2,12 @@
   "journal_id": "J000235",
   "titles": [
     {
-      "title": "智山學報",
+      "title": "智山学報",
       "language": "ja"
+    },
+    {
+      "title": "THE CHISAN GAKUHO JOURNAL OF CHISAN STUDIES",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02865661"
+      "issn": "2865661"
+    },
+    {
+      "type": "electronic",
+      "issn": "2424130X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/03/13",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

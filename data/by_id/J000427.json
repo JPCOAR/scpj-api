@@ -4,6 +4,10 @@
     {
       "title": "Journal of Equine Science",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Equine Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jses.jp/contents/index.php?pc_id=3",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

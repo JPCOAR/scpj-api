@@ -4,6 +4,10 @@
     {
       "title": "科学基礎論研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Association for Philosophy of Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00227668"
+      "issn": "227668"
+    },
+    {
+      "type": "electronic",
+      "issn": "18841236"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://phsc.jp/copyright_ja.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

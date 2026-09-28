@@ -4383,8 +4383,12 @@
       "journal_id": "J000042",
       "titles": [
         {
-          "title": "Revue japonaise de didactique du francais",
+          "title": "Revue japonaise de didactique du français",
           "language": "ja"
+        },
+        {
+          "title": "Revue japonaise de didactique du français",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -4393,6 +4397,10 @@
         {
           "type": "print",
           "issn": "18805930"
+        },
+        {
+          "type": "electronic",
+          "issn": "24331902"
         }
       ],
       "listed_in_doaj": null,
@@ -4478,7 +4486,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     },
     {

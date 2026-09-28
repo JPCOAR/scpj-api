@@ -6,6 +6,10 @@
         {
           "title": "農業機械学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL of the JAPANESE SOCIETY of AGRICULTURAL MACHINERY",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "02852543"
+          "issn": "2852543"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/09/09",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

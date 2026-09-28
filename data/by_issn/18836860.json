@@ -6,6 +6,10 @@
         {
           "title": "日本補綴歯科学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Annals of Japan Prosthodontic Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）日本補綴歯科学会雜誌",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.hotetsu.com/files/files_392.pdf",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

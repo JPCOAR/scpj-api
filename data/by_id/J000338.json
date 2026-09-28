@@ -2,8 +2,12 @@
   "journal_id": "J000338",
   "titles": [
     {
-      "title": "地方自治研究",
+      "title": "地方自治研究 : 日本地方自治研究学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Urban Management and Local Government Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09142622"
+      "issn": "9142622"
+    },
+    {
+      "type": "print",
+      "issn": "9142622"
+    },
+    {
+      "type": "electronic",
+      "issn": "27604381"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://www.skattsei.co.jp/tihoujichi/hensyukitei.htm",
   "cdjournal": null,
-  "updated_at": "2012/01/19",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "日本地域看護学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Academy of Community Health Nursing",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Japan Academy of Community Health Nursing",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jachn.umin.jp/permission.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

@@ -4,9 +4,13 @@
     {
       "title": "農業市場研究",
       "language": "ja"
+    },
+    {
+      "title": "The Agricultural Marketing Journal of Japan",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "AGRICULTURAL MARKETING JOURNAL OF JAPAN",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://amsj.jp/wp-content/uploads/2016/07/kitei_20151206.pdf",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "International Journal of Microgravity Science and Application",
       "language": "ja"
+    },
+    {
+      "title": "International Journal of Microgravity Science and Application",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)JASMA日本マイクログラビティ応用学会誌",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09153616"
+      "issn": "9153616"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jasma.info/journal/wp-content/uploads/sites/2/2013/05/be6cfb7235fe110676a6d8500bd8219a.pdf",
   "cdjournal": null,
-  "updated_at": "2021/03/03",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

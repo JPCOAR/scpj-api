@@ -6,6 +6,10 @@
         {
           "title": "日本視能訓練士協会誌",
           "language": "ja"
+        },
+        {
+          "title": "JAPANESE ORTHOPTIC JOURNAL",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese Orthoptic Journal",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03875172"
+          "issn": "3875172"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "公開規則（投稿規程）URLは2010年4月以降に公開予定",
       "cdjournal": null,
-      "updated_at": "2017/11/17",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

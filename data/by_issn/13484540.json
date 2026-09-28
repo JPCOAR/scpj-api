@@ -6,6 +6,10 @@
         {
           "title": "Endocrine Journal",
           "language": "ja"
+        },
+        {
+          "title": "Endocrine Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,11 +17,11 @@
       "issns": [
         {
           "type": "linking",
-          "issn": "09188959"
+          "issn": "9188959"
         },
         {
           "type": "print",
-          "issn": "09188959"
+          "issn": "9188959"
         },
         {
           "type": "electronic",
@@ -107,7 +111,7 @@
       ],
       "policy_url": "https://endocrine-j.jp/journal-information/about-the-journal/",
       "cdjournal": null,
-      "updated_at": "2025/08/08",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

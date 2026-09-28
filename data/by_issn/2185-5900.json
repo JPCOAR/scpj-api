@@ -6,6 +6,10 @@
         {
           "title": "耳鼻咽喉科免疫アレルギー",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Society of Immunology & Allergology in Otolaryngology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "免疫アレルギー",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09130691"
+          "issn": "9130691"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

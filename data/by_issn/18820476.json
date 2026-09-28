@@ -6,6 +6,10 @@
         {
           "title": "日本医真菌学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Nippon Ishinkin Gakkai Zasshi",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09164804"
+          "issn": "9164804"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsmm.org/magazine/initialsubmission.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

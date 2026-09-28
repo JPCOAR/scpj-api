@@ -4,6 +4,10 @@
     {
       "title": "日本ハンセン病学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "JAPANESE JOURNAL OF LEPROSY",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JAPANESE JOURNAL OF LEPROSY",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.hansen-gakkai.jp/doc/toukou_20221228_jpn.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

@@ -2,8 +2,12 @@
   "journal_id": "J000362",
   "titles": [
     {
-      "title": "溶射",
+      "title": "日本溶射学会誌　溶射",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Thermal Spray Society",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Japan Thermal Spray Society",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09166076"
+      "issn": "9166076"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jtss.or.jp/journal.htm",
   "cdjournal": null,
-  "updated_at": "2021/02/18",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

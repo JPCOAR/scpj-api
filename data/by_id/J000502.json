@@ -4,6 +4,10 @@
     {
       "title": "雪氷",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japanese Society of Snow and Ice",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Seppyo",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03731006"
+      "issn": "3731006"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.seppyo.org/about/docs/copyright",
   "cdjournal": null,
-  "updated_at": "2011/03/04",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

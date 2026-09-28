@@ -6,6 +6,10 @@
         {
           "title": "口腔衛生学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF DENTAL HEALTH",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Dental Health",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00232831"
+          "issn": "232831"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.kokuhoken.or.jp/jsdh/publication/journal/file/journal_rule.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/01",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

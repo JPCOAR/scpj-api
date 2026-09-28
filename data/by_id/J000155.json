@@ -4,6 +4,10 @@
     {
       "title": "日本助産学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Academy of Midwifery",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Japan Academy of Midwifery",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09176357"
+      "issn": "9176357"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jyosan.jp/modules/journal/index.php?content_id=6",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

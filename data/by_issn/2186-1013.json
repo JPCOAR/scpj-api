@@ -6,6 +6,10 @@
         {
           "title": "日本緬羊研究会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Sheep Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03891305"
+          "issn": "3891305"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/01/28",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

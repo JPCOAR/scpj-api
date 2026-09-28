@@ -4,6 +4,10 @@
     {
       "title": "医用画像情報学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Medical Imaging and Information Sciences",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09101543"
+      "issn": "9101543"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.mii-sciences.jp/acpb/upload/20240527083449097747200.pdf",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

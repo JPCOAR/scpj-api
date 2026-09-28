@@ -6,9 +6,13 @@
         {
           "title": "獣医臨床皮膚科",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Veterinary Dermatology",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The Japanese Journal of Veterinary Dermatology",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsvd.jp/journals/about_journal.html",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

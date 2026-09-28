@@ -4,6 +4,10 @@
     {
       "title": "繊維製品消費科学",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL of the JAPAN RESEARCH ASSOCIATION for TEXTILE END-USES",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00372072"
+      "issn": "372072"
+    },
+    {
+      "type": "electronic",
+      "issn": "18846599"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

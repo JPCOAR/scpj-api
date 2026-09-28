@@ -4,6 +4,10 @@
     {
       "title": "外科と代謝・栄養",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of SURGICAL METABOLISM and NUTRITION",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03895564"
+      "issn": "3895564"
+    },
+    {
+      "type": "electronic",
+      "issn": "21875154"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jsmmn.jp/journal/regulations.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

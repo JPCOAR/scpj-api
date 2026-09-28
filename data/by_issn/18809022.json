@@ -6,6 +6,10 @@
         {
           "title": "動物心理学研究",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Animal Psychology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09168419"
+          "issn": "9168419"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://plaza.umin.ac.jp/dousin/toukou.html",
       "cdjournal": null,
-      "updated_at": "2021/02/25",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

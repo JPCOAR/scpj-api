@@ -4,6 +4,10 @@
     {
       "title": "医学哲学 医学倫理",
       "language": "ja"
+    },
+    {
+      "title": "Annals of the Japanese Association for Philosophical and Ethical Researches in Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02896427"
+      "issn": "2896427"
+    },
+    {
+      "type": "electronic",
+      "issn": "24331821"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://pe-med.sakura.ne.jp/main/?p=423",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

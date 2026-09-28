@@ -6,6 +6,10 @@
         {
           "title": "樹木医学研究",
           "language": "ja"
+        },
+        {
+          "title": "Tree and Forest Health",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Tree and Forest Health",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.thrs.jp/introduction/copyright_kitei.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

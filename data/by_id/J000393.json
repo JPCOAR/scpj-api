@@ -2,8 +2,12 @@
   "journal_id": "J000393",
   "titles": [
     {
-      "title": "AVD : Annals of Vascular Diseases",
+      "title": "Annals of Vascular Diseases",
       "language": "ja"
+    },
+    {
+      "title": "Annals of Vascular Diseases",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "1881641X"
+    },
+    {
+      "type": "electronic",
+      "issn": "18816428"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://avd-journal.com/authors/author-instructions/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

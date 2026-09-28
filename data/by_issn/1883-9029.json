@@ -4,8 +4,12 @@
       "journal_id": "J000206",
       "titles": [
         {
-          "title": "地震",
+          "title": "地震　第2輯",
           "language": "ja"
+        },
+        {
+          "title": "Zisin (Journal of the Seismological Society of Japan. 2nd ser.)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00371114"
+          "issn": "371114"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.zisin.jp/org/organization_submission.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

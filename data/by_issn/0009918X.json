@@ -6,6 +6,10 @@
         {
           "title": "臨床神経学",
           "language": "ja"
+        },
+        {
+          "title": "Rinsho Shinkeigaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

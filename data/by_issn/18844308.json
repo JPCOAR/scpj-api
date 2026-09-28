@@ -6,6 +6,10 @@
         {
           "title": "日本顎関節学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Temporomandibular Joint",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09153004"
+          "issn": "9153004"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://kokuhoken.net/jstmj/publication/journal.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

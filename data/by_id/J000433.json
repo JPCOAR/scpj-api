@@ -4,6 +4,10 @@
     {
       "title": "日本衣服学会誌",
       "language": "ja"
+    },
+    {
+      "title": "JAPANESE JOURNAL OF CLOTHING RESEARCH",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09105778"
+      "issn": "9105778"
+    },
+    {
+      "type": "electronic",
+      "issn": "24241660"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://nippon-ifuku-gakkai.jp/kitei",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

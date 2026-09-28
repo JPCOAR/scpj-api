@@ -6,6 +6,10 @@
         {
           "title": "人口学研究",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Population Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The Journal of Population Studies",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03868311"
+          "issn": "3868311"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.paoj.org/jps/index.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

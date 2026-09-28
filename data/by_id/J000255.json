@@ -4,6 +4,10 @@
     {
       "title": "バイオフィードバック研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Biofeedback Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03861856"
+      "issn": "3861856"
+    },
+    {
+      "type": "electronic",
+      "issn": "24323888"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jsbr.jp/publication/contribution-rule.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

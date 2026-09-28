@@ -6,6 +6,10 @@
         {
           "title": "Journal of the Japanese Society of Computational Statistics",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Society of Computational Statistics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09152350"
+          "issn": "9152350"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://link.springer.com/journal/42081/submission-guidelines",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

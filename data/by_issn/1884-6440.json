@@ -6,14 +6,18 @@
         {
           "title": "膜",
           "language": "ja"
+        },
+        {
+          "title": "MEMBRANE",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Membrane",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "03851036"
+          "issn": "3851036"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.maku-jp.org/content/files/maku/rules_20150910J.pdf",
       "cdjournal": null,
-      "updated_at": "2020/12/10",
+      "updated_at": "2026/09/18",
       "sheet_updated_at": null
     }
   ]

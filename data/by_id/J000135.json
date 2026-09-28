@@ -2,8 +2,12 @@
   "journal_id": "J000135",
   "titles": [
     {
-      "title": "Cytometry research : 日本サイトメトリー学会機関誌",
+      "title": "サイトメトリーリサーチ",
       "language": "ja"
+    },
+    {
+      "title": "Cytometry Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09166920"
+      "issn": "9166920"
+    },
+    {
+      "type": "electronic",
+      "issn": "24240664"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.cytometry.jp/publication/authors",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/01",
   "sheet_updated_at": null
 }

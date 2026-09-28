@@ -6,6 +6,10 @@
         {
           "title": "水資源・環境研究",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF WATER AND ENVIRONMENTAL ISSUES",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Water and Environmental Issues",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09138277"
+          "issn": "9138277"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jawre.org/publication/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/01",
       "sheet_updated_at": null
     }
   ]

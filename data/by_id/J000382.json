@@ -4,6 +4,10 @@
     {
       "title": "地盤工学ジャーナル",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Geotechnical Journal",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Japan geotechnical journal",
@@ -97,6 +101,6 @@
   ],
   "policy_url": "https://www.jiban.or.jp/?page_id=1356",
   "cdjournal": null,
-  "updated_at": "2020/12/22",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

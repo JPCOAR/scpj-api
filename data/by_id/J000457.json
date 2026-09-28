@@ -4,6 +4,10 @@
     {
       "title": "消費者教育",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Academy of Consumer Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "13451855"
+    },
+    {
+      "type": "print",
+      "issn": "13451855"
+    },
+    {
+      "type": "electronic",
+      "issn": "24360929"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/02/15",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

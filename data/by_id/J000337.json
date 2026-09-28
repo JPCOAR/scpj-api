@@ -4,6 +4,10 @@
     {
       "title": "日本地熱学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Geothermal Research Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of the Geothermal Research  Society of Japan",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03886735"
+      "issn": "3886735"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://grsj.gr.jp/journal/submission/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

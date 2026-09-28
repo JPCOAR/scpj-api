@@ -4,6 +4,10 @@
     {
       "title": "日本養豚学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Nihon Yoton Gakkaishi",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

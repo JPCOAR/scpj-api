@@ -4,6 +4,10 @@
     {
       "title": "近代文学研究",
       "language": "ja"
+    },
+    {
+      "title": "KindaiBungakuKenkyu",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09105654"
+      "issn": "9105654"
+    },
+    {
+      "type": "print",
+      "issn": "9105654"
+    },
+    {
+      "type": "electronic",
+      "issn": "27596885"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/04/16",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "社会・経済システム",
           "language": "ja"
+        },
+        {
+          "title": "Social and Economic Systems Studies: The Journal of the Japan Association for Social and Economic Systems Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Social and Economic Systems Studies",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09135472"
+          "issn": "9135472"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jasess.jp/wp/wp-content/uploads/2021/PaperSubmissionRules20210125.pdf",
       "cdjournal": null,
-      "updated_at": "2021/02/15",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

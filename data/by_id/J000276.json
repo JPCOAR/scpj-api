@@ -4,6 +4,10 @@
     {
       "title": "海の研究",
       "language": "ja"
+    },
+    {
+      "title": "Oceanography in Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09168362"
+      "issn": "9168362"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/09/10",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "茶業研究報告",
       "language": "ja"
+    },
+    {
+      "title": "Chagyo Kenkyu Hokoku (Tea Research Journal)",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03666190"
+      "issn": "3666190"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2018/03/20",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

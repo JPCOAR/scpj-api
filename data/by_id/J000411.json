@@ -4,6 +4,10 @@
     {
       "title": "獣医麻酔外科学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Veterinary Anesthesia & Surgery",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09165908"
+      "issn": "9165908"
+    },
+    {
+      "type": "electronic",
+      "issn": "13497669"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/01/25",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

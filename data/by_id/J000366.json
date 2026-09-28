@@ -4,6 +4,10 @@
     {
       "title": "日本臨床生理学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Clinical Physiology",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Clinical Physiology",
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "02867052"
+      "issn": "2867052"
+    },
+    {
+      "type": "electronic",
+      "issn": "24351695"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://j-clinic-physiol.jp/about/posting/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "Biogeography",
           "language": "ja"
+        },
+        {
+          "title": "Biogeography",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13450662"
+        },
+        {
+          "type": "electronic",
+          "issn": "18808085"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

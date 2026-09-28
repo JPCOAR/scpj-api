@@ -4,6 +4,10 @@
     {
       "title": "教育情報研究",
       "language": "ja"
+    },
+    {
+      "title": "Educational Information Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09126732"
+      "issn": "9126732"
+    },
+    {
+      "type": "electronic",
+      "issn": "24321745"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/02/20",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

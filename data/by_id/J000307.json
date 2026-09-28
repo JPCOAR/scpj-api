@@ -4,6 +4,10 @@
     {
       "title": "日本重症心身障害学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Severe Motor and Intellectual Disabilities",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Severe Motor and Intellectual Disabilities",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.js-smid.org/about/posting/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

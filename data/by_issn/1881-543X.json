@@ -6,6 +6,10 @@
         {
           "title": "エアロゾル研究",
           "language": "ja"
+        },
+        {
+          "title": "Earozoru Kenkyu",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Earozoru Kenkyu",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09122834"
+          "issn": "9122834"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jaast.jp/new/guidance_publications.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "砥粒加工学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Society for Abrasive Technology",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Abrasive Technology",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09142703"
+      "issn": "9142703"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jsat.or.jp/writing",
   "cdjournal": null,
-  "updated_at": "2020/12/07",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

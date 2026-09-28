@@ -2,8 +2,12 @@
   "journal_id": "J000216",
   "titles": [
     {
-      "title": "Annals of the Japan Association for the Philosophy of Science",
+      "title": "Annals of the Japan Association for Philosophy of Science",
       "language": "ja"
+    },
+    {
+      "title": "Annals of the Japan Association for Philosophy of Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "04530691"
+      "issn": "4530691"
+    },
+    {
+      "type": "electronic",
+      "issn": "18841228"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://phsc.jp/copyright_ja.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

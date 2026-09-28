@@ -6,6 +6,10 @@
         {
           "title": "東洋音楽研究",
           "language": "ja"
+        },
+        {
+          "title": "Toyo ongaku kenkyu : the journal of the Society for the Research of Asiatic Music",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00393851"
+          "issn": "393851"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

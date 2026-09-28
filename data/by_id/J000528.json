@@ -4,6 +4,10 @@
     {
       "title": "日本複合材料学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Society for Composite Materials",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03852563"
+      "issn": "3852563"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/02/08",
+  "updated_at": "2026/09/24",
   "sheet_updated_at": null
 }

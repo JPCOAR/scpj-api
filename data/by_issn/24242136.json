@@ -4,8 +4,12 @@
       "journal_id": "J000437",
       "titles": [
         {
-          "title": "英文學研究",
+          "title": "英文学研究",
           "language": "ja"
+        },
+        {
+          "title": "Studies in English Literature",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Studies in English Literature",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "00393649"
+          "issn": "393649"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/03",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

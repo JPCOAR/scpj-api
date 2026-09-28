@@ -4,6 +4,10 @@
     {
       "title": "水道協会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Water Works Association",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03710785"
+      "issn": "3710785"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jwwa.or.jp/syuppan/system_file/magazine_file_20060926002.pdf",
   "cdjournal": null,
-  "updated_at": "2021/02/26",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

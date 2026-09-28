@@ -4,6 +4,10 @@
     {
       "title": "Tropical Agriculture and Development",
       "language": "ja"
+    },
+    {
+      "title": "Tropical Agriculture and Development",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "18828450"
+    },
+    {
+      "type": "electronic",
+      "issn": "18828469"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2011/03/10",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

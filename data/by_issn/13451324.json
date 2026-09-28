@@ -4,8 +4,12 @@
       "journal_id": "J000228",
       "titles": [
         {
-          "title": "Journal of the Human-Environment System",
+          "title": "人間-生活環境系学会英文誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Human-Environment System",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jhes-jp.com/blog/journal/jpn/rule/",
       "cdjournal": null,
-      "updated_at": "2021/02/22",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

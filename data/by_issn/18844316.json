@@ -6,6 +6,10 @@
         {
           "title": "口腔・咽頭科",
           "language": "ja"
+        },
+        {
+          "title": "Stomato-pharyngology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09175105"
+          "issn": "9175105"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

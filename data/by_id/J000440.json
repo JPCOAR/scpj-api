@@ -4,6 +4,10 @@
     {
       "title": "Journal of Clinical Biochemistry and Nutrition",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Clinical Biochemistry and Nutrition",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09120009"
+      "issn": "9120009"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://sfrrj.umin.jp/JCBN.htm",
   "cdjournal": null,
-  "updated_at": "2025/08/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "Earth, Planets and Space",
       "language": "ja"
+    },
+    {
+      "title": "Earth, Planets and Space",
+      "language": "en"
     }
   ],
   "journal_title_alias": "（旧）Journal of geomagnetism and geoelectricity　及び　Journal of Physics of the Earth",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://earth-planets-space.springeropen.com/submission-guidelines/copyright",
   "cdjournal": null,
-  "updated_at": "2017/10/19",
+  "updated_at": "2026/09/08",
   "sheet_updated_at": null
 }

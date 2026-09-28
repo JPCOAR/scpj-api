@@ -4,6 +4,10 @@
     {
       "title": "地学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Geography (Chigaku Zasshi)",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.geog.or.jp/journal/ja/for-authors-ja/permission-ja.html",
   "cdjournal": null,
-  "updated_at": "2014/07/11",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

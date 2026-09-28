@@ -4,6 +4,10 @@
     {
       "title": "日本教師教育学会年報",
       "language": "ja"
+    },
+    {
+      "title": "The Annual Bulletin of the Japanese Society for the Study on Teacher Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "13437186"
+    },
+    {
+      "type": "print",
+      "issn": "13437186"
+    },
+    {
+      "type": "electronic",
+      "issn": "24348562"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://jsste.jp/aboutus/rules/",
   "cdjournal": null,
-  "updated_at": "2018/06/22",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

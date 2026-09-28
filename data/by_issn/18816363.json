@@ -6,6 +6,10 @@
         {
           "title": "肩関節",
           "language": "ja"
+        },
+        {
+          "title": "Katakansetsu",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09104461"
+          "issn": "9104461"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.j-shoulder-s.jp/entryrule/index.html",
       "cdjournal": null,
-      "updated_at": "2013/02/06",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

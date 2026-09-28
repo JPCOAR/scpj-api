@@ -4,6 +4,10 @@
     {
       "title": "日本看護研究学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Society of Nursing Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jsnr.or.jp/contribution/magazine-reg/",
   "cdjournal": null,
-  "updated_at": "2021/02/18",
+  "updated_at": "2026/09/18",
   "sheet_updated_at": null
 }

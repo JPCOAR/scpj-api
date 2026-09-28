@@ -6,6 +6,10 @@
         {
           "title": "Chromatography",
           "language": "ja"
+        },
+        {
+          "title": "CHROMATOGRAPHY",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://chromsoc.jp/Journal.html",
       "cdjournal": null,
-      "updated_at": "2020/12/07",
+      "updated_at": "2026/09/10",
       "sheet_updated_at": null
     }
   ]

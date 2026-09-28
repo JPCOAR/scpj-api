@@ -6,6 +6,10 @@
         {
           "title": "南アジア研究",
           "language": "ja"
+        },
+        {
+          "title": "Minamiajiakenkyu",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09155643"
+          "issn": "9155643"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

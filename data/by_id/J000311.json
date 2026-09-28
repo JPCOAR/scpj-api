@@ -4,6 +4,10 @@
     {
       "title": "日本小児看護学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese Society of Child Health Nursing",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13449923"
+    },
+    {
+      "type": "electronic",
+      "issn": "24238457"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://jschn.umin.ac.jp/journal.html",
   "cdjournal": null,
-  "updated_at": "2017/05/26",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "The Journal of Poultry Science",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Poultry Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jpn-psa.jp/en/jps-en/instructions-for-authors/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     }
   ]

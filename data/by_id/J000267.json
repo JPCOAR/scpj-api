@@ -4,6 +4,10 @@
     {
       "title": "日本医史学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japanese Society for the History of Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "05493323"
+      "issn": "5493323"
+    },
+    {
+      "type": "electronic",
+      "issn": "27590453"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://jshm.or.jp/manuscripts.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

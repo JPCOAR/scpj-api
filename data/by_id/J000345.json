@@ -4,6 +4,10 @@
     {
       "title": "熱帯農業",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Tropical Agriculture",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00215260"
+      "issn": "215260"
+    },
+    {
+      "type": "electronic",
+      "issn": "21850259"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2011/03/10",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

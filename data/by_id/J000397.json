@@ -4,6 +4,10 @@
     {
       "title": "ファッションビジネス学会論文誌",
       "language": "ja"
+    },
+    {
+      "title": "Annual Journal of Studies The Society for Fashion Business",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "13489909"
+    },
+    {
+      "type": "print",
+      "issn": "13489909"
+    },
+    {
+      "type": "electronic",
+      "issn": "24363278"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://www.fbsociety.com/thesis/submission.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/10",
   "sheet_updated_at": null
 }

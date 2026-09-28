@@ -2,8 +2,12 @@
   "journal_id": "J000318",
   "titles": [
     {
-      "title": "Environment control in biology",
+      "title": "Environmental Control in Biology",
       "language": "ja"
+    },
+    {
+      "title": "Environmental Control in Biology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://jsabees.org/ecb/AuthorInstructions.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }

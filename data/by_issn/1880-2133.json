@@ -4,8 +4,12 @@
       "journal_id": "J000275",
       "titles": [
         {
-          "title": "日本家畜管理学会誌・応用動物行動学会誌（Animal Behaviour and Management）",
+          "title": "日本家畜管理学会誌・応用動物行動学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Animal Behaviour and Management",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)日本家畜管理学会誌",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18802133"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241776"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jsabm.org/journal/repository/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/09",
       "sheet_updated_at": null
     },
     {

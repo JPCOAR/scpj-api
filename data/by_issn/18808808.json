@@ -6,6 +6,10 @@
         {
           "title": "日本血栓止血学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Thrombosis and Hemostasis",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09157441"
+          "issn": "9157441"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.jsth.org/membership/m03/",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/09/08",
       "sheet_updated_at": null
     }
   ]

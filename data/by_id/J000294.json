@@ -4,6 +4,10 @@
     {
       "title": "交通心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Traffic Pschology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09109749"
+      "issn": "9109749"
+    },
+    {
+      "type": "electronic",
+      "issn": "24350028"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jatp-web.jp/?page_id=104",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/09",
   "sheet_updated_at": null
 }
