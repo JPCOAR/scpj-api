@@ -6,6 +6,10 @@
         {
           "title": "Ornithological Science",
           "language": "ja"
+        },
+        {
+          "title": "ORNITHOLOGICAL SCIENCE",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13470558"
+        },
+        {
+          "type": "electronic",
+          "issn": "27595897"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://ornithology.jp/wabun/chosakuken.html",
       "cdjournal": null,
-      "updated_at": "2021/02/19",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "木材学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Mokuzai Gakkaishi",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2017/10/31",
+  "updated_at": "2026/10/06",
   "sheet_updated_at": null
 }

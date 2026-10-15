@@ -6,6 +6,10 @@
         {
           "title": "システム／制御／情報",
           "language": "ja"
+        },
+        {
+          "title": "SYSTEMS, CONTROL AND INFORMATION",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.iscie.or.jp/pub/journal#ethics",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

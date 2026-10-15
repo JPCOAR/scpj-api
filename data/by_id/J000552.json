@@ -4,6 +4,10 @@
     {
       "title": "山岳修験",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Mountain Religion",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09150978"
+      "issn": "9150978"
+    },
+    {
+      "type": "print",
+      "issn": "9150978"
+    },
+    {
+      "type": "electronic",
+      "issn": "27584437"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/02/15",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

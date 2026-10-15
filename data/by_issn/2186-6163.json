@@ -6,14 +6,18 @@
         {
           "title": "現代社会学研究",
           "language": "ja"
+        },
+        {
+          "title": "Contemporary Sociological Studies",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Contemporary Sociological Studies",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "09151214"
+          "issn": "9151214"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/02",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

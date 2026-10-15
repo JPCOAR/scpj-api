@@ -4,6 +4,10 @@
     {
       "title": "季刊地理学",
       "language": "ja"
+    },
+    {
+      "title": "Quarterly Journal of Geography",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2020/12/09",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

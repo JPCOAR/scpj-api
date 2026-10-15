@@ -6,6 +6,10 @@
         {
           "title": "日本水処理生物学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Water Treatment Biology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/10/01",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

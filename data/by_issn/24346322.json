@@ -6,6 +6,10 @@
         {
           "title": "Science and Technology of Energetic Materials",
           "language": "ja"
+        },
+        {
+          "title": "Science and Technology of Energetic Materials",
+          "language": "en"
         }
       ],
       "journal_title_alias": "STEM",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.jes.or.jp/mag",
       "cdjournal": null,
-      "updated_at": "2021/02/08",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

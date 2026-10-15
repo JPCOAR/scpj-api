@@ -6,6 +6,10 @@
         {
           "title": "九州病害虫研究会報",
           "language": "ja"
+        },
+        {
+          "title": "Kyushu Plant Protection Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/25",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "農業史研究",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Agricultural History",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/10",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

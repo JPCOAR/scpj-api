@@ -6,6 +6,10 @@
         {
           "title": "農業生産技術管理学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Society of Agricultural Technology Management",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of the Japanese Society of Agricultural Technology Management",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://nodaiweb.university.jp/jsatm/info/toko.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/10/02",
       "sheet_updated_at": null
     }
   ]

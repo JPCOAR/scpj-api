@@ -4,6 +4,10 @@
     {
       "title": "日本ロボット学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Robotics Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.rsj.or.jp/info/compliance/copyright/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

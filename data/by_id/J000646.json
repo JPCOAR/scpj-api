@@ -4,6 +4,10 @@
     {
       "title": "Journal of the Japan Statistical Society",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF THE JAPAN STATISTICAL SOCIETY",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "18822754"
+    },
+    {
+      "type": "electronic",
+      "issn": "13486365"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/02/15",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

@@ -4,8 +4,12 @@
       "journal_id": "J000672",
       "titles": [
         {
-          "title": "コンピュータソフトウェア",
+          "title": "コンピュータ ソフトウェア",
           "language": "ja"
+        },
+        {
+          "title": "Computer Software",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -99,7 +103,7 @@
       ],
       "policy_url": "https://www.jssst.or.jp/kitei/",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

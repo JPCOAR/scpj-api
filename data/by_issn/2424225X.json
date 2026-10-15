@@ -6,14 +6,18 @@
         {
           "title": "交通史研究",
           "language": "ja"
+        },
+        {
+          "title": "Historical Review of Transport and Communications",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese Society of the History of Transport and Communications",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "09137300"
+          "issn": "9137300"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://kotsushi.org/wp_site/%E4%BC%9A%E8%AA%8C%E5%8E%9F%E7%A8%BF%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

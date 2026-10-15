@@ -4,6 +4,10 @@
     {
       "title": "Journal of Radiation Research",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Radiation Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://academic.oup.com/jrr/pages/General_Instructions",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

@@ -4,14 +4,26 @@
     {
       "title": "歴史地理学",
       "language": "ja"
+    },
+    {
+      "title": "THE HISTORICAL GEOGRAPHY",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "THE HISTORICAL GEOGRAPHY",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "linking",
-      "issn": "03887464"
+      "issn": "3887464"
+    },
+    {
+      "type": "print",
+      "issn": "3887464"
+    },
+    {
+      "type": "electronic",
+      "issn": "27593266"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://hist-geo.jp/img/rule/file1.pdf",
   "cdjournal": null,
-  "updated_at": "2021/01/12",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

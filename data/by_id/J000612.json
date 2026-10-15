@@ -4,6 +4,10 @@
     {
       "title": "現代中国",
       "language": "ja"
+    },
+    {
+      "title": "Modern China",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "04352114"
+      "issn": "4352114"
+    },
+    {
+      "type": "print",
+      "issn": "4352114"
+    },
+    {
+      "type": "electronic",
+      "issn": "27588548"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/01/30",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

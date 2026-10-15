@@ -6,6 +6,10 @@
         {
           "title": "歴史と経済",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Political Economy and Economic History",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)土地制度史学",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://seikeishi.com/journal/rules/",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

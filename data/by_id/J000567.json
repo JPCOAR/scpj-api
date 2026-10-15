@@ -4,6 +4,10 @@
     {
       "title": "社会科教育研究",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of Social Studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09158154"
+      "issn": "9158154"
+    },
+    {
+      "type": "electronic",
+      "issn": "24238406"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://socialstudies.jp/ja/journal_copyrights.html",
   "cdjournal": null,
-  "updated_at": "2011/03/08",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

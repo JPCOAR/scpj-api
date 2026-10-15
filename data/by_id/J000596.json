@@ -4,6 +4,10 @@
     {
       "title": "日本史研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese History",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03868850"
+      "issn": "3868850"
+    },
+    {
+      "type": "electronic",
+      "issn": "24364622"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/10/31",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

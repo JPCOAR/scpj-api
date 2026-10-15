@@ -4,6 +4,10 @@
     {
       "title": "犯罪心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Criminal Psychology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00177547"
+      "issn": "177547"
+    },
+    {
+      "type": "electronic",
+      "issn": "24242128"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jacpsy.jp/journal/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

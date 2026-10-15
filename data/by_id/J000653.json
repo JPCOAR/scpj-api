@@ -4,6 +4,10 @@
     {
       "title": "Anthropological Science (Japanese Series)",
       "language": "ja"
+    },
+    {
+      "title": "Anthropological Science (Japanese Series)",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13443992"
+    },
+    {
+      "type": "electronic",
+      "issn": "13488813"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.anthropology.jp/anthropological_science/rule.html",
   "cdjournal": null,
-  "updated_at": "2012/01/30",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

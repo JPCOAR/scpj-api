@@ -4,9 +4,13 @@
     {
       "title": "地下水学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Groundwater Hydrology",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of Groundwater Hydrology",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jagh.jp/publication/journal/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

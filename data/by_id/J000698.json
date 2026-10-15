@@ -4,6 +4,10 @@
     {
       "title": "Journal of the Ceramic Society of Japan",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Ceramic Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)日本セラミックス協会学術論文誌 : Nippon Seramikkusu Kyokai gakujutsu ronbunshi",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.ceramic.or.jp/pub/post-ronbun.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

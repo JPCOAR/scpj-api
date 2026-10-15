@@ -4,6 +4,10 @@
     {
       "title": "宗教研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of religious studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03873293"
+      "issn": "3873293"
+    },
+    {
+      "type": "electronic",
+      "issn": "21883858"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jpars.org/bulletin-rule.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "材料と環境",
       "language": "ja"
+    },
+    {
+      "title": "Corrosion Engineering",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jcorr.or.jp/shuppan/toukou/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

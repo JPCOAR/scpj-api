@@ -6,6 +6,10 @@
         {
           "title": "水文・水資源学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF JAPAN SOCIETY OF HYDROLOGY AND WATER RESOURCES",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09151389"
+        },
+        {
+          "type": "electronic",
+          "issn": "13492853"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jshwr.org/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

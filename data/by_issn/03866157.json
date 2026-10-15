@@ -6,6 +6,10 @@
         {
           "title": "粉体工学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Society of Powder Technology, Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of the Society of Powder Technology, Japan",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.sptj.jp/publication/kaishi/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

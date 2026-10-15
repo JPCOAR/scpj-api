@@ -2,8 +2,12 @@
   "journal_id": "J000679",
   "titles": [
     {
-      "title": "Journal of the Operations Research Society of Japan",
+      "title": "日本オペレーションズ・リサーチ学会論文誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Operations Research Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "04534514"
+    },
+    {
+      "type": "electronic",
+      "issn": "21888299"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://orsj.org/kitei3-1-2",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

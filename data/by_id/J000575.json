@@ -4,6 +4,10 @@
     {
       "title": "VISION",
       "language": "ja"
+    },
+    {
+      "title": "VISION",
+      "language": "en"
     }
   ],
   "journal_title_alias": "The Journal of the  Vision Society of Japan",
@@ -11,7 +15,7 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09171142"
+      "issn": "9171142"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.visionsociety.jp/pdf/30-2_85.pdf",
   "cdjournal": null,
-  "updated_at": "2021/03/02",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

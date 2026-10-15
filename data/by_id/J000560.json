@@ -4,6 +4,10 @@
     {
       "title": "ダルクローズ音楽教育研究",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Dalcroze-Eurhythmics and Music Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": "The Japanese Journal of Dalcroze Eurhythmics and Music Education",
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "09146148"
+      "issn": "9146148"
+    },
+    {
+      "type": "print",
+      "issn": "9146148"
+    },
+    {
+      "type": "electronic",
+      "issn": "24366633"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

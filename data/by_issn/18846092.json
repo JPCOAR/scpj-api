@@ -6,6 +6,10 @@
         {
           "title": "流通",
           "language": "ja"
+        },
+        {
+          "title": "DISTRIBUTION STUDIES",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "09149937"
+          "issn": "9149937"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/11/19",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

@@ -6,9 +6,13 @@
         {
           "title": "真空",
           "language": "ja"
+        },
+        {
+          "title": "SHINKU",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of the Vacuum Society of Japan",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jvss.jp/vss/vss_index.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/06",
       "sheet_updated_at": null
     },
     {

@@ -4,6 +4,10 @@
     {
       "title": "計画行政",
       "language": "ja"
+    },
+    {
+      "title": "Planning and Public Management",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "03872513"
+      "issn": "3872513"
+    },
+    {
+      "type": "electronic",
+      "issn": "21893667"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2011/01/07",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

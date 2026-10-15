@@ -4,6 +4,10 @@
     {
       "title": "日本結晶成長学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japanese Association for Crystal Growth",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "03856275"
+    },
+    {
+      "type": "electronic",
+      "issn": "21878366"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.jacg.jp/jacg/journal/contribution.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

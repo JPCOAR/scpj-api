@@ -4,6 +4,10 @@
     {
       "title": "経営哲学",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Management Philosophy",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "18843476"
+    },
+    {
+      "type": "print",
+      "issn": "18843476"
+    },
+    {
+      "type": "electronic",
+      "issn": "24362271"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

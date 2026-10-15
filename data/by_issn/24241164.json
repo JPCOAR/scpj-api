@@ -6,6 +6,10 @@
         {
           "title": "美学",
           "language": "ja"
+        },
+        {
+          "title": "Aesthetics",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Aesthetics",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "05200962"
+          "issn": "5200962"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.bigakukai.jp/howtopost/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/28",
       "sheet_updated_at": null
     }
   ]

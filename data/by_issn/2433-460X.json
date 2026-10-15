@@ -6,9 +6,13 @@
         {
           "title": "地域地理研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Systematic Regional Geography",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Systematic Regional Geography",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://ssrg.jp/contribution-rules/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

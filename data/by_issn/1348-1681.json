@@ -4,8 +4,12 @@
       "journal_id": "J000537",
       "titles": [
         {
-          "title": "The journal of American Literature Society of Japan\\",
+          "title": "The Journal of the American Literature Society of Japan",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of the American Literature Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13481681"
+        },
+        {
+          "type": "electronic",
+          "issn": "2424192X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/02/15",
+      "updated_at": "2026/09/28",
       "sheet_updated_at": null
     }
   ]

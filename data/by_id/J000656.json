@@ -4,6 +4,10 @@
     {
       "title": "日本鳥学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Ornithology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://ornithology.jp/wabun/chosakuken.html",
   "cdjournal": null,
-  "updated_at": "2021/02/19",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

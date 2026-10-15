@@ -6,9 +6,13 @@
         {
           "title": "日本土壌肥料学雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Soil Science and Plant Nutrition",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese Journal of Soil Science and Plant Nutrition",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jssspn.jp/book/magazine.html",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/10/06",
       "sheet_updated_at": null
     }
   ]

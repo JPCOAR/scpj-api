@@ -4,6 +4,10 @@
     {
       "title": "表現研究",
       "language": "ja"
+    },
+    {
+      "title": "HYOGEN KENKYU",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "02858347"
+      "issn": "2858347"
+    },
+    {
+      "type": "print",
+      "issn": "2858347"
+    },
+    {
+      "type": "electronic",
+      "issn": "27587894"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://www.hyogen-gakkai-official.org/journal.html",
   "cdjournal": null,
-  "updated_at": "2021/02/22",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

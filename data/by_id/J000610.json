@@ -4,14 +4,18 @@
     {
       "title": "オリエント",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of the Society for Near Eastern Studies in Japan",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Bulletin of the Society for Near Eastern Studies in Japan",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
-      "issn": "00305219"
+      "issn": "305219"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.j-orient.com/publications/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

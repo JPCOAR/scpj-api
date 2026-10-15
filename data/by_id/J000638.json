@@ -4,14 +4,26 @@
     {
       "title": "会計プログレス",
       "language": "ja"
+    },
+    {
+      "title": "Accounting Progress",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Accounting progress",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "linking",
       "issn": "21896321"
+    },
+    {
+      "type": "print",
+      "issn": "21896321"
+    },
+    {
+      "type": "electronic",
+      "issn": "24359947"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/02/08",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

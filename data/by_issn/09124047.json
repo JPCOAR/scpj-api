@@ -6,9 +6,13 @@
         {
           "title": "霊長類研究",
           "language": "ja"
+        },
+        {
+          "title": "Primate Research",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Primate Research",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://primate-society.com/regulations/author_guideline1.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

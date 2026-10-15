@@ -4,14 +4,18 @@
     {
       "title": "経営情報学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Society for Management Information",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of the Japan Society for Management Information経営情報学会論文誌",
+  "journal_title_alias": "経営情報学会論文誌",
   "journal_url": null,
   "issns": [
     {
       "type": "print",
-      "issn": "09187324"
+      "issn": "9187324"
     },
     {
       "type": "electronic",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jasmin.jp/activities/thesis-guideline/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

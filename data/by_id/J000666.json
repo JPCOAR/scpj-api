@@ -4,9 +4,13 @@
     {
       "title": "環境教育",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Environmental Education",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Japanese Journal of Environmental Education",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jsfee.jp/publication/journal/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

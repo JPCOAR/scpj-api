@@ -6,6 +6,10 @@
         {
           "title": "ロシア史研究",
           "language": "ja"
+        },
+        {
+          "title": "Roshiashi kenkyu",
+          "language": "en"
         }
       ],
       "journal_title_alias": "История России",
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03869229"
+          "issn": "3869229"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.roshiashi.com/aboutus",
       "cdjournal": null,
-      "updated_at": "2021/02/19",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

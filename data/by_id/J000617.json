@@ -4,9 +4,13 @@
     {
       "title": "日本EU学会年報",
       "language": "ja"
+    },
+    {
+      "title": "EU Studies in Japan",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "EU studies in Japan",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.eusa-japan.org/?page_id=4558",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

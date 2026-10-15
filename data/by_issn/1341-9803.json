@@ -4,16 +4,24 @@
       "journal_id": "J000639",
       "titles": [
         {
-          "title": "産業連関 : イノベーション&I-Oテクニーク",
+          "title": "産業連関",
           "language": "ja"
+        },
+        {
+          "title": "Input-Output Analysis",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "産業連関 : イノベーション&I-Oテクニーク",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "13419803"
+        },
+        {
+          "type": "electronic",
+          "issn": "21873208"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2013/01/07",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

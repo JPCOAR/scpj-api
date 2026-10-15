@@ -4,6 +4,10 @@
     {
       "title": "Journal of the Magnetics Society of Japan",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Magnetics Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.magnetics.jp/publication/kitei/",
   "cdjournal": null,
-  "updated_at": "2021/02/02",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

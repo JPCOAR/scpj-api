@@ -6,6 +6,10 @@
         {
           "title": "芝草研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japanese Society of Turfgrass Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Journal of Japanese Society of Turfgrass Science",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jsts.smoosy.atlas.jp/ja/about_copyright",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/02",
       "sheet_updated_at": null
     }
   ]

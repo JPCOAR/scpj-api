@@ -6,6 +6,10 @@
         {
           "title": "Hydrological Research Letters",
           "language": "ja"
+        },
+        {
+          "title": "Hydrological Research Letters",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -99,7 +103,7 @@
       ],
       "policy_url": "http://www.hrljournal.org/guidelines",
       "cdjournal": null,
-      "updated_at": "2016/04/14",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

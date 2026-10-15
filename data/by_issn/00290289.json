@@ -6,6 +6,10 @@
         {
           "title": "日本菌学会会報",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Mycology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00290289"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241296"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.mycology-jp.org/~msj7/WL_publications_J/kaihou_J.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/06",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "Orient: Journal of the Society for Near Eastern Studies in Japan",
       "language": "ja"
+    },
+    {
+      "title": "Orient: Journal of the Society for Near Eastern Studies in Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "04733851"
+      "issn": "4733851"
+    },
+    {
+      "type": "electronic",
+      "issn": "18841392"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.j-orient.com/publications/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

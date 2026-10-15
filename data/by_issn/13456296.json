@@ -6,6 +6,10 @@
         {
           "title": "Journal of Mineralogical and Petrological Sciences",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Mineralogical and Petrological Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13456296"
+        },
+        {
+          "type": "electronic",
+          "issn": "13493825"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jams-mineral.jp/journal/jmps/copyright-permission/",
       "cdjournal": null,
-      "updated_at": "2025/09/10",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

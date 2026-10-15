@@ -6,6 +6,10 @@
         {
           "title": "保険学雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Hokengakuzasshi (JOURNAL of INSURANCE SCIENCE)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "03872939"
+          "issn": "3872939"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.js-is.org/?p=68",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

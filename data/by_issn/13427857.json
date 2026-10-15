@@ -6,6 +6,10 @@
         {
           "title": "地域漁業研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Regional Fisheries",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jrfs.org/toko.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/06",
       "sheet_updated_at": null
     }
   ]

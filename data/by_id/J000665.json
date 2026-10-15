@@ -4,6 +4,10 @@
     {
       "title": "新地理",
       "language": "ja"
+    },
+    {
+      "title": "THE NEW GEOGRAPHY",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "05598362"
+    },
+    {
+      "type": "electronic",
+      "issn": "18847072"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2016/03/05",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

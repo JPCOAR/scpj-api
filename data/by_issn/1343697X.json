@@ -6,6 +6,10 @@
         {
           "title": "女性学",
           "language": "ja"
+        },
+        {
+          "title": "Women's Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "1343697X"
+        },
+        {
+          "type": "print",
+          "issn": "1343697X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24365084"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/03/06",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

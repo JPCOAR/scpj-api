@@ -2,8 +2,12 @@
   "journal_id": "J000566",
   "titles": [
     {
-      "title": "International Journal of Curriculum Deveropment and Practice",
+      "title": "International Journal of Curriculum Development and Practice",
       "language": "ja"
+    },
+    {
+      "title": "International Journal of Curriculum Development and Practice",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13444808"
+    },
+    {
+      "type": "electronic",
+      "issn": "24241415"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/05/15",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

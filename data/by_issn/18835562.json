@@ -6,6 +6,10 @@
         {
           "title": "法制史研究",
           "language": "ja"
+        },
+        {
+          "title": "Legal History Review",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -13,7 +17,7 @@
       "issns": [
         {
           "type": "print",
-          "issn": "04412508"
+          "issn": "4412508"
         },
         {
           "type": "electronic",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/08",
+      "updated_at": "2026/09/29",
       "sheet_updated_at": null
     }
   ]

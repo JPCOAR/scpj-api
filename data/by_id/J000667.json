@@ -4,6 +4,10 @@
     {
       "title": "日本女性科学者の会学術誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of The Society of Japanese Women Scientists",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13494449"
+    },
+    {
+      "type": "electronic",
+      "issn": "21863776"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/12/25",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

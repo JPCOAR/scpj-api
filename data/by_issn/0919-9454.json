@@ -6,6 +6,10 @@
         {
           "title": "genome informatics",
           "language": "ja"
+        },
+        {
+          "title": "Genome Informatics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09199454"
+        },
+        {
+          "type": "electronic",
+          "issn": "2185842X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.jsbi.org/about/copyrightnotice/",
       "cdjournal": null,
-      "updated_at": "2010/12/08",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]

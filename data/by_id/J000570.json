@@ -4,6 +4,10 @@
     {
       "title": "教育心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Educational Psychology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "00215015"
+      "issn": "215015"
+    },
+    {
+      "type": "electronic",
+      "issn": "21863075"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2014/04/28",
+  "updated_at": "2026/09/28",
   "sheet_updated_at": null
 }

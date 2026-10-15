@@ -2,8 +2,12 @@
   "journal_id": "J000629",
   "titles": [
     {
-      "title": "社会思想史研究",
+      "title": "社会思想史研究：社会思想史学会年報",
       "language": "ja"
+    },
+    {
+      "title": "ANNALS OF THE SOCIETY FOR THE HISTORY OF SOCIAL THOUGHT",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -11,7 +15,15 @@
   "issns": [
     {
       "type": "linking",
-      "issn": "03864510"
+      "issn": "3864510"
+    },
+    {
+      "type": "print",
+      "issn": "3864510"
+    },
+    {
+      "type": "electronic",
+      "issn": "27595641"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/01/30",
+  "updated_at": "2026/09/29",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "応用数理",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of the Japan Society for Industrial and Applied Mathematics",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2019/04/18",
+  "updated_at": "2026/09/30",
   "sheet_updated_at": null
 }

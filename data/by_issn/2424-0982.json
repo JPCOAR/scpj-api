@@ -6,9 +6,13 @@
         {
           "title": "日本応用数理学会論文誌",
           "language": "ja"
+        },
+        {
+          "title": "Transactions of the Japan Society for Industrial and Applied Mathematics",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Transaction of the Japan Society for Industrial and Applied Mathematics",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jsiam.org/publication/transactions/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/09/30",
       "sheet_updated_at": null
     }
   ]
