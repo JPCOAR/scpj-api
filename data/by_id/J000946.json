@@ -4,6 +4,10 @@
     {
       "title": "日本英語教育史研究",
       "language": "ja"
+    },
+    {
+      "title": "HiSET Journal: Journal on Historical Studies of English Teaching in Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of Historical Studies of English Learning and Teaching in Japan",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://hiselt.org/overview/kitei/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

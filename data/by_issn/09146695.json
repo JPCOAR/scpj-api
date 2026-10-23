@@ -6,6 +6,10 @@
         {
           "title": "日本口腔インプラント学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japanese Society of Oral Implantology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09146695"
+        },
+        {
+          "type": "electronic",
+          "issn": "21879117"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2015/12/17",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

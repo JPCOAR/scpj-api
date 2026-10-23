@@ -6,9 +6,13 @@
         {
           "title": "マイクロメカトロニクス",
           "language": "ja"
+        },
+        {
+          "title": "Micromechatronics",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Micromechatronics",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://hij-n.com/law.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

@@ -4,9 +4,13 @@
     {
       "title": "医療薬学",
       "language": "ja"
+    },
+    {
+      "title": " Japanese Journal of Pharmaceutical Health Care and Sciences",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "病院薬学",
+  "journal_title_alias": "病院薬学;Iryo Yakugaku",
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2016/02/01",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

@@ -6,9 +6,13 @@
         {
           "title": "全日本鍼灸学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Society of Acupuncture and Moxibustion",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "Zen Nihon Shinkyu Gakkai zasshi",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jsam.jp/journal/about/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

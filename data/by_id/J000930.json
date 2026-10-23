@@ -4,6 +4,10 @@
     {
       "title": "Thermal medicine",
       "language": "ja"
+    },
+    {
+      "title": "Thermal Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": "日本ハイパーサーミア学会誌",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://idsc-gunma.jp/congress/jstm/thermal-medicine/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

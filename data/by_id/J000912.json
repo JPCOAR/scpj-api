@@ -4,6 +4,10 @@
     {
       "title": "憲法研究",
       "language": "ja"
+    },
+    {
+      "title": "THE JOURNAL OF CONSTITUTIONAL LAW",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "03891089"
+    },
+    {
+      "type": "print",
+      "issn": "03891089"
+    },
+    {
+      "type": "electronic",
+      "issn": "24357553"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

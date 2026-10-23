@@ -6,6 +6,10 @@
         {
           "title": "Journal of Clinical and Experimental Hematopathology",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Clinical and Experimental Hematopathology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsltr.org/OPEN%20ACCESS%20AND%20COPYRIGHT.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

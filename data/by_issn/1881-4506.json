@@ -6,6 +6,10 @@
         {
           "title": "超音波検査技術",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Medical Ultrasound Technology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jss.org/magazine/post.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

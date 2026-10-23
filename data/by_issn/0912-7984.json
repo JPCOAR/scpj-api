@@ -6,9 +6,13 @@
         {
           "title": "物理探査",
           "language": "ja"
+        },
+        {
+          "title": "Geophysical Exploration",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "BUTSURI-TANSA",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://segj.or.jp/publication/newsletter/instruction.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

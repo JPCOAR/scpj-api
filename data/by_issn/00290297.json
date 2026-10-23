@@ -6,6 +6,10 @@
         {
           "title": "日本口腔科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of The Japanese Stomatological Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://stomatol.umin.jp/pdf/ifa_j.pdf",
       "cdjournal": null,
-      "updated_at": "2021/01/26",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

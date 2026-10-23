@@ -4,6 +4,10 @@
     {
       "title": "比較都市史研究",
       "language": "ja"
+    },
+    {
+      "title": "The Comparative Urban History Review",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "02871637"
+    },
+    {
+      "type": "electronic",
+      "issn": "24240885"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

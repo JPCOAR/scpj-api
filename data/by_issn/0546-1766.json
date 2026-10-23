@@ -6,14 +6,22 @@
         {
           "title": "日本公衆衛生雑誌",
           "language": "ja"
+        },
+        {
+          "title": "JAPANESE JOURNAL OF PUBLIC HEALTH",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "Nihon Koshu Eisei Zasshi",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "05461766"
+        },
+        {
+          "type": "electronic",
+          "issn": "21878986"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

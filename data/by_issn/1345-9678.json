@@ -6,6 +6,10 @@
         {
           "title": "Materials Transactions",
           "language": "ja"
+        },
+        {
+          "title": "MATERIALS TRANSACTIONS",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)Materials Transactions, JIM",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
         }
       ],
       "listed_in_doaj": null,
@@ -22,12 +30,12 @@
       "non_embargo_oa": null,
       "applicability": null,
       "society": {
-        "id": "S000711",
-        "name": "軽金属学会",
+        "id": "S000712",
+        "name": "日本金属学会",
         "name_en": null,
-        "url": "https://www.jilm.or.jp/",
+        "url": "http://jim.or.jp/",
         "contact_url": null,
-        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00330"
+        "meikan_url": "https://gakkai.scj.go.jp/organizations/G00142"
       },
       "publisher_policy": [
         {
@@ -99,23 +107,31 @@
       ],
       "policy_url": "https://www.jilm.or.jp/eng/page-journal02",
       "cdjournal": null,
-      "updated_at": "2019/11/29",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000863",
       "titles": [
         {
-          "title": "Materials Transactions (旧)Materials Transactions, JIM",
+          "title": "MATERIALS TRANSACTIONS",
           "language": "ja"
+        },
+        {
+          "title": "MATERIALS TRANSACTIONS",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "(旧)Materials Transactions, JIM",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "13459678"
+        },
+        {
+          "type": "electronic",
+          "issn": "13475320"
         }
       ],
       "listed_in_doaj": null,
@@ -201,7 +217,7 @@
       ],
       "policy_url": "https://jimm.jp/publication/information/admission.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     },
     {

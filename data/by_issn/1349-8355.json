@@ -6,6 +6,10 @@
         {
           "title": "Bioscience and Microflora",
           "language": "ja"
+        },
+        {
+          "title": "Bioscience and Microflora",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)Bifidobacteria and Microflora",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://bifidus-fund.jp/journal/pdf/koukai_bm.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

@@ -6,9 +6,13 @@
         {
           "title": "経済学史研究",
           "language": "ja"
+        },
+        {
+          "title": "The History of Economic Thought",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The History of Economic Thought",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jshet.net/het/guidelines/",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

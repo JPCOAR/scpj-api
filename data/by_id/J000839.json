@@ -4,6 +4,10 @@
     {
       "title": "会計史学会年報",
       "language": "ja"
+    },
+    {
+      "title": "Yearbook of Accounting History Association",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "18844405"
+    },
+    {
+      "type": "print",
+      "issn": "18844405"
+    },
+    {
+      "type": "electronic",
+      "issn": "27581691"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://www.ahaj.org/?p=234",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/19",
   "sheet_updated_at": null
 }

@@ -4,11 +4,19 @@
     {
       "title": "Inflammation and Regeneration",
       "language": "ja"
+    },
+    {
+      "title": "Inflammation and Regeneration",
+      "language": "en"
     }
   ],
   "journal_title_alias": "炎症・再生",
   "journal_url": null,
   "issns": [
+    {
+      "type": "linking",
+      "issn": "18808190"
+    },
     {
       "type": "print",
       "issn": "18809693"
@@ -101,6 +109,6 @@
   ],
   "policy_url": "https://inflammregen.biomedcentral.com/submission-guidelines/copyright",
   "cdjournal": null,
-  "updated_at": "2021/03/30",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

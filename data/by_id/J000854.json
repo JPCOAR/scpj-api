@@ -4,6 +4,10 @@
     {
       "title": "設計工学",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF JAPAN SOCIETY FOR DESIGN ENGINEERING",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09192948"
+    },
+    {
+      "type": "electronic",
+      "issn": "21889023"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jsde.or.jp/wp/submission/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "日本小児血液学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Pediatric Hematology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09138706"
+    },
+    {
+      "type": "electronic",
+      "issn": "18844723"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/15",
   "sheet_updated_at": null
 }

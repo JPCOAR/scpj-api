@@ -6,6 +6,10 @@
         {
           "title": "教育社会学研究",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Educational Sociology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03873145"
+        },
+        {
+          "type": "electronic",
+          "issn": "21850186"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jses-web.jp/rules/toukoukitei",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

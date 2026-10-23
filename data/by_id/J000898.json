@@ -4,6 +4,10 @@
     {
       "title": "日本歯科心身医学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Psychosomatic Oral Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09136681"
+    },
+    {
+      "type": "electronic",
+      "issn": "21864128"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/12/09",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

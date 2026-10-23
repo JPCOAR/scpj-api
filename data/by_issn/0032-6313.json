@@ -6,9 +6,13 @@
         {
           "title": "耳鼻咽喉科臨床",
           "language": "ja"
+        },
+        {
+          "title": "Practica Oto-Rhino-Laryngologica",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Practica Oto-Rhino-Laryngologica",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/12/07",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

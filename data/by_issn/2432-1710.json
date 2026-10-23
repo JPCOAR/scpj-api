@@ -6,9 +6,13 @@
         {
           "title": "大学の物理教育",
           "language": "ja"
+        },
+        {
+          "title": "Physics Education in University",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Physics Education in University",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jps.or.jp/books/chosakuken/index.php",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

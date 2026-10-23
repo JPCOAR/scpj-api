@@ -4,6 +4,10 @@
     {
       "title": "関東教育学会紀要",
       "language": "ja"
+    },
+    {
+      "title": "Pedagogica centra japona : Annual report of the Kanto Educational Research Society",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "02859491"
+    },
+    {
+      "type": "print",
+      "issn": "02859491"
+    },
+    {
+      "type": "electronic",
+      "issn": "2758397X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/06/14",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

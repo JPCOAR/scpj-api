@@ -4,9 +4,13 @@
     {
       "title": "臨床血液",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Clinical Hematology",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "The Japanese Journal of Clinical Hematology",
+  "journal_title_alias": "Rinsho Ketsueki",
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jshem.or.jp/modules/publication/index.php?content_id=12",
   "cdjournal": null,
-  "updated_at": "2020/12/15",
+  "updated_at": "2026/10/15",
   "sheet_updated_at": null
 }

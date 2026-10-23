@@ -6,6 +6,10 @@
         {
           "title": "大学教育学会誌",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF JAPAN ASSOCIATION FOR COLLEGE AND UNIVERSITY EDUCATION",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "13442449"
+        },
+        {
+          "type": "print",
+          "issn": "13442449"
+        },
+        {
+          "type": "electronic",
+          "issn": "27586510"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "https://jacue.org/article/activity/journal",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "日本リンパ網内系学会会誌",
           "language": "ja"
+        },
+        {
+          "title": "The journal of the Japanese Society of Lymphoreticular Tissue research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13429248"
+        },
+        {
+          "type": "electronic",
+          "issn": "1883681X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jsltr.org/OPEN%20ACCESS%20AND%20COPYRIGHT.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

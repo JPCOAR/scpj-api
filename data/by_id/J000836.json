@@ -4,14 +4,26 @@
     {
       "title": "公益事業研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Public Utility Economics",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of Public Utility Economics",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "linking",
       "issn": "03873099"
+    },
+    {
+      "type": "print",
+      "issn": "03873099"
+    },
+    {
+      "type": "electronic",
+      "issn": "27590011"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "https://www.jspu-koeki.jp/gakkaisi/toukoukitei.html",
   "cdjournal": null,
-  "updated_at": "2021/02/02",
+  "updated_at": "2026/10/19",
   "sheet_updated_at": null
 }

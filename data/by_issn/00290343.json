@@ -4,16 +4,24 @@
       "journal_id": "J000893",
       "titles": [
         {
-          "title": "日本温泉気候物理医学会雑誌 (日温気物医誌)",
+          "title": "日本温泉気候物理医学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "THE JOURNAL OF BALNEOLOGY, CLIMATOLOGY AND PHYSICAL MEDICINE",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "日温気物医誌",
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "00290343"
+        },
+        {
+          "type": "electronic",
+          "issn": "18843697"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.onki.jp/magazine/about",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "日本看護学教育学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Academy of Nursing Education",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "09167536"
+        },
+        {
+          "type": "print",
+          "issn": "09167536"
+        },
+        {
+          "type": "electronic",
+          "issn": "24366595"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "http://jane-ns.or.jp/journal/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

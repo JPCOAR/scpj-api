@@ -4,6 +4,10 @@
     {
       "title": "Japanese Psychological Research",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Psychological Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "00215368"
+    },
+    {
+      "type": "electronic",
+      "issn": "14685884"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2019/03/27",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

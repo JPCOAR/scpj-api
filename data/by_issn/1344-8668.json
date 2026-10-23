@@ -6,6 +6,10 @@
         {
           "title": "日本図書館情報学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Society of Library and Information Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/02/24",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

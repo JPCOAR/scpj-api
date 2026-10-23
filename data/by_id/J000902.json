@@ -4,6 +4,10 @@
     {
       "title": "日本地震工学会論文集",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Association for Earthquake Engineering",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Journal of JAEE",
@@ -97,6 +101,6 @@
   ],
   "policy_url": "https://www.jaee.gr.jp/jp/contribution/journal/",
   "cdjournal": null,
-  "updated_at": "2021/03/04",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

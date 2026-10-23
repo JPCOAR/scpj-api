@@ -4,6 +4,10 @@
     {
       "title": "Species Diversity",
       "language": "ja"
+    },
+    {
+      "title": "Species Diversity",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13421670"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897301"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.systematiczoology.jp/publication/%E3%82%BF%E3%82%AF%E3%82%B5",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

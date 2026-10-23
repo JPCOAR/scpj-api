@@ -6,6 +6,10 @@
         {
           "title": "日本循環器病予防学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Cardiovascular Disease Prevention",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)日本循環器管理研究協議会雑誌",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13466267"
+        },
+        {
+          "type": "electronic",
+          "issn": "27595323"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.jacd.info/library/kitei.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

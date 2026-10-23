@@ -6,6 +6,10 @@
         {
           "title": "Educational Technology Research",
           "language": "ja"
+        },
+        {
+          "title": "Educational Technology Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": "ETR",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03877434"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897751"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jset.gr.jp/journal/requirements-for-submissions/",
       "cdjournal": null,
-      "updated_at": "2021/03/18",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

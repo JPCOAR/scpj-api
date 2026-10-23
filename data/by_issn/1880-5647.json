@@ -6,6 +6,10 @@
         {
           "title": "比較経済研究",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Comparative Economics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jacesweb.com/journal/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

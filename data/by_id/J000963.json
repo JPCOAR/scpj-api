@@ -4,9 +4,13 @@
     {
       "title": "行動分析学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Behavior Analysis",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Japanese Journal of Behavior Analysis",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.j-aba.jp/journal/contribution.html",
   "cdjournal": null,
-  "updated_at": "2021/02/08",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

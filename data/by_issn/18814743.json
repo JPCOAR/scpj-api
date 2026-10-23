@@ -6,6 +6,10 @@
         {
           "title": "表面科学",
           "language": "ja"
+        },
+        {
+          "title": "Hyomen Kagaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jvss.jp/vss/vss_index.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

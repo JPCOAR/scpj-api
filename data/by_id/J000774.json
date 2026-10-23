@@ -4,6 +4,10 @@
     {
       "title": "日本皮膚科学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Dermatology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "0021499X"
+    },
+    {
+      "type": "electronic",
+      "issn": "13468146"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2018/04/06",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

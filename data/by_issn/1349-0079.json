@@ -6,6 +6,10 @@
         {
           "title": "Journal of oral biosciences",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Oral Biosciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)歯科基礎医学会雑誌",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13490079"
+        },
+        {
+          "type": "electronic",
+          "issn": "18803865"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.sciencedirect.com/journal/journal-of-oral-biosciences/publish/guide-for-authors",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

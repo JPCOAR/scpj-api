@@ -6,6 +6,10 @@
         {
           "title": "The Keio Journal of Medicine",
           "language": "ja"
+        },
+        {
+          "title": "The Keio Journal of Medicine",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.kjm.keio.ac.jp/authors/instruction.html#05",
       "cdjournal": null,
-      "updated_at": "2020/12/16",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

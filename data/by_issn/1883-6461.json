@@ -6,6 +6,10 @@
         {
           "title": "科学哲学",
           "language": "ja"
+        },
+        {
+          "title": "Kagaku tetsugaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://pssj.info/journal/copyright.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

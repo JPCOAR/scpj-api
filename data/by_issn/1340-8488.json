@@ -6,6 +6,10 @@
         {
           "title": "日本考古学",
           "language": "ja"
+        },
+        {
+          "title": "Nihon Kokogaku(Journal of the Japanese Archaeological Association)",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13408488"
+        },
+        {
+          "type": "electronic",
+          "issn": "18837026"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://archaeology.jp/journal/index.htm#BOSHU",
       "cdjournal": null,
-      "updated_at": "2012/11/05",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

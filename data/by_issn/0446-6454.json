@@ -6,6 +6,10 @@
         {
           "title": "日本獣医師会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Veterinary Medical Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "04466454"
+        },
+        {
+          "type": "electronic",
+          "issn": "21860211"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jvma-vet.jp/mag/post.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     },
     {
@@ -108,6 +116,10 @@
         {
           "title": "日本獣医師会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Veterinary Medical Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -116,6 +128,10 @@
         {
           "type": "print",
           "issn": "04466454"
+        },
+        {
+          "type": "electronic",
+          "issn": "21860211"
         }
       ],
       "listed_in_doaj": null,
@@ -201,7 +217,7 @@
       ],
       "policy_url": "https://jvma-vet.jp/mag/post.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     },
     {
@@ -210,6 +226,10 @@
         {
           "title": "日本獣医師会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Veterinary Medical Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -218,6 +238,10 @@
         {
           "type": "print",
           "issn": "04466454"
+        },
+        {
+          "type": "electronic",
+          "issn": "21860211"
         }
       ],
       "listed_in_doaj": null,
@@ -303,7 +327,7 @@
       ],
       "policy_url": "https://jvma-vet.jp/mag/post.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     },
     {

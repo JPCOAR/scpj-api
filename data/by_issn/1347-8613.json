@@ -6,6 +6,10 @@
         {
           "title": "Journal of pharmacological sciences",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Pharmacological Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)Japanese Journal of Pharmacology",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13478613"
+        },
+        {
+          "type": "electronic",
+          "issn": "13478648"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/09/27",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

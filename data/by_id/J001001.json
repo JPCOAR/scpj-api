@@ -4,6 +4,10 @@
     {
       "title": "Journal of the Physical Society of Japan",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Physical Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "JPSJ",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://journals.jps.jp/page/permission",
   "cdjournal": null,
-  "updated_at": "2021/03/08",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

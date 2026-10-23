@@ -6,6 +6,10 @@
         {
           "title": "IEICE transactions on fundamentals of electronics, communications and computer sciences",
           "language": "ja"
+        },
+        {
+          "title": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.ieice.org/eng/shiori/page2_ess.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

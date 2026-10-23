@@ -2,8 +2,12 @@
   "journal_id": "J000841",
   "titles": [
     {
-      "title": "Japanese Journal of Mathematics",
+      "title": "Japanese journal of mathematics. New series",
       "language": "ja"
+    },
+    {
+      "title": "Japanese journal of mathematics. New series",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)Japanese Journal of Mathematics 3Rd Series",
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "02892316"
+    },
+    {
+      "type": "electronic",
+      "issn": "18613624"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/06/17",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

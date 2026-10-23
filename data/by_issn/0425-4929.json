@@ -6,14 +6,22 @@
         {
           "title": "フランス語フランス文学研究",
           "language": "ja"
+        },
+        {
+          "title": "Etudes de langue et litterature francaises",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Études de langue et littérature françaises",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "04254929"
+        },
+        {
+          "type": "electronic",
+          "issn": "24323152"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/04/21",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

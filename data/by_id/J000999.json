@@ -4,6 +4,10 @@
     {
       "title": "算数教育",
       "language": "ja"
+    },
+    {
+      "title": "Arithmetical Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "04030427"
+    },
+    {
+      "type": "print",
+      "issn": "04030427"
+    },
+    {
+      "type": "electronic",
+      "issn": "24364797"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

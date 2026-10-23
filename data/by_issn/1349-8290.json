@@ -6,6 +6,10 @@
         {
           "title": "日本教育工学会論文誌",
           "language": "ja"
+        },
+        {
+          "title": "Japan Journal of Educational Technology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)日本教育工学雑誌, Japan Journal of Educational Technology",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13498290"
+        },
+        {
+          "type": "electronic",
+          "issn": "21896453"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jset.gr.jp/journal/requirements-for-submissions/",
       "cdjournal": null,
-      "updated_at": "2021/03/18",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

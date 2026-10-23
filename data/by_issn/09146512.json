@@ -6,6 +6,10 @@
         {
           "title": "学生相談研究",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Student Counseling",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "09146512"
+        },
+        {
+          "type": "print",
+          "issn": "09146512"
+        },
+        {
+          "type": "electronic",
+          "issn": "27580067"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "https://gakuseisodan.com/kitei/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

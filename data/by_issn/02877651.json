@@ -6,6 +6,10 @@
         {
           "title": "基礎心理学研究",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Psychonomic Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://psychonomic.jp/information/060308.html",
       "cdjournal": null,
-      "updated_at": "2021/02/15",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

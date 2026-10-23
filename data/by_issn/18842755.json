@@ -6,9 +6,13 @@
         {
           "title": "社会学評論",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Sociological Review",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese Sociological Society",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jss-sociology.org/bulletin/sociological_review/",
       "cdjournal": null,
-      "updated_at": "2021/02/17",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

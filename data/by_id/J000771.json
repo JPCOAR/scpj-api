@@ -4,9 +4,13 @@
     {
       "title": "日本頭蓋顎顔面外科学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Society of Cranio-Maxillo-Facial Surgery",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of the Japan Society of Cranio-Maxillo-Facial Surgery",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jscmfs.org/journal/submission.html",
   "cdjournal": null,
-  "updated_at": "2021/02/09",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

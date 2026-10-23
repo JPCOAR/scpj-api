@@ -6,9 +6,13 @@
         {
           "title": "日本野生動物医学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Zoo and Wildlife Medicine",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese journal of zoo and wildlife medicine",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2022/02/10",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

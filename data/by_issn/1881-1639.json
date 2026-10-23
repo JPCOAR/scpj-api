@@ -6,6 +6,10 @@
         {
           "title": "日本レーザー医学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Japan Society for Laser Surgery and Medicine",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.jslsm.or.jp/main/journal/index.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

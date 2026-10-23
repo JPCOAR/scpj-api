@@ -6,6 +6,10 @@
         {
           "title": "紙パ技協誌",
           "language": "ja"
+        },
+        {
+          "title": "JAPAN TAPPI JOURNAL",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.japantappi.org/magazine/#rule",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

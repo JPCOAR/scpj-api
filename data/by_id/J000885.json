@@ -4,6 +4,10 @@
     {
       "title": "Circulation Journal",
       "language": "ja"
+    },
+    {
+      "title": "Circulation Journal",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.j-circ.or.jp/journal/permission.htm",
   "cdjournal": null,
-  "updated_at": "2021/02/25",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

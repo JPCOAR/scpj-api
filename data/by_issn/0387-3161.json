@@ -6,6 +6,10 @@
         {
           "title": "教育学研究",
           "language": "ja"
+        },
+        {
+          "title": "THE JAPANESE JOURNAL OF EDUCATIONAL RESEARCH",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03873161"
+        },
+        {
+          "type": "electronic",
+          "issn": "21875278"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jera.jp/category/publish/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "Journal of the Society of Inorganic Materials, Japan",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Society of Inorganic Materials, Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/12/09",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

@@ -4,9 +4,13 @@
     {
       "title": "応用心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Applied Psychology",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Japanese Journal of Applied Psychology",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2021/03/08",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

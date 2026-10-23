@@ -4,6 +4,10 @@
     {
       "title": "近代教育フォーラム",
       "language": "ja"
+    },
+    {
+      "title": "Forum on Modern Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09196560"
+    },
+    {
+      "type": "electronic",
+      "issn": "24238570"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.hets.jp/_toukou.html",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

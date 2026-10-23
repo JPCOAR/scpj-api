@@ -4,9 +4,13 @@
     {
       "title": "日本口蓋裂学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese Cleft Palate Association",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of Japanese Cleft Palate Association",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://square.umin.ac.jp/jclp/journal/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

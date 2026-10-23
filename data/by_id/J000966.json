@@ -4,6 +4,10 @@
     {
       "title": "リハビリテイション心理学研究",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of Rehabilitation Psychology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "03895599"
+    },
+    {
+      "type": "print",
+      "issn": "03895599"
+    },
+    {
+      "type": "electronic",
+      "issn": "24366234"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://dohsa-hou.jp/publication/journal/editrule/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

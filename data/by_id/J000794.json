@@ -4,6 +4,10 @@
     {
       "title": "Dental Medicine Research",
       "language": "ja"
+    },
+    {
+      "title": "Dental Medicine Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "18820719"
+    },
+    {
+      "type": "electronic",
+      "issn": "2186540X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www10.showa-u.ac.jp/~gakushikai/journal/journal.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

@@ -4,8 +4,12 @@
       "journal_id": "J000805",
       "titles": [
         {
-          "title": "障害者歯科",
+          "title": "日本障害者歯科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Society for Disability and Oral Health",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09131663"
+        },
+        {
+          "type": "electronic",
+          "issn": "21889708"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jsdh.jp/achievement/journal/rules.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

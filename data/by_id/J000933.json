@@ -4,6 +4,10 @@
     {
       "title": "薬学図書館",
       "language": "ja"
+    },
+    {
+      "title": "Pharmaceutical Library Bulletin",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.yakutokyo.jp/docs/shippitsu_yoryo.pdf",
   "cdjournal": null,
-  "updated_at": "2010/12/09",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

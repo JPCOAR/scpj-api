@@ -4,9 +4,13 @@
     {
       "title": "杏林医学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "JOURNAL OF THE KYORIN MEDICAL SOCIETY",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "JOURNAL OF THE KYORIN MEDICAL SOCIETY",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.kyorin-u.ac.jp/univ/user/kyorinms/regulation/",
   "cdjournal": null,
-  "updated_at": "2021/03/05",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

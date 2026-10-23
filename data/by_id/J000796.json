@@ -4,9 +4,13 @@
     {
       "title": "顎顔面補綴",
       "language": "ja"
+    },
+    {
+      "title": "MAXILLOFACIAL PROSTHETICS",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Maxillofacial Prosthetics",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jamfp.sakura.ne.jp/?page_id=229",
   "cdjournal": null,
-  "updated_at": "2021/01/27",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

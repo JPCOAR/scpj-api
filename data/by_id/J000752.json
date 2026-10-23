@@ -4,6 +4,10 @@
     {
       "title": "日本気管食道科学会会報",
       "language": "ja"
+    },
+    {
+      "title": "Nihon Kikan Shokudoka Gakkai Kaiho",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.kishoku.gr.jp/journal/regulation/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/15",
   "sheet_updated_at": null
 }

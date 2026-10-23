@@ -4,14 +4,22 @@
     {
       "title": "スキー研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Ski Science",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of ski science",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "1349449X"
+    },
+    {
+      "type": "electronic",
+      "issn": "18841422"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/01/09",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

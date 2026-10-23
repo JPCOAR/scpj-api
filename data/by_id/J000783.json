@@ -4,6 +4,10 @@
     {
       "title": "The Tohoku Journal of Experimental Medicine",
       "language": "ja"
+    },
+    {
+      "title": "The Tohoku Journal of Experimental Medicine",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.journal.med.tohoku.ac.jp/Guidelines/index.html",
   "cdjournal": null,
-  "updated_at": "2020/12/23",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "読書科学",
           "language": "ja"
+        },
+        {
+          "title": "The Science of Reading",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0387284X"
+        },
+        {
+          "type": "electronic",
+          "issn": "2424144X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.readingassoc.site/postsystem",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

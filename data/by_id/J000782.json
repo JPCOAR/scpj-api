@@ -4,9 +4,13 @@
     {
       "title": "大気環境学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Society for Atmospheric Environment",
+      "language": "en"
     }
   ],
-  "journal_title_alias": null,
+  "journal_title_alias": "Taiki Kankyo Gakkaishi",
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jsae-net.org/",
   "cdjournal": null,
-  "updated_at": "2014/09/03",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

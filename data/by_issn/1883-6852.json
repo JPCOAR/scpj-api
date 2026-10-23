@@ -6,9 +6,13 @@
         {
           "title": "化学と生物",
           "language": "ja"
+        },
+        {
+          "title": "KAGAKU TO SEIBUTSU",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "KAGAKU TO SEIBUTSU",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsbba.or.jp/pub/pub_journal_bbb_copyright.html",
       "cdjournal": null,
-      "updated_at": "2021/11/09",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

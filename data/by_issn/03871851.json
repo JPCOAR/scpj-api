@@ -6,6 +6,10 @@
         {
           "title": "日本花粉学会会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Palynology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "Japanese Journal of Palynology",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03871851"
+        },
+        {
+          "type": "electronic",
+          "issn": "24330272"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://psj3.org/jp/index.htm",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

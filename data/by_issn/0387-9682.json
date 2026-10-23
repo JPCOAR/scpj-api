@@ -6,6 +6,10 @@
         {
           "title": "発達障害研究",
           "language": "ja"
+        },
+        {
+          "title": "JAPANESE JOURNAL ON DEVELOPMENTAL DISABILITIES",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "03879682"
+        },
+        {
+          "type": "print",
+          "issn": "03879682"
+        },
+        {
+          "type": "electronic",
+          "issn": "27589048"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "https://www.jasdd.org/journal/howtowrite/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

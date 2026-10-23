@@ -4,6 +4,10 @@
     {
       "title": "日本全身咬合学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of the Japanese Academy of Occulusion and Health",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "13442007"
+    },
+    {
+      "type": "print",
+      "issn": "13442007"
+    },
+    {
+      "type": "electronic",
+      "issn": "24352853"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://www.kokuhoken.jp/~jaoh/body71.htm",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

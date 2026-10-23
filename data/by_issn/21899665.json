@@ -6,9 +6,13 @@
         {
           "title": "スポーツ史研究",
           "language": "ja"
+        },
+        {
+          "title": "The Japan Journal of Sport History",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The Japan Journal of Sport History",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://sportshistory.sakura.ne.jp/publication/kitei.html",
       "cdjournal": null,
-      "updated_at": "2021/02/25",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

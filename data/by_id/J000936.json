@@ -4,6 +4,10 @@
     {
       "title": "英米文化",
       "language": "ja"
+    },
+    {
+      "title": "Eibeibunka: Studies in English Language, Literature and Culture",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)現代英米研究",
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09173536"
+    },
+    {
+      "type": "electronic",
+      "issn": "24242381"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.ses-online.jp/shuppankitei.pdf",
   "cdjournal": null,
-  "updated_at": "2010/10/20",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

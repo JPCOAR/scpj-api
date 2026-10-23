@@ -6,6 +6,10 @@
         {
           "title": "歯科薬物療法",
           "language": "ja"
+        },
+        {
+          "title": "ORAL THERAPEUTICS AND PHARMACOLOGY",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2011/03/17",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

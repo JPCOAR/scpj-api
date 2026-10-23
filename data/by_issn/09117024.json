@@ -4,8 +4,12 @@
       "journal_id": "J000787",
       "titles": [
         {
-          "title": "Health Sciences",
+          "title": "日本健康科学学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Health sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "09117024"
+        },
+        {
+          "type": "print",
+          "issn": "09117024"
+        },
+        {
+          "type": "electronic",
+          "issn": "24366242"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "https://www.jshs.or.jp/books/toukoukitei.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

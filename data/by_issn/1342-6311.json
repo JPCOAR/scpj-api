@@ -6,6 +6,10 @@
         {
           "title": "Microbes and environments",
           "language": "ja"
+        },
+        {
+          "title": "Microbes and Environments",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13426311"
+        },
+        {
+          "type": "electronic",
+          "issn": "13474405"
         }
       ],
       "listed_in_doaj": null,
@@ -99,15 +107,19 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     },
     {
       "journal_id": "J000876",
       "titles": [
         {
-          "title": "日本微生物生態学会誌",
+          "title": "Microbes and Environments",
           "language": "ja"
+        },
+        {
+          "title": "Microbes and Environments",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -116,6 +128,10 @@
         {
           "type": "print",
           "issn": "13426311"
+        },
+        {
+          "type": "electronic",
+          "issn": "13474405"
         }
       ],
       "listed_in_doaj": null,
@@ -201,7 +217,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     },
     {

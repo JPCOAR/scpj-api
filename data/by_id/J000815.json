@@ -4,11 +4,19 @@
     {
       "title": "日本薬理学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Folia Pharmacologica Japonica",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
   "journal_url": null,
   "issns": [
+    {
+      "type": "print",
+      "issn": "00155691"
+    },
     {
       "type": "electronic",
       "issn": "13478397"
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://pharmacol.or.jp/book/magazine",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/19",
   "sheet_updated_at": null
 }

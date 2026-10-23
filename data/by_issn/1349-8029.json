@@ -6,6 +6,10 @@
         {
           "title": "Neurologia medico-chirurgica",
           "language": "ja"
+        },
+        {
+          "title": "Neurologia medico-chirurgica",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）神経外科",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2017/12/26",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

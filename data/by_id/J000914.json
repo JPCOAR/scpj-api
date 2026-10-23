@@ -4,6 +4,10 @@
     {
       "title": "日本味と匂学会誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Taste and Smell Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13404806"
+    },
+    {
+      "type": "electronic",
+      "issn": "24241326"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jasts.com/academic-journal/submission-rules/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "頭頸部外科",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF JAPAN SOCIETY FOR HEAD AND NECK SURGERY",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/19",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

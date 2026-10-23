@@ -6,9 +6,13 @@
         {
           "title": "医学図書館",
           "language": "ja"
+        },
+        {
+          "title": "Journal of The Japan Medical Library Association",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of The Japan Medical Library Association",
+      "journal_title_alias": "IGAKU TOSHOKAN",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2020/12/22",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

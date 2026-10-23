@@ -4,9 +4,13 @@
     {
       "title": "軽金属",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japan Institute of Light Metals",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of the Japan Institute of Light Metals",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jilm.or.jp/page-publication03",
   "cdjournal": null,
-  "updated_at": "2019/11/29",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

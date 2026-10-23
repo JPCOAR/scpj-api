@@ -6,6 +6,10 @@
         {
           "title": "腸内細菌学雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Intestinal Microbiology",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)ビフィズス",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://bifidus-fund.jp/journal/index.shtml",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

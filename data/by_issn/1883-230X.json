@@ -6,6 +6,10 @@
         {
           "title": "日本実用英語学会論叢",
           "language": "ja"
+        },
+        {
+          "title": "Practical English Studies",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "1883230X"
+        },
+        {
+          "type": "electronic",
+          "issn": "18844413"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/12/08",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

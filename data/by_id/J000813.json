@@ -4,9 +4,13 @@
     {
       "title": "薬史学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal for the Histrory of Pharmacy",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "The Japanese Journal for the History of Pharmacy",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://plaza.umin.ac.jp/yakushi/publication/journal/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/19",
   "sheet_updated_at": null
 }

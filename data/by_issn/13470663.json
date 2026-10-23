@@ -6,6 +6,10 @@
         {
           "title": "スピーチ・コミュニケーション教育",
           "language": "ja"
+        },
+        {
+          "title": "Speech Communication Education",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13470663"
+        },
+        {
+          "type": "electronic",
+          "issn": "24331074"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://jca1971.com/journals",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

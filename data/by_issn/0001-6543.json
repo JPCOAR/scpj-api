@@ -6,6 +6,10 @@
         {
           "title": "日本小児科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "THE JOURNAL OF THE JAPAN PEDIATRIC SOCIETY",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00016543"
+        },
+        {
+          "type": "electronic",
+          "issn": "27603180"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/02/17",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

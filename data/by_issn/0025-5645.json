@@ -6,6 +6,10 @@
         {
           "title": "Journal of the Mathematical Society of Japan",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Mathematical Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2013/06/14",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

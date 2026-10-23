@@ -6,6 +6,10 @@
         {
           "title": "児童青年精神医学とその近接領域",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Child and Adolescent Psychiatry",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02890968"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241652"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2013/03/26",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

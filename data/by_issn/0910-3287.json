@@ -4,8 +4,12 @@
       "journal_id": "J000819",
       "titles": [
         {
-          "title": "日本仏教学会年報",
+          "title": "日本佛敎學會年報",
           "language": "ja"
+        },
+        {
+          "title": "THE JOURNAL OF THE NIPPON BUDDHIST RESEARCH ASSOCIATION",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "09103287"
+        },
+        {
+          "type": "print",
+          "issn": "09103287"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897158"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/11/29",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

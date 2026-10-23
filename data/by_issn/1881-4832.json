@@ -6,6 +6,10 @@
         {
           "title": "Educational Studies in Japan",
           "language": "ja"
+        },
+        {
+          "title": "Educational Studies in Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18814832"
+        },
+        {
+          "type": "electronic",
+          "issn": "21875286"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/12/08",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

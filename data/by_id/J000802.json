@@ -4,6 +4,10 @@
     {
       "title": "歯科放射線",
       "language": "ja"
+    },
+    {
+      "title": "Shika Hoshasen",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "03899705"
+    },
+    {
+      "type": "electronic",
+      "issn": "21856311"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/12/08",
+  "updated_at": "2026/10/16",
   "sheet_updated_at": null
 }

@@ -4,9 +4,13 @@
     {
       "title": "感染症学雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of the Japanese Association for Infectious Diseases",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "The Journal of the Japanese Association for Infectious Diseases",
+  "journal_title_alias": "Kansenshogaku Zasshi",
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.kansensho.or.jp/modules/journal/index.php?content_id=26",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

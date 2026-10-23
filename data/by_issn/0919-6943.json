@@ -4,11 +4,15 @@
       "journal_id": "J000820",
       "titles": [
         {
-          "title": "仏教文化学会紀要",
+          "title": "佛教文化学会紀要",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Research Society of Buddhism and Cultural Heritage",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Research Society of Buddhism and Cultural Heritage",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/03/01",
+      "updated_at": "2026/10/19",
       "sheet_updated_at": null
     }
   ]

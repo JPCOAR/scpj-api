@@ -2,8 +2,12 @@
   "journal_id": "J000723",
   "titles": [
     {
-      "title": "水産増殖　Aquaculture Science",
+      "title": "水産増殖",
       "language": "ja"
+    },
+    {
+      "title": "Aquaculture Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/04/20",
+  "updated_at": "2026/10/15",
   "sheet_updated_at": null
 }

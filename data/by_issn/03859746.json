@@ -6,6 +6,10 @@
         {
           "title": "教育方法学研究",
           "language": "ja"
+        },
+        {
+          "title": "Research Journal of Educational Methods",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03859746"
+        },
+        {
+          "type": "electronic",
+          "issn": "2189907X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

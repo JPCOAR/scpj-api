@@ -4,6 +4,10 @@
     {
       "title": "日本エイズ学会誌",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of AIDS Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13449478"
+    },
+    {
+      "type": "electronic",
+      "issn": "18842763"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jaids.jp/publish/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/15",
   "sheet_updated_at": null
 }

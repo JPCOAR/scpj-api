@@ -4,11 +4,15 @@
       "journal_id": "J000730",
       "titles": [
         {
-          "title": "水土の知　農業農村工学会誌",
+          "title": "農業農村工学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Water,Land and Environmental Engineering",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Water, Land and Environmental Engineering",
+      "journal_title_alias": "水土の知",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/10/15",
       "sheet_updated_at": null
     }
   ]

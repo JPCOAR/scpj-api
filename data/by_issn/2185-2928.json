@@ -6,6 +6,10 @@
         {
           "title": "日本プライマリ・ケア連合学会誌",
           "language": "ja"
+        },
+        {
+          "title": "An Official Journal of the Japan Primary Care Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧)プライマリ・ケア、(旧)総合診療医学、(旧)家庭医療",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.primarycare-japan.com/assoc/activity/ac_jou_index/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/16",
       "sheet_updated_at": null
     }
   ]

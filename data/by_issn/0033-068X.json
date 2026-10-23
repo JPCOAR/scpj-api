@@ -4,8 +4,12 @@
       "journal_id": "J001002",
       "titles": [
         {
-          "title": "Progress of Theoretical Physic",
+          "title": "Progress of Theoretical Physics",
           "language": "ja"
+        },
+        {
+          "title": "Progress of Theoretical Physics",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0033068X"
+        },
+        {
+          "type": "electronic",
+          "issn": "13474081"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.jps.or.jp/books/chosakuken/index.php",
       "cdjournal": null,
-      "updated_at": "2021/03/04",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     },
     {

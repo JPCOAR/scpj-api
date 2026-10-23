@@ -6,6 +6,10 @@
         {
           "title": "日本小児外科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Society of Pediatric Surgeons",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0288609X"
+        },
+        {
+          "type": "electronic",
+          "issn": "21874247"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/28",
+      "updated_at": "2026/10/21",
       "sheet_updated_at": null
     }
   ]

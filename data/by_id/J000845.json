@@ -2,8 +2,12 @@
   "journal_id": "J000845",
   "titles": [
     {
-      "title": "タクサ",
+      "title": "タクサ：日本動物分類学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Taxa, Proceedings of the Japanese Society of Systematic Zoology",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)動物分類学会誌",
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13422367"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897298"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://www.systematiczoology.jp/publication/%E3%82%BF%E3%82%AF%E3%82%B5",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/21",
   "sheet_updated_at": null
 }

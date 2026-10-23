@@ -4,6 +4,10 @@
     {
       "title": "経済教育",
       "language": "ja"
+    },
+    {
+      "title": "The Journal of Economic Education",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13494058"
+    },
+    {
+      "type": "electronic",
+      "issn": "24329150"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.ecoedu.jp/doc/chosakuken.pdf",
   "cdjournal": null,
-  "updated_at": "2010/12/09",
+  "updated_at": "2026/10/19",
   "sheet_updated_at": null
 }
