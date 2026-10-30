@@ -2,16 +2,24 @@
   "journal_id": "J001248",
   "titles": [
     {
-      "title": "日本語の研究 （旧：国語学）",
+      "title": "日本語の研究",
       "language": "ja"
+    },
+    {
+      "title": "Studies in the Japanese Language",
+      "language": "en"
     }
   ],
-  "journal_title_alias": null,
+  "journal_title_alias": "国語学",
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "13495119"
+    },
+    {
+      "type": "electronic",
+      "issn": "21895732"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jpling.gr.jp/kikansi/policy/",
   "cdjournal": null,
-  "updated_at": "2014/08/06",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

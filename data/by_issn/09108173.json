@@ -6,6 +6,10 @@
         {
           "title": "デザイン学研究",
           "language": "ja"
+        },
+        {
+          "title": "Bulletin of Japanese Society for the Science of Design",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09108173"
+        },
+        {
+          "type": "electronic",
+          "issn": "21865221"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2014/03/21",
+      "updated_at": "2026/10/30",
       "sheet_updated_at": null
     },
     {

@@ -6,6 +6,10 @@
         {
           "title": "日本心臓血管外科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Cardiovascular Surgery",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02851474"
+        },
+        {
+          "type": "electronic",
+          "issn": "18834108"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jstage.jst.go.jp/browse/jjcvs/-char/ja/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

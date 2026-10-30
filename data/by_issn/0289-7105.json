@@ -6,6 +6,10 @@
         {
           "title": "宗教哲学研究",
           "language": "ja"
+        },
+        {
+          "title": "Studies in THE PHILOSOPHY OF RELIGION",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02897105"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241865"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/30",
       "sheet_updated_at": null
     }
   ]

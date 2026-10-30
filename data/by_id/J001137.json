@@ -4,6 +4,10 @@
     {
       "title": "日本臨床栄養学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese Society for Clinical Nutrition",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "02868202"
+    },
+    {
+      "type": "electronic",
+      "issn": "27594270"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jscn.gr.jp/activities/index.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

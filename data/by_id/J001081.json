@@ -4,6 +4,10 @@
     {
       "title": "日本消化器外科学会雑誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Gastroenterological Surgery",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www.jsgs.or.jp/modules/journal/index.php?content_id=7",
   "cdjournal": null,
-  "updated_at": "2024/09/19",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

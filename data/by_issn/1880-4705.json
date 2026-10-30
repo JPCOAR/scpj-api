@@ -4,11 +4,15 @@
       "journal_id": "J001011",
       "titles": [
         {
-          "title": "和文誌：行動計量学",
+          "title": "行動計量学",
           "language": "ja"
+        },
+        {
+          "title": " The Japanese Journal of Behaviormetrics",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "Kodo Keiryogaku",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

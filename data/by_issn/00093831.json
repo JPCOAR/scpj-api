@@ -6,6 +6,10 @@
         {
           "title": "地学教育",
           "language": "ja"
+        },
+        {
+          "title": "Education of Earth Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00093831"
+        },
+        {
+          "type": "electronic",
+          "issn": "24238953"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/01/15",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

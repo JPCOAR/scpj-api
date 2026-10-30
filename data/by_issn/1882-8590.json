@@ -6,9 +6,13 @@
         {
           "title": "環境技術",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Environmental Conservation Engineering",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Environmental conservation engineering",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jriet.net/booklet.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

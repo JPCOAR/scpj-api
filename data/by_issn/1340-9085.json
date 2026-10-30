@@ -4,8 +4,12 @@
       "journal_id": "J001199",
       "titles": [
         {
-          "title": "日本顎口腔機能学会誌",
+          "title": "日本顎口腔機能学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Japanese Society of Stomatognathic Function",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13409085"
+        },
+        {
+          "type": "electronic",
+          "issn": "1883986X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://jssf.umin.ne.jp/journal/pdf/provision.pdf",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

@@ -4,6 +4,10 @@
     {
       "title": "日本口腔腫瘍学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Japanese Society of Oral Oncology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jsoo.org/?page_id=1016",
   "cdjournal": null,
-  "updated_at": "2021/01/27",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

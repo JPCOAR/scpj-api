@@ -4,6 +4,10 @@
     {
       "title": "ショーペンハウアー研究",
       "language": "ja"
+    },
+    {
+      "title": "Schopenhauer Studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "09195971"
+    },
+    {
+      "type": "print",
+      "issn": "09195971"
+    },
+    {
+      "type": "electronic",
+      "issn": "27598713"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2013/01/10",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

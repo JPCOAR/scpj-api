@@ -6,6 +6,10 @@
         {
           "title": "社会言語科学",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese Journal of Language in Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13443909"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897239"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jass.ne.jp/journal/rule/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

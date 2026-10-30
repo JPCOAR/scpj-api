@@ -4,14 +4,22 @@
     {
       "title": "浮世絵芸術",
       "language": "ja"
+    },
+    {
+      "title": "Ukiyo-e art",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "UKIYO-E　ART",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "00415979"
+    },
+    {
+      "type": "electronic",
+      "issn": "24358096"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2011/12/14",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

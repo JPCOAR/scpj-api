@@ -2,16 +2,24 @@
   "journal_id": "J001139",
   "titles": [
     {
-      "title": "The Japanese Journal of Nephrology",
+      "title": "日本腎臓学会誌",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Nephrology",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "日本腎臓学会誌",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "03852385"
+    },
+    {
+      "type": "electronic",
+      "issn": "18840728"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jsn.or.jp/jsninfo/about/regulations/page03.php",
   "cdjournal": null,
-  "updated_at": "2020/12/28",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

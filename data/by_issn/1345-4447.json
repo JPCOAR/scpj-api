@@ -6,6 +6,10 @@
         {
           "title": "ICONICS",
           "language": "ja"
+        },
+        {
+          "title": "ICONICS - International Studies of the Modern Image -",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13454447"
+        },
+        {
+          "type": "electronic",
+          "issn": "21896569"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jasias.jp/journal/image_arts_sciences/instructions_ias",
       "cdjournal": null,
-      "updated_at": "2021/01/07",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

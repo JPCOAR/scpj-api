@@ -6,6 +6,10 @@
         {
           "title": "日本手の外科学会雑誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Japanese Society for Surgery of the Hand",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09105700"
+        },
+        {
+          "type": "electronic",
+          "issn": "27589978"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/11/22",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

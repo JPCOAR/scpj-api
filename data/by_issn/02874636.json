@@ -6,6 +6,10 @@
         {
           "title": "中古文学",
           "language": "ja"
+        },
+        {
+          "title": "Chuukobungaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02874636"
+        },
+        {
+          "type": "electronic",
+          "issn": "24343064"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://chukobungakukai.org/zassi.html",
       "cdjournal": null,
-      "updated_at": "2010/12/02",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

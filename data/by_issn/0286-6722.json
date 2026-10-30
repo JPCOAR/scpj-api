@@ -6,6 +6,10 @@
         {
           "title": "放射線化学",
           "language": "ja"
+        },
+        {
+          "title": "Biannual Journal of Japanese Society of Radiation Chemistry",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://radiation-chemistry.org/gakkaishi/",
       "cdjournal": null,
-      "updated_at": "2021/02/22",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

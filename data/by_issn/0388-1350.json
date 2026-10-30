@@ -6,6 +6,10 @@
         {
           "title": "The Journal of Toxicological Sciences",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Toxicological Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03881350"
+        },
+        {
+          "type": "electronic",
+          "issn": "18803989"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2018/05/23",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

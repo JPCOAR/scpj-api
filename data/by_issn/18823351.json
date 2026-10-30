@@ -6,6 +6,10 @@
         {
           "title": "Journal of the Japanese Society for Horticultural Science",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Society for Horticultural Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18823351"
+        },
+        {
+          "type": "electronic",
+          "issn": "1882336X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.jshs.jp/modules/publication/index.php?content_id=6",
       "cdjournal": null,
-      "updated_at": "2018/10/16",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

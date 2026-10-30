@@ -4,6 +4,10 @@
     {
       "title": "日本近代文学",
       "language": "ja"
+    },
+    {
+      "title": "Modern Japanese Literary Studies",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "05493749"
+    },
+    {
+      "type": "electronic",
+      "issn": "24241482"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/12/01",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

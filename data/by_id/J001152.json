@@ -4,6 +4,10 @@
     {
       "title": "Health and Behavior Sciences",
       "language": "ja"
+    },
+    {
+      "title": "Health and Behavior Sciences",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "13480898"
+    },
+    {
+      "type": "print",
+      "issn": "13480898"
+    },
+    {
+      "type": "electronic",
+      "issn": "24347132"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/12/01",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

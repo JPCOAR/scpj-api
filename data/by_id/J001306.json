@@ -2,8 +2,12 @@
   "journal_id": "J001306",
   "titles": [
     {
-      "title": "演劇学論集・日本演劇学会紀要",
+      "title": "演劇学論集 日本演劇学会紀要",
       "language": "ja"
+    },
+    {
+      "title": "THEATRE STUDIES Journal of Japanese society for Theatre Research",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13482815"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897816"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://jstr.org/journal/journal_reguration/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/30",
   "sheet_updated_at": null
 }

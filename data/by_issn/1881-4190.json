@@ -6,6 +6,10 @@
         {
           "title": "電気学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of The Institute of Electrical Engineers of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "The journal of the Institute of Electrical Engineers of Japan",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.iee.jp/pub/copyright/qanda/",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

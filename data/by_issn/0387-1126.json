@@ -6,6 +6,10 @@
         {
           "title": "脈管学",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Japanese College of Angiology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://j-ca.org/wp/books/requirement-2/",
       "cdjournal": null,
-      "updated_at": "2016/08/05",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

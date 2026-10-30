@@ -6,6 +6,10 @@
         {
           "title": "バイオメカニズム学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Society of Biomechanisms",
+          "language": "en"
         }
       ],
       "journal_title_alias": "SOBIM",
@@ -99,7 +103,7 @@
       ],
       "policy_url": "http://sobim.jp/downloads/magazine/index/kikou_201905_20.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/03",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

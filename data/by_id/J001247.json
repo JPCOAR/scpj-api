@@ -4,6 +4,10 @@
     {
       "title": "計量国語学",
       "language": "ja"
+    },
+    {
+      "title": "Mathematical Linguistics",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "04534611"
+    },
+    {
+      "type": "electronic",
+      "issn": "24330302"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

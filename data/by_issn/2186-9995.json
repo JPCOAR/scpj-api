@@ -4,11 +4,15 @@
       "journal_id": "J001156",
       "titles": [
         {
-          "title": "日本組織適合性学会誌　MHC",
+          "title": "日本組織適合性学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Major Histocompatibility Complex",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Major Histocompatibility Complex",
+      "journal_title_alias": "MHC",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jshi.smoosy.atlas.jp/ja/instruction_for_authors",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

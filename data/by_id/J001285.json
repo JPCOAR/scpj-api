@@ -4,9 +4,13 @@
     {
       "title": "イギリス哲学研究",
       "language": "ja"
+    },
+    {
+      "title": "Studies in British Philosophy",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Studies in British Philosophy",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jsbph.org/about/rules",
   "cdjournal": null,
-  "updated_at": "2020/12/18",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "異文化コミュニケーション",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Intercultural Communication",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "13427466"
+        },
+        {
+          "type": "print",
+          "issn": "13427466"
+        },
+        {
+          "type": "electronic",
+          "issn": "24366609"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "https://www.sietar-japan.org/our-activities/publications",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

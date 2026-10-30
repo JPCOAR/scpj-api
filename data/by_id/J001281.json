@@ -4,14 +4,22 @@
     {
       "title": "人体科学",
       "language": "ja"
+    },
+    {
+      "title": "Journal of Mind-Body Science",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of Mind-Body Science",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "09182489"
+    },
+    {
+      "type": "electronic",
+      "issn": "24242314"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.smbs.gr.jp/wp/%e5%ad%a6%e4%bc%9a%e8%aa%8c/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

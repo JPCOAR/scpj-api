@@ -4,6 +4,10 @@
     {
       "title": "てんかん研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japan Epilepsy Society",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09120890"
+    },
+    {
+      "type": "electronic",
+      "issn": "13475509"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://square.umin.ac.jp/jes/journal/hobun-kikansi/toko-kitei-j.html",
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "Biological and Pharmaceutical Bulletin",
           "language": "ja"
+        },
+        {
+          "title": "Biological and Pharmaceutical Bulletin",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）Journal of pharmacobio-dynamics",
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.pharm.or.jp/publication/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

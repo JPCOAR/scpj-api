@@ -4,6 +4,10 @@
     {
       "title": "日本水産学会誌",
       "language": "ja"
+    },
+    {
+      "title": "NIPPON SUISAN GAKKAISHI",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.miyagi.kopas.co.jp/JSFS/PUBS/KITEI/toukoukitei.html",
   "cdjournal": null,
-  "updated_at": "2010/12/16",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "音楽学",
           "language": "ja"
+        },
+        {
+          "title": "ONGAKUGAKU: Journal of the Musicological Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00302597"
+        },
+        {
+          "type": "electronic",
+          "issn": "21899347"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.musicology.jp/ongakugaku/submission/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/30",
       "sheet_updated_at": null
     }
   ]

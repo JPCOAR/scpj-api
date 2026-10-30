@@ -4,6 +4,10 @@
     {
       "title": "素粒子論研究",
       "language": "ja"
+    },
+    {
+      "title": "Soryushiron Kenkyu Electronics",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://www2.yukawa.kyoto-u.ac.jp/~soken.editorial/submission-rule.html",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

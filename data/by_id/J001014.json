@@ -4,6 +4,10 @@
     {
       "title": "Plant Biotechnology",
       "language": "ja"
+    },
+    {
+      "title": "Plant Biotechnology",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "13424580"
+    },
+    {
+      "type": "electronic",
+      "issn": "13476114"
     }
   ],
   "listed_in_doaj": null,
@@ -21,8 +29,8 @@
   "applicability": null,
   "society": {
     "id": "S000840",
-    "name": "日本植物細胞分子生物学会",
-    "name_en": null,
+    "name": "日本植物バイオテクノロジー学会",
+    "name_en": "JAPANESE SOCIETY FOR PLANT BIOTECHNOLOGY",
     "url": "http://www.jspcmb.jp/",
     "contact_url": null,
     "meikan_url": "https://gakkai.scj.go.jp/organizations/G00990"
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

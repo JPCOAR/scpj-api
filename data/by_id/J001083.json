@@ -11,7 +11,11 @@
   "issns": [
     {
       "type": "print",
-      "issn": "09166440"
+      "issn": "18820115"
+    },
+    {
+      "type": "electronic",
+      "issn": "24343056"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/01/18",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

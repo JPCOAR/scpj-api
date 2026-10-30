@@ -6,6 +6,10 @@
         {
           "title": "情報知識学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Joho Chishiki Gakkaishi",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -107,7 +111,7 @@
       ],
       "policy_url": "https://www.jsik.jp/?selfarchive",
       "cdjournal": null,
-      "updated_at": "2025/12/23",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

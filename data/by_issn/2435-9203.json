@@ -6,9 +6,13 @@
         {
           "title": "農村生活研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Rural Life Society of Japan",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of the Rural Life Society of Japan",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.ruralife.org/学会誌と投稿",
       "cdjournal": null,
-      "updated_at": "2021/02/09",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

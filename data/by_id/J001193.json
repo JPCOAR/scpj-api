@@ -4,6 +4,10 @@
     {
       "title": "Breeding Science",
       "language": "ja"
+    },
+    {
+      "title": "Breeding Science",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Japanese journal of breeding",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://jsbreeding.jp/sitepolicy/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

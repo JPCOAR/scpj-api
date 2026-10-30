@@ -8,7 +8,7 @@
           "language": "ja"
         },
         {
-          "title": "Nippon Jibiinkoka Tokeibugeka Gakkai Kaiho Tokyo",
+          "title": "Nippon Jibiinkoka Tokeibugeka Gakkai Kaiho(Tokyo)",
           "language": "en"
         }
       ],
@@ -17,11 +17,11 @@
       "issns": [
         {
           "type": "print",
-          "issn": "24365866"
+          "issn": "24365793"
         },
         {
           "type": "electronic",
-          "issn": "24365793"
+          "issn": "24365866"
         }
       ],
       "listed_in_doaj": null,
@@ -107,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2025/09/09",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

@@ -6,9 +6,13 @@
         {
           "title": "トライボロジスト",
           "language": "ja"
+        },
+        {
+          "title": "JOURNAL OF JAPANESE SOCIETY OF TRIBOLOGISTS",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Japanese Society of Tribologists",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.tribology.jp/publication/journal/fso4p10000000b36-att/sudmef0000000h6j.pdf",
       "cdjournal": null,
-      "updated_at": "2021/03/10",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

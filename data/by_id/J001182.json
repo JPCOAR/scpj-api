@@ -2,8 +2,12 @@
   "journal_id": "J001182",
   "titles": [
     {
-      "title": "International Journal of Biomedical Soft Computing and Human Sciences",
+      "title": "International Journal of Biomedical Soft Computing and Human Sciences: the official journal of the Biomedical Fuzzy Systems Association",
       "language": "ja"
+    },
+    {
+      "title": "International Journal of Biomedical Soft Computing and Human Sciences: the official journal of the Biomedical Fuzzy Systems Association",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "21852421"
+    },
+    {
+      "type": "electronic",
+      "issn": "2424256X"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.bmfsa.org/archive/journal-J/submit.pdf",
   "cdjournal": null,
-  "updated_at": "2010/12/02",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

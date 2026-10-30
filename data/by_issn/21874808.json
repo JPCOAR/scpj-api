@@ -6,9 +6,13 @@
         {
           "title": "廃棄物資源循環学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Material Cycles and Waste Management Research",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Material Cycles and Waste Management Research",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jsmcwm.or.jp/journal/files/2014/01/chitekizaisanken_20131102.pdf",
       "cdjournal": null,
-      "updated_at": "2021/01/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

@@ -4,9 +4,13 @@
     {
       "title": "日本緑化工学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Japanese Society of Revegetation Technology",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Journal of the Japanese Society of Revegetation Technology",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.jsrt.jp/forcontributor.html",
   "cdjournal": null,
-  "updated_at": "2021/03/01",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

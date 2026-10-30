@@ -6,6 +6,10 @@
         {
           "title": "インターンシップ研究年報",
           "language": "ja"
+        },
+        {
+          "title": "Bulletin of the Japan Society of Internship",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18811663"
+        },
+        {
+          "type": "electronic",
+          "issn": "24331996"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://js-internship.jp/journal/research-submission-regulations/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

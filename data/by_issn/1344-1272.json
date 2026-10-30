@@ -4,8 +4,12 @@
       "journal_id": "J001219",
       "titles": [
         {
-          "title": "Physical Therapy Research",
+          "title": "Journal of the Japanese Physical Therapy Association",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japanese Physical Therapy Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": "PTR",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13441272"
+        },
+        {
+          "type": "electronic",
+          "issn": "21888361"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2018/02/13",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

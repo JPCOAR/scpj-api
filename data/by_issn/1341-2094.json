@@ -6,6 +6,10 @@
         {
           "title": "日本食品化学学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Food Chemistry and Safety",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13412094"
+        },
+        {
+          "type": "electronic",
+          "issn": "21896445"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.jsfcs.org/toko.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

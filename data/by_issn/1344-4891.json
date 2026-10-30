@@ -4,16 +4,24 @@
       "journal_id": "J001134",
       "titles": [
         {
-          "title": "日本PDA学術誌GMPとバリデーション",
+          "title": "日本PDA学術誌 GMPとバリデーション",
           "language": "ja"
+        },
+        {
+          "title": "PDA Journal of GMP and Validation in Japan",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "PDA Journal of GMP and Validation in Japan",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "13444891"
+        },
+        {
+          "type": "electronic",
+          "issn": "18811728"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://j-pda.jp/archives/jpda_chapter_copyright/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

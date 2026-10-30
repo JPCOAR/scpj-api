@@ -4,6 +4,10 @@
     {
       "title": "人工呼吸",
       "language": "ja"
+    },
+    {
+      "title": "The Japanese Journal of Respiratory Care",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,14 @@
     {
       "type": "linking",
       "issn": "09109927"
+    },
+    {
+      "type": "print",
+      "issn": "09109927"
+    },
+    {
+      "type": "electronic",
+      "issn": "24363103"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://square.umin.ac.jp/jrcm/pdf/toukou_kitei.pdf",
   "cdjournal": null,
-  "updated_at": "2021/02/10",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

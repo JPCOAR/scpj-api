@@ -4,6 +4,10 @@
     {
       "title": "日本砂丘学会誌",
       "language": "ja"
+    },
+    {
+      "title": "SAND DUNE RESEARCH",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "09185623"
+    },
+    {
+      "type": "electronic",
+      "issn": "24349291"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "http://www.jssdr.jp/",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

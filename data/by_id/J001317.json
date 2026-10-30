@@ -4,6 +4,10 @@
     {
       "title": "宗教と倫理",
       "language": "ja"
+    },
+    {
+      "title": "Religion and Ethics",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -97,6 +101,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/30",
   "sheet_updated_at": null
 }

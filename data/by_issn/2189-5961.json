@@ -6,6 +6,10 @@
         {
           "title": "音声研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Phonetic Society of Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://www.psj.gr.jp/jpn/publication/copyright_regulation",
       "cdjournal": null,
-      "updated_at": "2021/03/05",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "日本情報ディレクトリ学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japan Society of Directories",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "18829252"
+        },
+        {
+          "type": "print",
+          "issn": "18829252"
+        },
+        {
+          "type": "electronic",
+          "issn": "24365629"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "http://jsod.net/data/01kitei.pdf",
       "cdjournal": null,
-      "updated_at": "2013/12/24",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

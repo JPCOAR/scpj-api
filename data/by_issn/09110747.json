@@ -6,6 +6,10 @@
         {
           "title": "年報経営分析研究",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Business Analysis",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "09110747"
+        },
+        {
+          "type": "electronic",
+          "issn": "24331988"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

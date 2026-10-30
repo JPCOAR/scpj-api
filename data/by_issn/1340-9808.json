@@ -6,6 +6,10 @@
         {
           "title": "保育学研究",
           "language": "ja"
+        },
+        {
+          "title": "Early Childhood Care and Education Research Journal",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13409808"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241679"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jsrecce.jp/?page_id=6392",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

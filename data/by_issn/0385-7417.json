@@ -4,8 +4,12 @@
       "journal_id": "J001012",
       "titles": [
         {
-          "title": "欧文誌：Behaviormetrika",
+          "title": "Behaviormetrika",
           "language": "ja"
+        },
+        {
+          "title": "Behaviormetrika",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

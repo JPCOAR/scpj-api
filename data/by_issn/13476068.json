@@ -6,9 +6,13 @@
         {
           "title": "日本応用動物昆虫学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Applied Entomology and Zoology",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese Journal of Applied Entomology and Zoology",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2011/06/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "日本保健科学学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Japan Academy of Health Sciences",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）東京保健科学学会誌",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "18800211"
+        },
+        {
+          "type": "electronic",
+          "issn": "24333018"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2018/01/11",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

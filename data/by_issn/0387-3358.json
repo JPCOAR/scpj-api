@@ -6,9 +6,13 @@
         {
           "title": "哲学",
           "language": "ja"
+        },
+        {
+          "title": "Philosophy",
+          "language": "en"
         }
       ],
-      "journal_title_alias": null,
+      "journal_title_alias": "Tetsugaku",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://philosophy-japan.org/bulletin/%e5%bf%9c%e5%8b%9f%e8%ab%96%e6%96%87%e5%85%ac%e5%8b%9f%e8%a6%81%e9%a0%98/",
       "cdjournal": null,
-      "updated_at": "2021/02/12",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

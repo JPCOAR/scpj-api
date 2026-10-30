@@ -6,6 +6,10 @@
         {
           "title": "理学療法学",
           "language": "ja"
+        },
+        {
+          "title": "Physical Therapy Japan",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）臨床理学療法",
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02893770"
+        },
+        {
+          "type": "electronic",
+          "issn": "2189602X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2018/02/13",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

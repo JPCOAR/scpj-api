@@ -2,16 +2,24 @@
   "journal_id": "J001016",
   "titles": [
     {
-      "title": "分類 : bunrui : 日本植物分類学会誌",
+      "title": "分類",
       "language": "ja"
+    },
+    {
+      "title": "BUNRUI",
+      "language": "en"
     }
   ],
-  "journal_title_alias": null,
+  "journal_title_alias": "日本植物分類学会誌",
   "journal_url": null,
   "issns": [
     {
       "type": "print",
       "issn": "13466852"
+    },
+    {
+      "type": "electronic",
+      "issn": "21897034"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2020/12/08",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

@@ -4,8 +4,12 @@
       "journal_id": "J001221",
       "titles": [
         {
-          "title": "美術教育学",
+          "title": "美術教育学：美術科教育学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Journal for Japanese Association of Art Education",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "0917771X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24242497"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

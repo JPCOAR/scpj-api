@@ -6,6 +6,10 @@
         {
           "title": "地図",
           "language": "ja"
+        },
+        {
+          "title": "Map, Journal of the Japan Cartographers Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -27,9 +31,9 @@
       "applicability": null,
       "society": {
         "id": "S000843",
-        "name": "日本国際地図学会",
-        "name_en": null,
-        "url": null,
+        "name": "日本地図学会",
+        "name_en": "JAPAN CARTOGRAPHERS ASSOCIATION",
+        "url": "https://www.jcacj.org/about",
         "contact_url": null,
         "meikan_url": "https://gakkai.scj.go.jp/organizations/G00584"
       },
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

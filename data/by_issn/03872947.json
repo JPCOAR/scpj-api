@@ -4,8 +4,12 @@
       "journal_id": "J001179",
       "titles": [
         {
-          "title": "イタリア学会誌　Studi Italici",
+          "title": "イタリア学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Studi Italici",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03872947"
+        },
+        {
+          "type": "electronic",
+          "issn": "24241547"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://studiit.jp/studiitalici.html#tokokitei",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

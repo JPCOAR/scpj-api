@@ -6,6 +6,10 @@
         {
           "title": "Journal of Health Science",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Health Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": "(旧）衛生化学",
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2018/11/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

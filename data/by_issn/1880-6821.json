@@ -6,6 +6,10 @@
         {
           "title": "Plasma and Fusion Research",
           "language": "ja"
+        },
+        {
+          "title": "Plasma and Fusion Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -99,7 +103,7 @@
       ],
       "policy_url": "http://www.jspf.or.jp/PFR/copyright_statement",
       "cdjournal": null,
-      "updated_at": "2021/02/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

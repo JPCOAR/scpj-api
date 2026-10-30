@@ -6,6 +6,10 @@
         {
           "title": "アーカイブズ学研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of the Japan Society for Archival Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "1349578X"
+        },
+        {
+          "type": "print",
+          "issn": "1349578X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24346144"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "http://www.jsas.info/modules/publications01/",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

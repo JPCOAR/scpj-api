@@ -6,6 +6,10 @@
         {
           "title": "日本食品保蔵科学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Food Preservation Science",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/18",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

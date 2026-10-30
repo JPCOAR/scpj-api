@@ -6,14 +6,22 @@
         {
           "title": "通訳研究",
           "language": "ja"
+        },
+        {
+          "title": "Interpretation studies: The Journal of the Japan Association for Interpretation Studies",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Interpretation studies : the journal of the Japan Association for Interpretation Studies",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "13468715"
+        },
+        {
+          "type": "electronic",
+          "issn": "2436861X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://jaits.jp/journal/journal-01/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

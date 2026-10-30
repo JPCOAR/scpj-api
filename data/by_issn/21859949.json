@@ -6,9 +6,13 @@
         {
           "title": "日本マイクロサージャリー学会会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Japanese Society of  Reconstructive Microsurgery",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Japanese Society of Reconstructive Microsurgery",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://jsrm.umin.jp/journal/pdf/posting.pdf",
       "cdjournal": null,
-      "updated_at": "2021/02/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

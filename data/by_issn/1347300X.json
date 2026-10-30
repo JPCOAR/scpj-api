@@ -6,14 +6,22 @@
         {
           "title": "アニメーション研究",
           "language": "ja"
+        },
+        {
+          "title": "The Japanese journal of animation studies",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "The Japanese Journal of Animation Studies",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
           "issn": "1347300X"
+        },
+        {
+          "type": "electronic",
+          "issn": "24351989"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/12/21",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

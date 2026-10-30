@@ -4,9 +4,13 @@
     {
       "title": "イギリス・ロマン派研究",
       "language": "ja"
+    },
+    {
+      "title": "Essays in English Romanticism",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Essays in English Romanticism",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
@@ -101,6 +105,6 @@
   ],
   "policy_url": "https://sites.google.com/site/jaeromanticism/home/submissions",
   "cdjournal": null,
-  "updated_at": "2020/12/21",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

@@ -4,6 +4,10 @@
     {
       "title": "繊維学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Sen'i Gakkaishi",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "00379875"
+    },
+    {
+      "type": "electronic",
+      "issn": "18842259"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/10/23",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

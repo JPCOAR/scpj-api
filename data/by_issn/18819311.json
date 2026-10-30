@@ -6,9 +6,13 @@
         {
           "title": "超音波医学",
           "language": "ja"
+        },
+        {
+          "title": "Japanese Journal of Medical Ultrasonics",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese Journal of Medical Ultrasonics",
+      "journal_title_alias": "Choonpa Igaku",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jsum.or.jp/manuscript/info.html",
       "cdjournal": null,
-      "updated_at": "2021/02/17",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

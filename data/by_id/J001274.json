@@ -4,6 +4,10 @@
     {
       "title": "ロシア語ロシア文学研究",
       "language": "ja"
+    },
+    {
+      "title": "Bulletin of the Japanese Association for the Study of Russian Language and Literature",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -12,6 +16,10 @@
     {
       "type": "print",
       "issn": "03873277"
+    },
+    {
+      "type": "electronic",
+      "issn": "24346373"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +105,6 @@
   ],
   "policy_url": "https://yaar.jpn.org/?page_id=963",
   "cdjournal": null,
-  "updated_at": "2025/03/21",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

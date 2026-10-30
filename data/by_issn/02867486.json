@@ -6,6 +6,10 @@
         {
           "title": "比較眼科研究",
           "language": "ja"
+        },
+        {
+          "title": "Animal Eye Research",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "02867486"
+        },
+        {
+          "type": "electronic",
+          "issn": "21858446"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://www.jscvo.jp/journal/index.html",
       "cdjournal": null,
-      "updated_at": "2021/02/24",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

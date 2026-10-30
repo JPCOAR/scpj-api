@@ -6,6 +6,10 @@
         {
           "title": "ペドロジスト",
           "language": "ja"
+        },
+        {
+          "title": "Pedologist",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00314064"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897336"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2012/06/26",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

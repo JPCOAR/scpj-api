@@ -4,6 +4,10 @@
     {
       "title": "日本輸血細胞治療学会誌",
       "language": "ja"
+    },
+    {
+      "title": "Japanese Journal of Transfusion and Cell Therapy",
+      "language": "en"
     }
   ],
   "journal_title_alias": "(旧)日本輸血学会雑誌",
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/10/20",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

@@ -4,8 +4,12 @@
       "journal_id": "J001015",
       "titles": [
         {
-          "title": "Acta Phytotaxonomica et Geobotanica (APG)",
+          "title": "Acta Phytotaxonomica et Geobotanica",
           "language": "ja"
+        },
+        {
+          "title": "Acta Phytotaxonomica et Geobotanica",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13467565"
+        },
+        {
+          "type": "electronic",
+          "issn": "21897042"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "https://e-jsps.com/publications/instructionstoauthorsapg/",
       "cdjournal": null,
-      "updated_at": "2020/12/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

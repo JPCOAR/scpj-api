@@ -4,6 +4,10 @@
     {
       "title": "言語研究",
       "language": "ja"
+    },
+    {
+      "title": "Journal of the Linguistic Society of Japan",
+      "language": "en"
     }
   ],
   "journal_title_alias": "Gengo Kenkyu",
@@ -101,6 +105,6 @@
   ],
   "policy_url": "http://www.ls-japan.org/modules/news/news_doc/tyosakubutu-kitei-j.pdf",
   "cdjournal": null,
-  "updated_at": "2021/01/07",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

@@ -6,6 +6,10 @@
         {
           "title": "Oral Medicine & Pathology",
           "language": "ja"
+        },
+        {
+          "title": "Oral Medicine & Pathology",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://onlinelibrary.wiley.com/page/journal/16000714/homepage/forauthors.html",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

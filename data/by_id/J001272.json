@@ -4,14 +4,26 @@
     {
       "title": "ブロンテ・スタディーズ",
       "language": "ja"
+    },
+    {
+      "title": "Brontë Studies",
+      "language": "en"
     }
   ],
-  "journal_title_alias": "Brontë Studies",
+  "journal_title_alias": null,
   "journal_url": null,
   "issns": [
     {
       "type": "linking",
       "issn": "09138617"
+    },
+    {
+      "type": "print",
+      "issn": "09138617"
+    },
+    {
+      "type": "electronic",
+      "issn": "27582264"
     }
   ],
   "listed_in_doaj": null,
@@ -97,6 +109,6 @@
   ],
   "policy_url": "http://brontesociety.jp/rules/rules.html",
   "cdjournal": null,
-  "updated_at": "2021/03/03",
+  "updated_at": "2026/10/29",
   "sheet_updated_at": null
 }

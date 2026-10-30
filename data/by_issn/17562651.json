@@ -6,6 +6,10 @@
         {
           "title": "The Journal of Biochemistry",
           "language": "ja"
+        },
+        {
+          "title": "The Journal of Biochemistry",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://www.jbsoc.or.jp/journal/guideline",
       "cdjournal": null,
-      "updated_at": "2025/09/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

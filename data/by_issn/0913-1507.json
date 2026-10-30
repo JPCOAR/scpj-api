@@ -6,6 +6,10 @@
         {
           "title": "Studies in Medieval English Language and Literature",
           "language": "ja"
+        },
+        {
+          "title": "Studies in Medieval English Language and Literature",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "09131507"
+        },
+        {
+          "type": "print",
+          "issn": "09131507"
+        },
+        {
+          "type": "electronic",
+          "issn": "24354309"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

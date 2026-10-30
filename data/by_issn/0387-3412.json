@@ -6,6 +6,10 @@
         {
           "title": "近世文藝",
           "language": "ja"
+        },
+        {
+          "title": "Kinsei Bungei",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "03873412"
+        },
+        {
+          "type": "electronic",
+          "issn": "24321508"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.kinseibungakukai.com/doc/toko.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

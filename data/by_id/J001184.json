@@ -4,6 +4,10 @@
     {
       "title": "憲法論叢",
       "language": "ja"
+    },
+    {
+      "title": "Constitutional law review",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -25,9 +29,9 @@
   "applicability": null,
   "society": {
     "id": "S000986",
-    "name": "関西憲法研究会",
-    "name_en": null,
-    "url": null,
+    "name": "関西法政治研究会",
+    "name_en": "Kansai Law and Politics Association",
+    "url": "https://sites.google.com/site/kanhouseiken/",
     "contact_url": null,
     "meikan_url": null
   },
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2010/03/12",
+  "updated_at": "2026/10/27",
   "sheet_updated_at": null
 }

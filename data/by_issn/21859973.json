@@ -6,9 +6,13 @@
         {
           "title": "農林業問題研究",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Rural Problems",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Rural Problems",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "http://a-rafe.org/4/2/115",
       "cdjournal": null,
-      "updated_at": "2021/02/25",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

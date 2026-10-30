@@ -6,6 +6,10 @@
         {
           "title": "シェリング年報",
           "language": "ja"
+        },
+        {
+          "title": "Schelling-Jahrbuch",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": null,
       "cdjournal": null,
-      "updated_at": "2021/03/03",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

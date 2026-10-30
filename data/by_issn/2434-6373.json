@@ -1,19 +1,27 @@
 {
   "items": [
     {
-      "journal_id": "J001083",
+      "journal_id": "J001274",
       "titles": [
         {
-          "title": "日本ストーマ・排泄リハビリテーション学会誌",
+          "title": "ロシア語ロシア文学研究",
           "language": "ja"
+        },
+        {
+          "title": "Bulletin of the Japanese Association for the Study of Russian Language and Literature",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Journal of Japanese Society of Stoma and Continence Rehabilitation",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
           "type": "print",
-          "issn": "09166440"
+          "issn": "03873277"
+        },
+        {
+          "type": "electronic",
+          "issn": "24346373"
         }
       ],
       "listed_in_doaj": null,
@@ -22,12 +30,12 @@
       "non_embargo_oa": null,
       "applicability": null,
       "society": {
-        "id": "S000902",
-        "name": "日本ストーマ・排泄リハビリテーション学会（旧　日本ストーマリハビリテーション学会）",
+        "id": "S001076",
+        "name": "日本ロシア文学会",
         "name_en": null,
-        "url": "http://www.jsscr.jp/",
+        "url": "http://yaar.jpn.org/",
         "contact_url": null,
-        "meikan_url": "https://gakkai.scj.go.jp/organizations/G01083"
+        "meikan_url": null
       },
       "publisher_policy": [
         {
@@ -97,9 +105,9 @@
           }
         }
       ],
-      "policy_url": null,
+      "policy_url": "https://yaar.jpn.org/?page_id=963",
       "cdjournal": null,
-      "updated_at": "2012/01/18",
+      "updated_at": "2026/10/29",
       "sheet_updated_at": null
     }
   ]

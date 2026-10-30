@@ -6,6 +6,10 @@
         {
           "title": "音楽表現学",
           "language": "ja"
+        },
+        {
+          "title": "Bulletin of the Japan Music Expression Society",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,14 @@
         {
           "type": "linking",
           "issn": "13489038"
+        },
+        {
+          "type": "print",
+          "issn": "13489038"
+        },
+        {
+          "type": "electronic",
+          "issn": "24351067"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +111,7 @@
       ],
       "policy_url": "http://www.music-expression.sakura.ne.jp/kikanshi/kikanshi-copyright.html",
       "cdjournal": null,
-      "updated_at": "2010/03/12",
+      "updated_at": "2026/10/30",
       "sheet_updated_at": null
     }
   ]

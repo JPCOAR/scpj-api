@@ -6,9 +6,13 @@
         {
           "title": "日本神経回路学会誌",
           "language": "ja"
+        },
+        {
+          "title": "The Brain & Neural Networks",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "THE BRAIN & NEURAL NETWORKS",
+      "journal_title_alias": null,
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jnns.org/journal/japanese-journal/",
       "cdjournal": null,
-      "updated_at": "2025/03/21",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

@@ -6,6 +6,10 @@
         {
           "title": "歯科医学",
           "language": "ja"
+        },
+        {
+          "title": "Shikaigaku",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "00306150"
+        },
+        {
+          "type": "electronic",
+          "issn": "2189647X"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.osaka-dent.ac.jp/oos/kaisoku.htm",
       "cdjournal": null,
-      "updated_at": "2012/01/11",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

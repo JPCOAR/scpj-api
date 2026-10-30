@@ -2,8 +2,12 @@
   "journal_id": "J001312",
   "titles": [
     {
-      "title": "舞踊学",
+      "title": "舞踊學",
       "language": "ja"
+    },
+    {
+      "title": "Choreologia",
+      "language": "en"
     }
   ],
   "journal_title_alias": null,
@@ -101,6 +105,6 @@
   ],
   "policy_url": null,
   "cdjournal": null,
-  "updated_at": "2012/12/27",
+  "updated_at": "2026/10/30",
   "sheet_updated_at": null
 }

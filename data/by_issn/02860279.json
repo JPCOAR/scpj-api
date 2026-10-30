@@ -6,9 +6,13 @@
         {
           "title": "映像学",
           "language": "ja"
+        },
+        {
+          "title": "Japanese journal of image arts and sciences",
+          "language": "en"
         }
       ],
-      "journal_title_alias": "Japanese journal of image arts and sciences",
+      "journal_title_alias": "eizogaku",
       "journal_url": null,
       "issns": [
         {
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://jasias.jp/journal/image_arts_sciences/instructions_ias",
       "cdjournal": null,
-      "updated_at": "2021/01/07",
+      "updated_at": "2026/10/30",
       "sheet_updated_at": null
     }
   ]

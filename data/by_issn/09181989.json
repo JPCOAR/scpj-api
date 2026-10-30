@@ -6,6 +6,10 @@
         {
           "title": "Cancer",
           "language": "ja"
+        },
+        {
+          "title": "CANCER",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -103,7 +107,7 @@
       ],
       "policy_url": "https://cancer67.webnode.jp/%e6%8a%95%e7%a8%bf%e8%a6%8f%e5%ae%9a/",
       "cdjournal": null,
-      "updated_at": "2021/03/08",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]

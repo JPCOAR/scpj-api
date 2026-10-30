@@ -6,6 +6,10 @@
         {
           "title": "バイオメディカル・ファジィ・システム学会誌",
           "language": "ja"
+        },
+        {
+          "title": "Journal of Biomedical Fuzzy Systems Association",
+          "language": "en"
         }
       ],
       "journal_title_alias": null,
@@ -14,6 +18,10 @@
         {
           "type": "print",
           "issn": "13451537"
+        },
+        {
+          "type": "electronic",
+          "issn": "24242578"
         }
       ],
       "listed_in_doaj": null,
@@ -99,7 +107,7 @@
       ],
       "policy_url": "http://www.bmfsa.org/archive/journal-J/submit.pdf",
       "cdjournal": null,
-      "updated_at": "2010/12/02",
+      "updated_at": "2026/10/27",
       "sheet_updated_at": null
     }
   ]
